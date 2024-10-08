@@ -1,6 +1,5 @@
 **直播源订阅**  
-`live`[`https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u`](https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u)  
-`test`[`https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/main/test.m3u`](https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/main/test.m3u)  
+[`https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u`](https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u)  
 
 **常用图标库**  
 `1.`[`fanmingming/live/tree/main/tv`](https://github.com/fanmingming/live/tree/main/tv)   `代理地址 https://live.fanmingming.com/tv/CCTV1.png`  
@@ -35,4 +34,3 @@
 `1.`[`http://live.kakaxi-1.ink/epg.xml`](http://live.kakaxi-1.ink/epg.xml)  
 `2.`[`https://live.fanmingming.com/e.xml`](https://live.fanmingming.com/e.xml)  
 `3.`[`https://assets.livednow.com/epg.xml`](https://assets.livednow.com/epg.xml)  
-`4.`[`https://epg.112114.xyz/pp.xml.gz`](https://epg.112114.xyz/pp.xml.g)  
