@@ -97,8 +97,6 @@ http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.
 http://[2409:8087:74d9:21::6]/270000001128/9900000513/index.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
 http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000513
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
-http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CGTN.png" group-title="央视频道",CGTN
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000352/index.m3u8?IASHttpSessionId=
 https://0472.org/hls/cgtn.m3u8
@@ -394,15 +392,15 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8
 #EXTINF:-1 tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/北京体育.png" group-title="体育休闲",北京体育
 http://39.134.135.82/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226438/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003870779%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007251163_0%2CEND&GuardEncType=2
 http://114.246.183.121:4022/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/五星体育-light.png" group-title="体育休闲",五星体育
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
+http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/劲爆体育.png" group-title="体育休闲",劲爆体育
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002026/index.m3u8?IASHttpSessionId=
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/五星体育-light.png" group-title="体育休闲",五星体育
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/山东体育-light.png" group-title="体育休闲",山东体育
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000315/index.m3u8?IASHttpSessionId=
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000373/index.m3u8?IASHttpSessionId=
@@ -416,10 +414,10 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031207/1.m3u8
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000120/index.m3u8
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010147/1.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/睛彩竞技2.png" group-title="体育休闲",睛彩竞技
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000119/index.m3u8
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226504/index.m3u8
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226599/index.m3u8
 http://[2409:8087:74f0:22::4]:6410/270000001128/9900000119/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000074
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000119/index.m3u8
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/睛彩篮球2.png" group-title="体育休闲",睛彩篮球
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000118/index.m3u8
 http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226506/index.m3u8
