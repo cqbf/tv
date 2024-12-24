@@ -4,21 +4,25 @@
 **直播源地址**  
 [`我的星标直播源`](https://github.com/stars/cqbf/lists/live-source)  
 
-`1.`[`YueChan/APTV.m3u`](https://github.com/YueChan/Live/blob/main/APTV.m3u)  
-`2.`[`kakaxi-1/ipv6.m3u`](https://github.com/kakaxi-1/IPTV/blob/main/ipv6.m3u)  `来自:`[`live.kakaxi-1.ink`](https://live.kakaxi-1.ink)  
-`3.`[`YanG-1989/Gather.m3u`](https://github.com/YanG-1989/m3u/blob/main/Gather.m3u)  `来自:`[`yang-1989.eu.org`](https://yang-1989.eu.org)  
-`4.`[`fanmingming/ipv6.m3u`](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)  `来自:`[`live.fanmingming.com`](https://live.fanmingming.com)  
-`5.`[`kilvn/iptv.m3u`](https://github.com/kilvn/iptv/blob/master/iptv.m3u)  `来自:`[`live.kilvn.com`](https://live.kilvn.com/)    
-`6.`[`vbskycn/tv`](https://github.com/vbskycn/iptv/tree/master/tv)  `来自:`[`zbds.top`](https://zbds.top)  `关注txt，频道数多于m3u`  
-`7.`[`lalifeier/IPTV.m3u`](https://github.com/lalifeier/IPTV/blob/main/m3u/IPTV.m3u)  `关注河北频道`  
-`8.`[`kimwang1978/live.m3u`](https://github.com/kimwang1978/collect-tv-txt/blob/main/live.m3u)  `关注北京、河北、山东频道`  
-`9.`[`Guovin/result.m3u`](https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u)  `关注北京、河北、山东频道`  
-`10.`[`wwb521/tv.m3u`](https://github.com/wwb521/live/blob/main/tv.m3u)  `提供多源`  
-`11.`[`yuanzl77/live.m3u`](https://github.com/yuanzl77/IPTV/blob/main/live.m3u)  `提供多源`  
+`1.`[`fanmingming`](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)  `来自:`[`live.fanmingming.com`](https://live.fanmingming.com)  
+`2.`[`YanG-1989`](https://github.com/YanG-1989/m3u/blob/main/Gather.m3u)  `来自:`[`yang-1989.eu.org`](https://yang-1989.eu.org)  
+`3.`[`kakaxi-1`](https://github.com/kakaxi-1/IPTV/blob/main/ipv6.m3u)  `来自:`[`live.kakaxi-1.ink`](https://live.kakaxi-1.ink)  
+`4.`[`YueChan`](https://github.com/YueChan/Live/blob/main/APTV.m3u)  
+`5.`[`altn2025`](https://github.com/altn2025/iptv/blob/main/iptv.m3u)  
+`6.`[`Tao-Boy`](https://github.com/Tao-Boy/IPTV/blob/main/IPTV.m3u)  
+
+
+`a.`[`vbskycn`](https://github.com/vbskycn/iptv/tree/master/tv)  `来自:`[`zbds.top`](https://zbds.top)  `关注txt，频道数多于m3u`  
+`b.`[`kilvn`](https://github.com/kilvn/iptv/blob/master/iptv.m3u)  `来自:`[`live.kilvn.com`](https://live.kilvn.com/) `关注地方频道`  
+`c.`[`lalifeier`](https://github.com/lalifeier/IPTV/blob/main/m3u/IPTV.m3u)  `关注河北频道`  
+`d.`[`kimwang1978`](https://github.com/kimwang1978/collect-tv-txt/blob/main/live.m3u)  `关注北京、河北、山东频道`  
+`e.`[`Guovin`](https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u)  `关注北京、河北、山东频道`  
+`f.`[`wwb521`](https://github.com/wwb521/live/blob/main/tv.m3u)  `提供多源`  
+`g.`[`yuanzl77`](https://github.com/yuanzl77/IPTV/blob/main/live.m3u)  `提供多源`  
 
 
 **常用图标库**  
-`1.`[`fanmingming`](https://github.com/fanmingming/live/tree/main/tv) `代理地址 https://live.fanmingming.com/tv/CCTV1.png`  
+`1.`[`fanmingming`](https://github.com/fanmingming/live/tree/main/tv) `代理地址 https://live.fanmingming.cn/tv/CCTV1.png`  
 `2.`[`livednow`](https://assets.livednow.com/guide.html) `卫视首选、求索首选、CETV；央视全透明、NewTV浅色、iHOT备用`  
 `3.`[`drangjchen`](https://github.com/drangjchen/IPTV/tree/main/Logo) `NewTV浅色、iHOT首选、补充重庆卫视、五星体育；央卫、求索深浅备用`  
 `4.`[`echolin73`](https://github.com/echolin73/logo/tree/main/tvg-logo) `补充山西卫视、BesTV、红牛；央视深色备用`  
@@ -27,6 +31,8 @@
 `7.`[`sparkssssssssss`](https://github.com/sparkssssssssss/epg/tree/main/logo) `超级大全，每个频道都有多个版本，且更新及时`  
 
 **EPG地址**  
-`1.`[`https://live.fanmingming.com/e.xml`](https://live.fanmingming.com/e.xml)  
+`1.`[`https://live.fanmingming.cn/e.xml`](https://live.fanmingming.cn/e.xml)  
 `2.`[`https://assets.livednow.com/epg.xml`](https://assets.livednow.com/epg.xml)  
 `3.`[`http://epg.51zmt.top:8000/e.xml`](http://epg.51zmt.top:8000/e.xml)  
+`4.`[`https://live.kakaxi-1.ink/epg.xml`](https://live.kakaxi-1.ink/epg.xml)  
+`5.`[`sparkssssssssss/epg/refs/heads/main/pp.xml`](https://raw.githubusercontent.com/sparkssssssssss/epg/refs/heads/main/pp.xml)
