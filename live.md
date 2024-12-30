@@ -1,9 +1,9 @@
 **直播源订阅**  
-[`https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u`](https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u)  
-[`https://ghp.ci/https://raw.githubusercontent.com/Tao-Boy/IPTV/main/IPTV.m3u`](https://raw.githubusercontent.com/Tao-Boy/IPTV/main/IPTV.m3u)  
-[`https://ghp.ci/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u`](https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u)  
-[`https://ghp.ci/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.m3u`](https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.m3u)  
-[`https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u`](https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u)  
+[`https://ghgo.xyz/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u`](https://ghgo.xyz/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u)  
+[`https://ghgo.xyz/https://raw.githubusercontent.com/Tao-Boy/IPTV/main/IPTV.m3u`](https://ghgo.xyzhttps://raw.githubusercontent.com/Tao-Boy/IPTV/main/IPTV.m3u)  
+[`https://ghgo.xyz/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u`](https://ghgo.xyzhttps://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u)  
+[`https://ghgo.xyz/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.m3u`](https://ghgo.xyzhttps://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.m3u)  
+[`https://ghgo.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u`](https://ghgo.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u)  
 
 **直播源地址**  
 [`我的星标直播源`](https://github.com/stars/cqbf/lists/live-source)  
