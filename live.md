@@ -1,7 +1,7 @@
 **直播源订阅**  
-`1.`[`https://raw.githubusercontent.com/cqbf/tv/main/live.m3u`](https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u)  
-`2.`[`https://raw.githubusercontent.com/Tao-Boy/IPTV/main/IPTV.m3u`](https://ghproxy.net/https://raw.githubusercontent.com/Tao-Boy/IPTV/main/IPTV.m3u)  
-`3.`[`https://live.kakaxi-1.ink/ipv6.m3u`](https://live.kakaxi-1.ink/ipv6.m3u)
+`1.`[`cqbf/live.m3u`](https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u)  
+`2.`[`cqbf/zhibo.m3u`](https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/main/zhibo.m3u)  
+`3.`[`Tao-Boy/IPTV.m3u`](https://ghproxy.net/https://raw.githubusercontent.com/Tao-Boy/IPTV/main/IPTV.m3u)  
 
 **直播源地址**  
 [`我的星标直播源`](https://github.com/stars/cqbf/lists/live-source)  
@@ -10,7 +10,7 @@
 `2.`[`Tao-Boy`](https://github.com/Tao-Boy/IPTV/blob/main/IPTV.m3u)  `fanmingming精简版，非常好`  
 `3.`[`fanmingming`](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)  `来自:`[`live.fanmingming.cn`](https://live.fanmingming.cn)  
 `4.`[`YanG-1989`](https://github.com/YanG-1989/m3u/blob/main/Gather.m3u)  `来自:`[`yang-1989.eu.org`](https://yang-1989.eu.org)  
-`5.`[`YueChan`](https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u)  `APTV、IPTV多次变动，也不再提供IPV6源`
+`5.`[`YueChan`](https://github.com/YueChan/Live/blob/main/APTV.m3u)  `APTV、IPTV多次变动`
 
 `a.`[`vbskycn`](https://github.com/vbskycn/iptv/tree/master/tv)  `来自:`[`zbds.top`](https://zbds.top)  `关注txt，频道数多于m3u`  
 `b.`[`kilvn`](https://github.com/kilvn/iptv/blob/master/iptv.m3u)  `来自:`[`live.kilvn.com`](https://live.kilvn.com/) `关注地方频道`  
