@@ -739,8 +739,8 @@ http://111.29.9.33:6610/000000001000/1000000002000013359/index.m3u8?channel-id=b
 http://111.63.117.13:6060/030000001000/G_QINGHAI/G_QINGHAI.m3u8
 
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
-http://39.134.67.108/PLTV/88888888/224/3221225951/1.m3u8
 http://39.135.133.162:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225951/1.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 http://php.jdshipin.com:8880/xztv.php?id=ws
@@ -779,10 +779,8 @@ http://39.135.133.174:80/wh7f454c46tw781132955_758128089/ottrrs.hl.chinamobile.c
 http://111.29.9.34:6610/000000001000/5000000011000265008/index.m3u8?channel-id=bestzb&Contentid=5000000011000265008&livemode=1&stbId=YanG-1989
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/金鹰卡通.png" group-title="少儿频道",金鹰卡通
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-http://111.29.9.34:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=YanG-1989
 http://111.29.9.33:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
-http://phonetx.qing.mgtv.com/nn_live/nn_x64/8.8&/JYKTMPP360.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/优漫卡通2.png" group-title="少儿频道",优漫卡通
 http://39.135.133.157:80/wh7f454c46tw889675248_-1288226663/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 http://111.29.9.34:6610/000000001000/1000000002000010063/index.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=YanG-1989
@@ -790,7 +788,6 @@ http://111.29.9.34:6610/000000001000/1000000002000010063/index.m3u8?channel-id=y
 http://111.29.9.34:6610/000000001000/1000000002000025964/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/哈哈炫动2.png" group-title="少儿频道",哈哈炫动
 http://39.135.133.180:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
-http://39.135.133.180:80/wh7f454c46tw724942278_-1162497944/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 http://111.29.9.34:6610/000000001000/5000000011000031123/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031123
 http://111.29.9.33:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/黑莓动画.png" group-title="少儿频道",黑莓动画
@@ -802,8 +799,7 @@ http://111.29.9.34:6610/000000001000/1000000004000021734/index.m3u8?livemode=1&s
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/动漫秀场-light.png" group-title="少儿频道",动漫秀场
 http://180.213.174.225:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.29.9.33:6610/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
-http://111.29.9.34:6610/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-id="iHOT爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/iHOT爱动漫.png" group-title="体育频道",iHOT爱动漫
+#EXTINF:-1 tvg-id="iHOT爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/iHOT爱动漫.png" group-title="少儿频道",iHOT爱动漫
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.cn/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
@@ -889,26 +885,26 @@ http://124.128.73.58:9901/tsfile/live/1001_1.m3u8
 http://123.132.233.194:352/tsfile/live/1001_1.m3u8
 http://111.14.181.15:9901/tsfile/live/1022_1.m3u8
 http://123.130.84.106:8154/tsfile/live/1006_1.m3u8
-#EXTINF:-1 tvg-id="广东体育 " tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="数字频道",广东体育
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="体育频道",广东体育
 http://222.128.55.152:9080/live/gdty.m3u8
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/睛彩青少.png" group-title="体育频道",睛彩青少x
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221226031/1.m3u8
 http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/睛彩竞技2.png" group-title="体育频道",睛彩竞技
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225897/1.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/睛彩篮球2.png" group-title="体育频道",睛彩篮球
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225895/1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221226027/1.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/睛彩广场舞2.png" group-title="体育频道",睛彩广场舞
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221226046/1.m3u8
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CCTV-风云足球-white.png" group-title="体育频道",风云足球
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CCTV-风云足球-white.png" group-title="体育频道",风云足球x
 http://111.61.236.247:9081/hls/58/index.m3u8
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/魅力足球.png" group-title="体育频道",魅力足球
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/魅力足球.png" group-title="体育频道",魅力足球x
 http://39.134.65.73:80/PLTV/88888888/224/3221225635/1.m3u8
 
 #EXTINF:-1 tvg-id="超级体育" tvg-name="超级体育" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/NEWTV超级体育-light.png" group-title="体育频道",超级体育
@@ -937,7 +933,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="数字频道",纪实科教
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
-http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 http://111.29.9.37:6610/000000001000/1000000001000028380/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028380&livemode=1&stbId=3
 http://111.29.9.40:6610/000000001000/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=3
 http://111.29.9.34:6610/000000001000/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=YanG-1989
@@ -951,15 +946,6 @@ http://phonetx.qing.mgtv.com/nn_live/nn_x64/8.8&/JYJSMPP360.m3u8
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/第一财经-light.png" group-title="数字频道",第一财经x
-http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
-
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/东方财经.png" group-title="数字频道",东方财经x
-http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
-
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/欢笑剧场.png" group-title="数字频道",欢笑剧场x
-http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
-
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/黑莓电影.png" group-title="数字频道",黑莓电影
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
@@ -1105,15 +1091,6 @@ http://39.135.133.157:80/PLTV/88888888/224/3221225571/1.m3u8
 #EXTINF:-1 tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/NEWTV精品萌宠-light.png" group-title="数字频道",精品萌宠
 http://111.29.9.34:6610/000000001000/1000000006000032328/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000032328
 
-
-#EXTINF:-1 tvg-id="人在囧途" tvg-name="人在囧途" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="数字频道",人在囧途
+#EXTINF:-1 tvg-id="温馨提示" tvg-name="温馨提示" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="数字频道",失效频道标记x符号，播放《人在囧途》
 http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
-#EXTINF:-1 tvg-id="泰囧" tvg-name="泰囧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="数字频道", 泰囧
-https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
-#EXTINF:-1 tvg-id="港囧" tvg-name="港囧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="数字频道", 港囧
-https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
-#EXTINF:-1 tvg-id="囧妈" tvg-name="囧妈" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="数字频道", 囧妈
-https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8
 
-#EXTINF:-1 tvg-id="失效频道" tvg-name="失效频道" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="数字频道",失效频道标记x符号
-https://live.kakaxi-1.ink/LOGO/Disclaimer.mp4
