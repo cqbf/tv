@@ -3,17 +3,17 @@
 [`https://raw.githubusercontent.com/cqbf/tv/main/live.m3u`](https://raw.githubusercontent.com/cqbf/tv/main/live.m3u)  
 
 **直播源地址**  
-`a.`[`YueChan`](https://github.com/YueChan/Live/blob/main/APTV.m3u)  
-`b.`[`YanG-1989`](https://github.com/YanG-1989/m3u/blob/main/Gather.m3u)  `来自:`[`yang-1989.eu.org`](https://yang-1989.eu.org)  
-`c.`[`fanmingming`](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)  `来自:`[`live.fanmingming.cn`](https://live.fanmingming.cn)  
-`d.`[`Tao-Boy`](https://github.com/Tao-Boy/IPTV/blob/main/IPTV.m3u)  `fanmingming精简版，非常好`  
-`e.`[`kakaxi-1`](https://github.com/kakaxi-1/IPTV/blob/main/ipv6.m3u)  `来自:`[`live.kakaxi-1.ink`](https://live.kakaxi-1.ink)  
-`f.`[`vbskycn`](https://github.com/vbskycn/iptv/tree/master/tv)  `来自:`[`zbds.top`](https://zbds.top)  `关注txt，频道数多于m3u`  
-`g.`[`kilvn`](https://github.com/kilvn/iptv/blob/master/iptv.m3u)  `来自:`[`live.kilvn.com`](https://live.kilvn.com/) `关注地方频道`  
-`h.`[`lalifeier`](https://github.com/lalifeier/IPTV/blob/main/m3u/IPTV.m3u)  `关注河北频道`  
-`i.`[`kimwang1978`](https://github.com/kimwang1978/collect-tv-txt/blob/main/live.m3u)  `关注北京、河北、山东频道`  
-`j.`[`yuanzl77`](https://github.com/yuanzl77/IPTV/blob/main/live.m3u)  `提供多源,ipv4&6`  
-`k.`[`jiangnan1224`](https://github.com/jiangnan1224/iptv_ipv4_live/blob/main/live_ipv4.txt)   `提供ipv4源`  
+`a.`[`Tao-Boy`](https://github.com/Tao-Boy/IPTV/blob/main/IPTV.m3u)  `fanmingming精简版，非常好`  
+`b.`[`fanmingming`](https://github.com/fanmingming/live/blob/main/tv/m3u)  `来自:`[`live.fanmingming.com`](https://live.fanmingming.com)  
+`c.`[`kakaxi-1`](https://github.com/kakaxi-1/IPTV)  `来自:`[`live.kakaxi-1.ink`](https://live.kakaxi-1.ink)  
+`d.`[`vbskycn`](https://github.com/vbskycn/iptv/tree/master/tv)  `来自:`[`zbds.top`](https://zbds.top) `txt频道数量多于m3u`  
+`e.`[`peterHchina`](https://github.com/peterHchina/iptv) `集fanmingming、YanG之大成者`  
+`f.`[`wwb521`](https://github.com/wwb521/live/blob/main/tv.m3u) `提供IPTV直播源，还提供Json支持TVBox`  
+`g.`[`kilvn`](https://github.com/kilvn/iptv/blob/master/iptv.m3u) `来自:`[`live.kilvn.com`](https://live.kilvn.com/)  
+`h.`[`lalifeier`](https://github.com/lalifeier/IPTV/blob/main/m3u/IPTV.m3u)  `关注地方频道`  
+`i.`[`kimwang1978`](https://github.com/kimwang1978/collect-tv-txt/blob/main/live.m3u)  `来自:`[`iptv365.org`](https://iptv365.org/)  
+`j.`[`yuanzl77`](https://github.com/yuanzl77/IPTV/blob/main/live.m3u) `来自:`[`yuanzl77.github.io`](https://yuanzl77.github.io/)  
+`k.`[`jiangnan1224`](https://github.com/jiangnan1224/iptv_ipv4_live/blob/main/live_ipv4.txt)   `只提供ipv4源`  
 
 **EPG地址**  
 `1.`[`https://assets.livednow.com/epg.xml`](https://assets.livednow.com/epg.xml)  
