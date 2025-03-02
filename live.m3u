@@ -874,22 +874,27 @@ http://39.135.133.177:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100
 #EXTINF:-1 tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/北京体育.png" group-title="体育频道",北京体育x
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
 
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/五星体育-light.png" group-title="体育频道",五星体育x
-http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
-
-#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/劲爆体育.png" group-title="体育频道",劲爆体育x
-http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
-
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/五星体育-light.png" group-title="体育频道",五星体育
+http://live4play.uk/livehttpplay?channel_id=20060
+https://stream1.freetv.fun/wu-xing-ti-yu-1.m3u8
+https://stream1.freetv.fun/wu-xing-ti-yu-3.m3u8
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/劲爆体育.png" group-title="体育频道",劲爆体育
+http://119.32.12.17:2901/udp/224.1.100.129:11111
+http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111
+http://qjrhc.jydjd.top:2911/udp/224.1.100.130:11111
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/山东体育.png" group-title="体育频道",山东体育
 http://124.128.73.58:9901/tsfile/live/1001_1.m3u8
 http://123.132.233.194:352/tsfile/live/1001_1.m3u8
 http://111.14.181.15:9901/tsfile/live/1022_1.m3u8
 http://123.130.84.106:8154/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="体育频道",广东体育
-http://222.128.55.152:9080/live/gdty.m3u8
-#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/睛彩青少.png" group-title="体育频道",睛彩青少x
-http://39.134.67.108/PLTV/88888888/224/3221226031/1.m3u8
+http://cdn2.163189.xyz/live/gdty/stream.m3u8
+http://cdn2.132.us.kg/live/gdty/stream.m3u8
+http://183.3.134.56:9901/tsfile/live/0142_1.m3u8
+http://125.89.163.44:8888/udp/239.77.0.112:5146
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/睛彩青少.png" group-title="体育频道",睛彩青少
 http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221226031/1.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/睛彩竞技2.png" group-title="体育频道",睛彩竞技
 http://39.134.67.108/PLTV/88888888/224/3221225897/1.m3u8
@@ -902,11 +907,13 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/睛彩广场舞2.png" group-title="体育频道",睛彩广场舞
 http://39.134.67.108/PLTV/88888888/224/3221226046/1.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CCTV-风云足球-white.png" group-title="体育频道",风云足球x
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CCTV-风云足球-white.png" group-title="体育频道",风云足球
+http://202.102.201.244:40022/rtp/238.1.79.57:4592
 http://111.61.236.247:9081/hls/58/index.m3u8
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/魅力足球.png" group-title="体育频道",魅力足球x
-http://39.134.65.73:80/PLTV/88888888/224/3221225635/1.m3u8
-
+http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
+http://180.213.174.225:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/魅力足球.png" group-title="体育频道",魅力足球
+http://qjrhc.jydjd.top:2911/udp/224.1.100.133:11111
 #EXTINF:-1 tvg-id="超级体育" tvg-name="超级体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/NEWTV超级体育-light.png" group-title="体育频道",超级体育
 http://39.134.65.73:80/PLTV/88888888/224/3221225635/1.m3u8
 http://39.135.133.157:80/PLTV/88888888/224/3221225635/1.m3u8
@@ -923,9 +930,6 @@ http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 http://111.29.9.35:6610/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
 http://111.29.9.34:6610/000000001000/1000000004000014634/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000014634
-#EXTINF:-1 tvg-id="iHOT爱体育" tvg-name="iHOT爱体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/iHOT爱体育.png" group-title="体育频道",iHOT爱体育x
-http://39.135.133.154:80/PLTV/88888888/224/3221225526/1.m3u8
-
 #EXTINF:-1 tvg-id="武搏世界" tvg-name="武搏世界" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/NEWTV武搏世界-light.png" group-title="体育频道",武搏世界
 http://39.135.133.157:80/PLTV/88888888/224/3221225547/1.m3u8
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
