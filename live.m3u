@@ -353,6 +353,7 @@ http://111.63.117.13:6060/030000001000/G_CCTV-17/G_CCTV17.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225510/1.m3u8
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 https://0472.org/hls/cgtn.m3u8
+
 #EXTINF:-1 tvg-id="CGTN记录" tvg-name="CGTN纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CGTN记录.png" group-title="央视频道",CGTN-记录
 http://39.134.67.108/PLTV/88888888/224/3221225509/1.m3u8
 http://39.135.133.160:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
@@ -756,6 +757,12 @@ http://39.134.67.108/PLTV/88888888/224/3221226005/1.m3u8
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 http://110.80.17.38:9901/tsfile/live/0015_1.m3u8
 
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
+https://tv.bfsu.edu.cn/hls/fhzw.m3u8
+
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
+https://tv.bfsu.edu.cn/hls/fhzx.m3u8
+
 
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CCTV14-white.png" group-title="少儿频道",CCTV-14
 http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
@@ -808,17 +815,23 @@ https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733ce
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 http://112.101.78.50:9901/tsfile/live/1017_1.m3u8
+https://tv.bfsu.edu.cn/hls/sdetv.m3u8
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CETV1.png" group-title="少儿频道",中国教育1台
 http://39.134.67.108/PLTV/88888888/224/3221225563/1.m3u8
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+https://tv.bfsu.edu.cn/hls/cetv1.m3u8
 #EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CETV2.png" group-title="少儿频道",中国教育2台
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CETV3.png" group-title="少儿频道",中国教育3台
+https://tv.bfsu.edu.cn/hls/cetv3.m3u8
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CETV4.png" group-title="少儿频道",中国教育4台
 http://39.134.67.108/PLTV/88888888/224/3221225750/1.m3u8
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 http://111.29.9.34:6610/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=
+https://tv.bfsu.edu.cn/hls/cetv4.m3u8
 
 
+#EXTINF:0,山东教育卫视
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CCTV5-white.png" group-title="体育频道",CCTV-5
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -866,16 +879,19 @@ http://39.135.133.177:80/TVOD/88888888/224/3221225893/main.m3u8
 http://39.135.133.177:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CCTV-风云足球-white.png" group-title="体育频道",风云足球
 http://202.102.201.244:40022/rtp/238.1.79.57:4592
+http://171.88.141.125:4000/udp/239.93.0.197:9040
 http://111.61.236.247:9081/hls/58/index.m3u8
 http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
 http://180.213.174.225:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/北京体育.png" group-title="体育频道",北京体育
+https://tv.bfsu.edu.cn/bfsu/play/btv11hd
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/劲爆体育.png" group-title="体育频道",劲爆体育
-http://154.7.177.5:5000/TVOD/2000000002000000008/hnbblive/index.m3u8?
 http://152.69.209.202:7777/TVOD/5000000002000029972/bestzb/index.m3u8
+http://154.7.177.5:5000/TVOD/2000000002000000008/hnbblive/index.m3u8?
 http://119.32.12.17:2901/udp/224.1.100.129:11111
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/五星体育-light.png" group-title="体育频道",五星体育
-http://222.67.193.245:9898/udp/239.45.3.210:5140
 http://152.69.209.202:7777/TVOD/5000000010000017540/bestzb/index.m3u8
+http://222.67.193.245:9898/udp/239.45.3.210:5140
 http://154.53.164.86:5000/TVOD/5000000010000017540/bestzb/index.m3u8
 http://154.7.177.5:5000/TVOD/2000000002000000007/hnbblive/index.m3u8?
 http://154.7.177.5:5000/TVOD/5000000010000017540/bestzb/index.m3u8?
@@ -922,7 +938,19 @@ http://39.135.133.157:80/PLTV/88888888/224/3221225547/1.m3u8
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="数字频道",纪实科教
+
+#EXTINF:0 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://live.kakaxi-1.ink/LOGO/北京文艺.png" group-title="数字频道",北京文艺
+https://tv.bfsu.edu.cn/hls/btv2hd.m3u8
+#EXTINF:0 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://live.kakaxi-1.ink/LOGO/北京影视.png" group-title="数字频道",北京影视
+https://tv.bfsu.edu.cn/hls/btv4hd.m3u8
+#EXTINF:0 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://live.kakaxi-1.ink/LOGO/北京财经.png" group-title="数字频道",北京财经
+https://tv.bfsu.edu.cn/hls/btv5hd.m3u8
+#EXTINF:0 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://live.kakaxi-1.ink/LOGO/北京生活.png" group-title="数字频道",北京生活
+https://tv.bfsu.edu.cn/hls/btv7hd.m3u8
+#EXTINF:0 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://live.kakaxi-1.ink/LOGO/北京新闻.png" group-title="数字频道",北京新闻
+https://tv.bfsu.edu.cn/hls/btv9hd.m3u8
+#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实科教" tvg-logo="https://live.kakaxi-1.ink/LOGO/北京纪实科教.png" group-title="数字频道",纪实科教
+https://tv.bfsu.edu.cn/hls/btv3hd.m3u8
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 http://111.29.9.37:6610/000000001000/1000000001000028380/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028380&livemode=1&stbId=3
 http://111.29.9.40:6610/000000001000/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=3
