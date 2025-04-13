@@ -1,0 +1,137 @@
+#EXTM3U x-tvg-url="https://live.kakaxi-1.ink/epg.xml","https://assets.livednow.com/epg.xml"
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-id="CCTV1" tvg-logo="https://livecdn.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
+http://120.24.172.11:50001/gaoma/cctv1.m3u8
+http://131.186.40.172:15002/gaoma/cctv1.m3u8
+http://114.32.59.86:7000/gaoma/cctv1.m3u8
+http://223.199.176.227:35455/gaoma/cctv1.m3u8
+http://119.179.15.49:35455/gaoma/cctv1.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-id="CCTV2" tvg-logo="https://livecdn.zbds.top/logo/CCTV2.png" group-title="央视频道", CCTV2
+http://120.24.172.11:50001/gaoma/cctv2.m3u8
+http://131.186.40.172:15002/gaoma/cctv2.m3u8
+http://114.32.59.86:7000/gaoma/cctv2.m3u8
+http://223.199.176.227:35455/gaoma/cctv2.m3u8
+http://119.179.15.49:35455/gaoma/cctv2.m3u8
+http://129.146.6.71:35455/gaoma/cctv2.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-id="CCTV3" tvg-logo="https://livecdn.zbds.top/logo/CCTV3.png" group-title="央视频道", CCTV3
+http://120.24.172.11:50001/gaoma/cctv3.m3u8
+http://131.186.40.172:15002/gaoma/cctv3.m3u8
+http://114.32.59.86:7000/gaoma/cctv3.m3u8
+http://223.199.176.227:35455/gaoma/cctv3.m3u8
+http://119.179.15.49:35455/gaoma/cctv3.m3u8
+http://23.106.158.19:35455/gaoma/cctv3.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-id="CCTV4" tvg-logo="https://livecdn.zbds.top/logo/CCTV4.png" group-title="央视频道", CCTV4
+http://120.24.172.11:50001/gaoma/cctv4.m3u8
+http://131.186.40.172:15002/gaoma/cctv4.m3u8
+http://114.32.59.86:7000/gaoma/cctv4.m3u8
+http://223.199.176.227:35455/gaoma/cctv4.m3u8
+http://119.179.15.49:35455/gaoma/cctv4.m3u8
+http://36.105.100.208:35455/gaoma/cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-id="CCTV5" tvg-logo="https://livecdn.zbds.top/logo/CCTV5.png" group-title="央视频道", CCTV5
+http://120.24.172.11:50001/gaoma/cctv5.m3u8
+http://131.186.40.172:15002/gaoma/cctv5.m3u8
+http://114.32.59.86:7000/gaoma/cctv5.m3u8
+http://223.199.176.227:35455/gaoma/cctv5.m3u8
+http://119.179.15.49:35455/gaoma/cctv5.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-id="CCTV5+" tvg-logo="https://livecdn.zbds.top/logo/CCTV5+.png" group-title="央视频道", CCTV5+
+http://120.24.172.11:50001/gaoma/cctv5p.m3u8
+http://131.186.40.172:15002/gaoma/cctv5p.m3u8
+http://114.32.59.86:7000/gaoma/cctv5p.m3u8
+http://223.199.176.227:35455/gaoma/cctv5p.m3u8
+http://119.179.15.49:35455/gaoma/cctv5p.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-id="CCTV6" tvg-logo="https://livecdn.zbds.top/logo/CCTV6.png" group-title="央视频道", CCTV6
+http://120.24.172.11:50001/gaoma/cctv6.m3u8
+http://131.186.40.172:15002/gaoma/cctv6.m3u8
+http://114.32.59.86:7000/gaoma/cctv6.m3u8
+http://223.199.176.227:35455/gaoma/cctv6.m3u8
+http://119.179.15.49:35455/gaoma/cctv6.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="CCTV7" tvg-logo="https://livecdn.zbds.top/logo/CCTV7.png" group-title="央视频道", CCTV7
+http://120.24.172.11:50001/gaoma/cctv7.m3u8
+http://131.186.40.172:15002/gaoma/cctv7.m3u8
+http://114.32.59.86:7000/gaoma/cctv7.m3u8
+http://223.199.176.227:35455/gaoma/cctv7.m3u8
+http://119.179.15.49:35455/gaoma/cctv7.m3u8
+http://36.105.100.208:35455/gaoma/cctv7.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-id="CCTV8" tvg-logo="https://livecdn.zbds.top/logo/CCTV8.png" group-title="央视频道", CCTV8
+http://120.24.172.11:50001/gaoma/cctv8.m3u8
+http://131.186.40.172:15002/gaoma/cctv8.m3u8
+http://114.32.59.86:7000/gaoma/cctv8.m3u8
+http://223.199.176.227:35455/gaoma/cctv8.m3u8
+http://119.179.15.49:35455/gaoma/cctv8.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="CCTV9" tvg-logo="https://livecdn.zbds.top/logo/CCTV9.png" group-title="央视频道", CCTV9
+http://120.24.172.11:50001/gaoma/cctv9.m3u8
+http://131.186.40.172:15002/gaoma/cctv9.m3u8
+http://114.32.59.86:7000/gaoma/cctv9.m3u8
+http://223.199.176.227:35455/gaoma/cctv9.m3u8
+http://119.179.15.49:35455/gaoma/cctv9.m3u8
+http://home.kuaidi521.com:35455/gaoma/cctv9.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-id="CCTV10" tvg-logo="https://livecdn.zbds.top/logo/CCTV10.png" group-title="央视频道", CCTV10
+http://120.24.172.11:50001/gaoma/cctv10.m3u8
+http://131.186.40.172:15002/gaoma/cctv10.m3u8
+http://114.32.59.86:7000/gaoma/cctv10.m3u8
+http://223.199.176.227:35455/gaoma/cctv10.m3u8
+http://119.179.15.49:35455/gaoma/cctv10.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-id="CCTV11" tvg-logo="https://livecdn.zbds.top/logo/CCTV11.png" group-title="央视频道", CCTV11
+http://120.24.172.11:50001/gaoma/cctv11.m3u8
+http://131.186.40.172:15002/gaoma/cctv11.m3u8
+http://114.32.59.86:7000/gaoma/cctv11.m3u8
+http://223.199.176.227:35455/gaoma/cctv11.m3u8
+http://119.179.15.49:35455/gaoma/cctv11.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-id="CCTV12" tvg-logo="https://livecdn.zbds.top/logo/CCTV12.png" group-title="央视频道", CCTV12
+http://120.24.172.11:50001/gaoma/cctv12.m3u8
+http://131.186.40.172:15002/gaoma/cctv12.m3u8
+http://114.32.59.86:7000/gaoma/cctv12.m3u8
+http://223.199.176.227:35455/gaoma/cctv12.m3u8
+http://119.179.15.49:35455/gaoma/cctv12.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-id="CCTV13" tvg-logo="https://livecdn.zbds.top/logo/CCTV13.png" group-title="央视频道", CCTV13
+http://120.24.172.11:50001/gaoma/cctv13.m3u8
+http://131.186.40.172:15002/gaoma/cctv13.m3u8
+http://114.32.59.86:7000/gaoma/cctv13.m3u8
+http://223.199.176.227:35455/gaoma/cctv13.m3u8
+http://119.179.15.49:35455/gaoma/cctv13.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-id="CCTV14" tvg-logo="https://livecdn.zbds.top/logo/CCTV14.png" group-title="央视频道", CCTV14
+http://120.24.172.11:50001/gaoma/cctv14.m3u8
+http://131.186.40.172:15002/gaoma/cctv14.m3u8
+http://114.32.59.86:7000/gaoma/cctv14.m3u8
+http://223.199.176.227:35455/gaoma/cctv14.m3u8
+http://119.179.15.49:35455/gaoma/cctv14.m3u8
+http://36.105.100.208:35455/gaoma/cctv14.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-id="CCTV15" tvg-logo="https://livecdn.zbds.top/logo/CCTV15.png" group-title="央视频道", CCTV15
+http://120.24.172.11:50001/gaoma/cctv15.m3u8
+http://131.186.40.172:15002/gaoma/cctv15.m3u8
+http://114.32.59.86:7000/gaoma/cctv15.m3u8
+http://223.199.176.227:35455/gaoma/cctv15.m3u8
+http://119.179.15.49:35455/gaoma/cctv15.m3u8
+http://124.243.178.131:35455/gaoma/cctv15.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-id="CCTV16" tvg-logo="https://livecdn.zbds.top/logo/CCTV16.png" group-title="央视频道", CCTV16
+http://120.24.172.11:50001/gaoma/cctv16.m3u8
+http://131.186.40.172:15002/gaoma/cctv16.m3u8
+http://114.32.59.86:7000/gaoma/cctv16.m3u8
+http://223.199.176.227:35455/gaoma/cctv16.m3u8
+http://119.179.15.49:35455/gaoma/cctv16.m3u8
+http://23.106.158.19:35455/gaoma/cctv16.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-id="CCTV16" tvg-logo="https://livecdn.zbds.top/logo/CCTV16.png" group-title="央视频道", CCTV16
+http://120.24.172.11:50001/gaoma/cctv4k16.m3u8
+http://131.186.40.172:15002/gaoma/cctv4k16.m3u8
+http://114.32.59.86:7000/gaoma/cctv4k16.m3u8
+http://223.199.176.227:35455/gaoma/cctv4k16.m3u8
+http://119.179.15.49:35455/gaoma/cctv4k16.m3u8
+http://23.106.158.19:35455/gaoma/cctv4k16.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-id="CCTV17" tvg-logo="https://livecdn.zbds.top/logo/CCTV17.png" group-title="央视频道", CCTV17
+http://120.24.172.11:50001/gaoma/cctv17.m3u8
+http://131.186.40.172:15002/gaoma/cctv17.m3u8
+http://114.32.59.86:7000/gaoma/cctv17.m3u8
+http://223.199.176.227:35455/gaoma/cctv17.m3u8
+http://119.179.15.49:35455/gaoma/cctv17.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CGTN.png" group-title="央视频道",CGTN
+http://120.24.172.11:50001/gaoma/cgtnen.m3u8
+http://131.186.40.172:15002/gaoma/cctven.m3u8
+http://114.32.59.86:7000/gaoma/cctven.m3u8
+http://223.199.176.227:35455/gaoma/cctven.m3u8
+http://119.179.15.49:35455/gaoma/cctven.m3u8
+#EXTINF:-1 tvg-id="CGTN记录" tvg-name="CGTN纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CGTN记录.png" group-title="央视频道",CGTN-记录
+http://120.24.172.11:50001/gaoma/cgtndoc.m3u8
+http://131.186.40.172:15002/gaoma/cctvdoc.m3u8
+http://114.32.59.86:7000/gaoma/cctvdoc.m3u8
+http://223.199.176.227:35455/gaoma/cctvdoc.m3u8
+http://119.179.15.49:35455/gaoma/cctvdoc.m3u8
