@@ -1,7 +1,7 @@
 `本git不生产任何资源，是网络资源的搬运工，整理自用，请勿订阅。`  `感谢大佬们的付出，侵权必删！`  
 
 **直播源订阅**  
-`github加速代理` [`https://ghproxy.net/`](https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u) 或 [`https://ghfast.top/`](https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u) 或 [`https://gh-proxy.com/`](https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/main/live.m3u)  
+`github加速代理` [`https://ghproxy.net/`](https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u) 或 [`https://ghfast.top/`](https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u) 或 [`https://gh-proxy.com/`](https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u)  
 
 **直播源地址**  
 `1.`[`Tao-Boy`](https://github.com/Tao-Boy/IPTV/blob/main/IPTV.m3u)  `fanmingming-ipv6精简版，非常好用`  
@@ -13,7 +13,7 @@
 `7.`[`lalifeier`](https://github.com/lalifeier/IPTV/blob/main/m3u/IPTV.m3u)  `大容量源，关注地方频道/体育频道`  
 
 **节目单地址**  
-`1.`[`https://assets.livednow.com/epg.xml`](https://assets.livednow.com/epg.xml)  
+`1.`[`https://live.fanmingming.cn/e.xml`](https://live.fanmingming.cn/e.xml)  
 `2.`[`https://live.kakaxi-1.ink/epg.xml`](https://live.kakaxi-1.ink/epg.xml)  
 `3.`[`http://epg.51zmt.top:8000/e.xml`](http://epg.51zmt.top:8000/e.xml)  
 `更多EPG资源`[`https://epg.112114.xyz`](https://epg.112114.xyz/)  
