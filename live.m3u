@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.kakaxi-1.ink/epg.xml","https://assets.livednow.com/epg.xml"
+#EXTM3U x-tvg-url="https://live.kakaxi-1.ink/epg.xml","	https://epg.112114.xyz/pp.xml"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CCTV1-white.png" group-title="央视频道",CCTV-1
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -323,11 +323,13 @@ http://111.29.9.34:6610/000000001000/1000000005000056836/index.m3u8?livemode=1&s
 http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?channel-id=bestzb&Contentid=1000000005000056836&livemode=1&stbId=3
 http://111.63.117.13:6060/030000001000/G_CCTV-17/G_CCTV17.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CGTN.png" group-title="央视频道",CGTN
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 https://0472.org/hls/cgtn.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225510/1.m3u8
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225604/.m3u8
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 #EXTINF:-1 tvg-id="CGTN记录" tvg-name="CGTN纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CGTN记录.png" group-title="央视频道",CGTN-记录
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 https://0472.org/hls/cgtnd.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225509/1.m3u8
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225602/.m3u8
@@ -375,6 +377,19 @@ http://39.135.135.28:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226406/
 http://111.29.9.34:6610/000000001000/5000000006000040016/index.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3
 http://111.29.9.37:6610/000000001000/1000000002000017118/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT
 http://111.63.117.13:6060/030000001000/G_HEBEI/G_HEBEI.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/河南卫视.png" group-title="卫视频道",河南卫视
+http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+http://39.135.133.157:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226480/index.m3u8
+http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226480/index.m3u8
+http://39.135.133.167:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226480/index.m3u8
+http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226480/index.m3u8
+http://39.135.135.28:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226480/index.m3u8
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+http://111.29.9.34:6610/000000001000/5000000011000031119/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031119
+http://111.29.9.33:6610/000000001000/5000000011000031119/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
+http://111.63.117.13:6060/030000001000/HENAN/HENAN.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/山东卫视.png" group-title="卫视频道",山东卫视
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226456/index.m3u8
@@ -475,6 +490,7 @@ http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/
 http://111.29.9.35:6610/000000001000/1000000001000014260/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=3
 http://111.29.9.38:6610/000000001000/5000000010000017320/index.m3u8?channel-id=bestzb&Contentid=5000000010000017320&livemode=1&stbId=3
 http://111.63.117.13:6060/030000001000/G_ZHEJIANG/G_ZHEJIANG.m3u8
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/东南卫视.png" group-title="卫视频道",东南卫视
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 http://39.135.133.167:80/TVOD/88888888/224/3221225950/main.m3u8
@@ -534,6 +550,7 @@ http://111.63.117.13:6060/030000001000/GXWS/GXWS.m3u8
 http://111.29.9.37:6610/000000001000/1000000002000024694/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT
 http://111.29.9.33:6610/000000001000/1000000002000024694/index.m3u8?channel-id=bestzb&Contentid=1000000002000024694&livemode=1&stbId=3
 http://111.29.9.34:6610/000000001000/5000000011000031120/index.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=3
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 http://39.135.133.171:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225957/1.m3u8
 http://111.63.117.13:6060/030000001000/G_YUNNAN/G_YUNNAN.m3u8
@@ -545,6 +562,9 @@ http://39.135.133.177:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226474
 http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226474/index.m3u8
 http://39.135.135.28:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226474/index.m3u8
+http://39.134.65.251/PLTV/88888888/224/3221225974/1.m3u8
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/1.m3u8
 http://111.29.9.37:6610/000000001000/1000000002000003169/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT
 http://111.29.9.44:6610/000000001000/5000000004000025843/index.m3u8?channel-id=bestzb&Contentid=5000000004000025843&livemode=1&stbId=3
 http://111.63.117.13:6060/030000001000/G_GUIZHOU/G_GUIZHOU.m3u8
@@ -569,30 +589,6 @@ http://39.135.135.28:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226409/
 http://111.29.9.35:6610/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=3
 http://111.29.9.37:6610/000000001000/1000000002000018937/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT
 http://111.63.117.13:6060/030000001000/G_CHONGQING/G_CHONGQING.m3u8
-#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/山西卫视.png" group-title="卫视频道",山西卫视
-http://39.135.133.159:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
-http://111.63.117.13:6060/030000001000/SXWS/SXWS.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/河南卫视.png" group-title="卫视频道",河南卫视
-http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-http://39.135.133.157:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226480/index.m3u8
-http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226480/index.m3u8
-http://39.135.133.167:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226480/index.m3u8
-http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226480/index.m3u8
-http://39.135.135.28:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226480/index.m3u8
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-http://111.29.9.34:6610/000000001000/5000000011000031119/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031119
-http://111.29.9.33:6610/000000001000/5000000011000031119/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
-http://111.63.117.13:6060/030000001000/HENAN/HENAN.m3u8
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
-http://39.135.133.156:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-http://39.134.67.108/PLTV/88888888/224/3221226017/1.m3u8
-http://111.63.117.13:6060/030000001000/G_NEIMENGGU/G_NEIMENGGU.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/辽宁卫视.png" group-title="卫视频道",辽宁卫视
 http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 http://39.135.133.154:80/TVOD/88888888/224/3221226089/main.m3u8
@@ -647,20 +643,38 @@ http://39.135.135.28:80/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221226327/in
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 http://111.29.9.34:6610/000000001000/1000000001000001925/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
 http://111.29.9.33:6610/000000001000/1000000001000001925/index.m3u8?channel-id=bestzb&Contentid=1000000001000001925&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://39.135.133.156:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221226017/1.m3u8
+http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/1.m3u8
+http://111.63.117.13:6060/030000001000/G_NEIMENGGU/G_NEIMENGGU.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
+https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/山西卫视.png" group-title="卫视频道",山西卫视
+http://39.135.133.159:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
+http://111.63.117.13:6060/030000001000/SXWS/SXWS.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/陕西卫视.png" group-title="卫视频道",陕西卫视
 http://39.135.133.156:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225989/1.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/甘肃卫视.png" group-title="卫视频道",甘肃卫视
 http://111.29.9.33:6610/000000001000/1000000002000017827/index.m3u8?channel-id=bestzb&Contentid=1000000002000017827&livemode=1&stbId=3
 http://111.29.9.37:6610/000000001000/1000000002000017827/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/1.m3u8
 http://39.135.133.172:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 http://111.63.117.13:6060/030000001000/G_GANSU/G_GANSU.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221226028/1.m3u8
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 http://111.29.9.33:6610/000000001000/1000000002000031451/index.m3u8?channel-id=bestzb&Contentid=1000000002000031451&livemode=1&stbId=3
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
@@ -670,12 +684,16 @@ http://111.29.9.37:6610/000000001000/1000000002000013359/index.m3u8?stbId=3&live
 http://111.29.9.38:6610/000000001000/5000000006000040015/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=3
 http://111.29.9.33:6610/000000001000/1000000002000013359/index.m3u8?channel-id=bestzb&Contentid=1000000002000013359&livemode=1&stbId=3
 http://39.135.133.156:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221225948/1.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
 http://111.63.117.13:6060/030000001000/G_QINGHAI/G_QINGHAI.m3u8
+http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=a3ed97a11718418819
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://39.134.67.108/PLTV/88888888/224/3221225951/1.m3u8
 http://39.135.133.162:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226433/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 http://php.jdshipin.com:8880/xztv.php?id=ws
@@ -683,6 +701,8 @@ http://php.jdshipin.com:8880/xztv.php?id=ws
 http://39.134.67.108/PLTV/88888888/224/3221225999/1.m3u8
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225635/.m3u8
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226460/.m3u8
+http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/1.m3u8
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 http://111.29.9.33:6610/000000001000/1000000002000029441/index.m3u8?channel-id=bestzb&Contentid=1000000002000029441&livemode=1&stbId=3
 http://111.63.117.13:6060/030000001000/G_XINJIANG/G_XINJIANG.m3u8
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
@@ -698,12 +718,11 @@ http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/
 http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
 http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
-http://111.63.117.13:6060/030000001000/G_CCTV-14/G_CCTV_14.m3u8
 http://111.29.9.33:6610/000000001000/1000000001000008170/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=3
 http://111.29.9.36:6610/000000001000/5000000004000006673/index.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3
 http://111.29.9.40:6610/000000001000/1000000001000021349/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=3
 http://111.29.9.40:6610/000000001000/5000000010000023358/index.m3u8?channel-id=bestzb&Contentid=5000000010000023358&livemode=1&stbId=3
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+http://111.63.117.13:6060/030000001000/G_CCTV-14/G_CCTV_14.m3u8
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/卡酷少儿.png" group-title="少儿频道",卡酷少儿
 http://39.135.133.174:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225654/.m3u8
@@ -717,6 +736,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/优漫卡通2.png" group-title="少儿频道",优漫卡通
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225656/.m3u8
 http://39.135.133.157:80/wh7f454c46tw889675248_-1288226663/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225656/2.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 http://111.29.9.34:6610/000000001000/1000000002000010063/index.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/嘉佳卡通.png" group-title="少儿频道",嘉佳卡通
@@ -736,9 +756,7 @@ http://111.29.9.33:6610/000000001000/1000000004000021734/index.m3u8?channel-id=b
 http://111.29.9.34:6610/000000001000/1000000004000021734/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000021734
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.cn/tv/浙江少儿.png" group-title="少儿频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/山东少儿-light.png" group-title="少儿频道",山东少儿
-http://113.122.238.157:4022/udp/239.21.1.208:5002
-http://113.122.238.157:4022/udp/239.21.1.60:5002
+http://zwebl02.cztv.com/live/channel081080P.m3u8?auth_key=2524708799-0-0-f096e21ccd8948afe727ed7a401d30b2
 #EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/黑龙江少儿.png" group-title="少儿频道",黑龙江少儿
 http://39.134.65.173/PLTV/88888888/224/3221225979/1.m3u8
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226304/.m3u8
@@ -747,9 +765,10 @@ http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/ind
 #EXTINF:-1 tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/内蒙古少儿.png" group-title="少儿频道",内蒙古少儿
 https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/山东教育.png" group-title="少儿频道",山东教育台
+http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
+https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225655/.m3u8
-http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CETV1.png" group-title="少儿频道",中国教育1台
 http://39.134.67.108/PLTV/88888888/224/3221225563/1.m3u8
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225652/.m3u8
@@ -762,18 +781,18 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225750/1.m3u8
 http://39.134.67.134/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225783/.m3u8
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-http://111.29.9.34:6610/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+http://111.29.9.34:6610/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CCTV5-white.png" group-title="体育频道",CCTV-5
-http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8
-http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
+http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
 http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
@@ -782,6 +801,7 @@ http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/
 http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
 http://39.135.133.177:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8
 http://39.135.133.155:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8
+http://111.29.9.38:6610/000000001000/1000000001000004794/index.m3u8?channel-id=bestzb&Contentid=1000000001000004794&livemode=1&stbId=3
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CCTV5+-white.png" group-title="体育频道",CCTV-5+
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
@@ -798,10 +818,15 @@ http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/in
 http://39.135.133.177:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8
 http://39.135.133.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 http://39.135.133.155:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+http://111.29.9.34:6610/000000001000/1000000001000020505/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000001000020505
+http://111.29.9.33:6610/000000001000/1000000001000020505/index.m3u8?channel-id=bestzb&Contentid=1000000001000020505&livemode=1&stbId=3
+http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CCTV16-white.png" group-title="体育频道",CCTV-16
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+http://39.135.133.177:80/TVOD/88888888/224/3221225893/main.m3u8
 http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
 http://39.135.135.28:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
 http://39.135.135.28:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
@@ -809,47 +834,28 @@ http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/
 http://39.135.133.177:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
 http://39.135.133.177:80/TVOD/88888888/224/3221225893/main.m3u8
 http://39.135.133.177:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CCTV-风云足球-white.png" group-title="体育频道",风云足球
-http://111.61.236.247:9081/hls/58/index.m3u8
-http://120.76.248.139/live/bfgd/4200000225.m3u8
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/魅力足球.png" group-title="体育频道",魅力足球
-http://qjrhc.jydjd.top:2911/udp/224.1.100.133:11111
-#EXTINF:-1 tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/北京体育.png" group-title="体育频道",北京体育
-http://120.24.172.11:50001/bptv/10000100000000050000000003870779.m3u8
-http://111.193.169.187:4022/rtp/239.3.1.243:8000
-http://114.242.12.3:4022/rtp/239.3.1.243:8000
-#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/劲爆体育.png" group-title="体育频道",劲爆体育
-http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv
-http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
-http://119.32.12.17:2901/udp/224.1.100.129:11111
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/五星体育-light.png" group-title="体育频道",五星体育
-http://222.65.234.44:4022/udp/239.45.3.210:5140
-http://116.234.84.114:4022/rtp/239.45.3.210:5140
-http://223.167.230.73:4022/rtp/239.45.3.210:5140
-http://180.165.27.220:4022/rtp/239.45.3.210:5140
-http://180.165.13.18:4022/rtp/239.45.3.210:5140
-http://218.1.221.150:4022/rtp/239.45.3.210:5140
-http://iantelope.dsmynas.com:4022/rtp/239.45.3.210:5140
-#EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/山东体育.png" group-title="体育频道",山东体育
-http://119.167.17.238:4022/rtp/239.253.254.22:8000
-http://123.132.233.194:352/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+http://111.29.9.34:6610/000000001000/1000000006000233002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000233002
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/睛彩竞技.png" group-title="体育频道",睛彩竞技
 http://39.134.67.108/PLTV/88888888/224/3221225897/1.m3u8
+http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/睛彩篮球.png" group-title="体育频道",睛彩篮球
 http://39.134.67.108/PLTV/88888888/224/3221225895/1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221226027/1.m3u8
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226147/.m3u8
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226469/.m3u8
+http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/睛彩青少.png" group-title="体育频道",睛彩青少
-http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
-http://39.134.67.108/PLTV/88888888/224/3221226031/1.m3u8
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+http://39.135.133.135/PLTV/88888888/224/3221226053/1.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/睛彩广场舞.png" group-title="体育频道",睛彩广场舞
 http://39.134.67.108/PLTV/88888888/224/3221226046/1.m3u8
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226472/.m3u8
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226482/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 tvg-id="超级体育" tvg-name="超级体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/NEWTV超级体育-HD.png" group-title="体育频道",超级体育
 http://39.134.65.73:80/PLTV/88888888/224/3221225635/1.m3u8
@@ -868,14 +874,70 @@ http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 http://111.29.9.35:6610/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
 http://111.29.9.34:6610/000000001000/1000000004000014634/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000014634
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/CCTV-风云足球-white.png" group-title="体育频道",风云足球
+http://120.76.248.139/live/bfgd/4200000225.m3u8
+http://202.102.201.244:40022/rtp/238.1.79.57:4592
+http://111.61.236.247:9081/hls/58/index.m3u8
+http://120.238.94.10:9901/tsfile/live/1087_1.m3u8
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/魅力足球.png" group-title="体育频道",魅力足球
+http://120.76.248.139/live/bfgd/4200000633.m3u8
+#EXTINF:-1 tvg-id="北京体育" tvg-name="北京体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/北京体育.png" group-title="体育频道",北京体育
+http://111.193.169.187:4022/rtp/239.3.1.243:8000
+http://222.129.38.94:4022/rtp/239.3.1.243:8000
+http://123.113.180.116:9000/rtp/239.3.1.243:8000
+http://111.199.6.199:7088/rtp/239.3.1.243:8000
+http://123.113.35.56:4022/rtp/239.3.1.243:8000
+http://222.129.161.16:4022/rtp/239.3.1.243:8000
+http://111.194.234.161:4022/rtp/239.3.1.243:8000
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/五星体育-light.png" group-title="体育频道",五星体育
+http://180.165.13.18:4022/rtp/239.45.3.210:5140
+http://222.65.234.44:4022/udp/239.45.3.210:5140
+http://116.234.84.114:4022/rtp/239.45.3.210:5140
+http://222.65.236.222:7088/rtp/239.45.3.210:5140
+http://180.165.0.19:4022/rtp/239.45.3.210:5140
+http://180.165.16.196:4022/rtp/239.45.3.210:5140
+http://116.231.170.234:4022/rtp/239.45.3.210:5140
+http://116.234.84.114:4022/rtp/239.45.3.210:5140
+http://180.165.27.97:7088/rtp/239.45.3.210:5140
+http://180.165.28.243:4022/rtp/239.45.3.210:5140
+http://116.231.159.5:7088/rtp/239.45.3.210:5140
+http://180.165.25.50:4022/rtp/239.45.3.210:5140
+http://180.165.13.237:7088/rtp/239.45.3.210:5140
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/劲爆体育.png" group-title="体育频道",劲爆体育
+http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv
+http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
+http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
+http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.cn/tv/广东体育.png" group-title="体育频道",广东体育
+http://61.144.111.163:7088/rtp/239.77.0.168:5146
+http://116.16.188.155:4022/rtp/239.77.0.168:5146
+http://14.149.140.183:8788/rtp/239.77.0.168:5146
+#EXTINF:-1 tvg-id="深圳体育健康" tvg-name="深圳体育健康" tvg-logo="https://live.fanmingming.cn/tv/深圳体育健康.png" group-title="体育频道",深圳体育健康
+http://61.144.111.163:7088/rtp/239.77.1.128:5146
+http://116.16.188.155:4022/rtp/239.77.1.128:5146
+http://14.149.140.183:8788/rtp/239.77.1.128:5146
+http://61.144.111.163:7088/rtp/239.77.1.140:5146
+http://116.16.188.155:4022/rtp/239.77.1.140:5146
+http://14.149.140.183:8788/rtp/239.77.1.140:5146
+#EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/山东体育.png" group-title="体育频道",山东体育
+http://119.167.17.238:4022/rtp/239.253.254.22:8000
+http://123.132.233.194:352/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="武搏世界" tvg-name="武搏世界" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/NEWTV武搏世界-HD.png" group-title="体育频道",武搏世界
 http://39.135.133.157:80/PLTV/88888888/224/3221225547/1.m3u8
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-id="咪咕视频" tvg-name="咪咕视频" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/咪咕视频.png" group-title="体育频道",咪咕视频
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+http://39.134.67.108/PLTV/88888888/224/3221226031/1.m3u8
 
+#EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/sparkssssssssss/epg/refs/heads/main/logo/BTV%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99-8K.png" group-title="数字频道",纪实科教8K
+http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="数字频道",纪实科教
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225729/.m3u8
+http://39.134.65.196/PLTV/88888888/224/3221225670/1.m3u8
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 http://111.29.9.37:6610/000000001000/1000000001000028380/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028380&livemode=1&stbId=3
 http://111.29.9.40:6610/000000001000/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=3
 http://111.29.9.34:6610/000000001000/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=YanG-1989
@@ -1021,6 +1083,5 @@ http://39.135.133.157:80/PLTV/88888888/224/3221225542/1.m3u8
 #EXTINF:-1 tvg-id="怡伴健康" tvg-name="怡伴健康" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/cqbf/tv/refs/heads/main/logo/NEWTV怡伴健康-HD.png" group-title="数字频道",怡伴健康
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 http://39.135.133.157:80/PLTV/88888888/224/3221225571/1.m3u8
-
 #EXTINF:-1 tvg-id="人在囧途" tvg-name="人在囧途" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="数字频道",人在囧途
 http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
