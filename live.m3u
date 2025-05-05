@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml","https://assets.livednow.com/epg.xml"
 
-
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV1-white.png" group-title="央视频道",CCTV-1
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 http://39.135.133.167:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
@@ -871,7 +870,7 @@ http://39.135.133.177:80/TVOD/88888888/224/3221225893/main.m3u8
 http://39.135.133.177:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 http://111.29.9.34:6610/000000001000/1000000006000233002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000233002
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV风云足球-white.png" group-title="体育频道",风云足球
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV-风云足球.png" group-title="体育频道",风云足球
 http://222.173.108.238:352/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 http://58.19.38.162:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.61.236.247:9081/hls/58/index.m3u8
@@ -913,7 +912,7 @@ http://119.129.203.146:4022/rtp/239.77.0.168:5146
 http://14.149.140.170:8788/rtp/239.77.0.168:5146
 http://113.109.52.94:7088/rtp/239.77.0.168:5146
 http://116.16.188.155:4022/rtp/239.77.0.168:5146
-#EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/深圳体育健康.png" group-title="体育频道",深圳体育健康
+#EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/深圳体育.png" group-title="体育频道",深圳体育健康
 http://119.129.203.146:4022/rtp/239.77.1.128:5146
 http://14.149.140.170:8788/rtp/239.77.1.128:5146
 http://113.109.52.94:7088/rtp/239.77.1.128:5146
@@ -1328,7 +1327,7 @@ http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225659/.m3u8
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226516/.m3u8
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东教育卫视.png" group-title="卫视频道",山东教育卫视
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225655/.m3u8
-#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.cn/tv/北京纪实科教.png" group-title="数字频道",纪实科教
+#EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实科教" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京纪实科教.png" group-title="数字频道",纪实科教
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225729/.m3u8
 #EXTINF:-1 tvg-id="卡酷动画" tvg-name="卡酷动画" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/卡酷少儿.png" group-title="少儿频道",卡酷少儿
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225654/.m3u8
@@ -1366,7 +1365,7 @@ http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225666/.m3u8
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225665/.m3u8
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV精品大剧.png" group-title="数字频道",精品大剧
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225670/.m3u8
-#EXTINF:-1 tvg-name="精品记录" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV精品记录.png" group-title="数字频道",精品记录
+#EXTINF:-1 tvg-name="精品纪录" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV精品纪录.png" group-title="数字频道",精品纪录
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225672/.m3u8
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV精品体育.png" group-title="体育频道",精品体育
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225674/.m3u8
@@ -1380,7 +1379,7 @@ http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225664/.m3u8
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225671/.m3u8
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV农业致富.png" group-title="数字频道",农业致富
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225683/.m3u8
-#EXTINF:-1 tvg-name="武博世界" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV武博世界.png" group-title="数字频道",武博世界
+#EXTINF:-1 tvg-name="武搏世界" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV武搏世界.png" group-title="数字频道",武搏世界
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225680/.m3u8
 #EXTINF:-1 tvg-name="炫舞未来" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV炫舞未来.png" group-title="数字频道",炫舞未来
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225719/.m3u8
@@ -1520,33 +1519,33 @@ http://39.135.133.156:80/wh7f454c46tw184692818_-453693247/ottrrs.hl.chinamobile.
 http://39.135.133.156:80/wh7f454c46tw239033902_328202299/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/青海卫视.png" group-title="卫视频道",青海卫视
 http://39.135.133.156:80/wh7f454c46tw293288267_-1566141978/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/吉林延边卫视" group-title="卫视频道",延边卫视
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/延边卫视" group-title="卫视频道",延边卫视
 http://39.135.133.174:80/wh7f454c46tw378508842_-1832718255/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/新疆兵团卫视.png" group-title="卫视频道",兵团卫视
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://39.135.133.160:80/wh7f454c46tw456398101_-1639517617/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 
 
-#EXTINF:-1 tvg-name="CCTV01" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV01.png" group-title="央视频道",CCTV-01
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV1.png" group-title="央视频道",CCTV-01
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-name="CCTV02" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV02.png" group-title="央视频道",CCTV-02
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV2.png" group-title="央视频道",CCTV-02
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-name="CCTV02" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV02.png" group-title="央视频道",CCTV-02
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV2.png" group-title="央视频道",CCTV-02
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-#EXTINF:-1 tvg-name="CCTV03" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV03.png" group-title="央视频道",CCTV-03
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV3.png" group-title="央视频道",CCTV-03
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-#EXTINF:-1 tvg-name="CCTV04" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV04.png" group-title="央视频道",CCTV-04
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV4.png" group-title="央视频道",CCTV-04
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 tvg-name="CCTV05" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV05.png" group-title="央视频道",CCTV-05
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV5.png" group-title="央视频道",CCTV-05
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-name="CCTV+5+" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV+5+.png" group-title="央视频道",CCTV+5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-name="CCTV06" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV06.png" group-title="央视频道",CCTV-06
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV6.png" group-title="央视频道",CCTV-06
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-#EXTINF:-1 tvg-name="CCTV07" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV07.png" group-title="央视频道",CCTV-07
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV7.png" group-title="央视频道",CCTV-07
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-#EXTINF:-1 tvg-name="CCTV08" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV08.png" group-title="央视频道",CCTV-08
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV8.png" group-title="央视频道",CCTV-08
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-#EXTINF:-1 tvg-name="CCTV09" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV09.png" group-title="央视频道",CCTV-09
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV9.png" group-title="央视频道",CCTV-09
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV10.png" group-title="央视频道",CCTV-10
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
