@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="	https://epg.112114.xyz/pp.xml"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV1-white.png" group-title="央视频道",CCTV1综合
 http://150.138.78.253:10050/migu/608807420?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
