@@ -102,3 +102,20 @@ http://150.138.78.253:10050/migu/952383261?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw
 http://150.138.78.253:10050/migu/644368714?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/554/911/202308221200_1692676825616_H169_1080.jpg" group-title="数字频道", CHC家庭影院
 http://150.138.78.253:10050/migu/644368373?token=pot6r9IwRGUk6qtuKS-qlaNa1xvaNVw1Z4VkYd036FJGkWd2fyqAv90F3V76dIm-nIbicHC3F9Uca6PzHXf3rw&auth=
+
+
+
+#EXTINF:-1 group-title="『数✬字』" tvg-name="CHC影迷电影" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CHC影迷电影.png" ,CHC影迷电影
+http://115.190.105.236:35455/mgtv/952383261.m3u8
+#EXTINF:-1 group-title="『数✬字』" tvg-name="CHC动作电影" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CHC动作电影.png" ,CHC动作电影
+http://115.190.105.236:35455/mgtv/644368714.m3u8
+#EXTINF:-1 group-title="『数✬字』" tvg-name="CHC家庭影院" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CHC家庭影院.png" ,CHC家庭影院
+http://115.190.105.236:35455/mgtv/644368373.m3u8
+
+#EXTINF:-1 group-title="『数✬字』" tvg-name="CETV1" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CETV1.png" ,CETV1
+http://115.190.105.236:35455/mgtv/923287154.m3u8
+#EXTINF:-1 group-title="『数✬字』" tvg-name="CETV2" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CETV2.png" ,CETV2
+http://115.190.105.236:35455/mgtv/923287211.m3u8
+#EXTINF:-1 group-title="『数✬字』" tvg-name="CETV4" tvg-logo="https://vip.123pan.cn/1814643527/tv/logo/CETV4.png" ,CETV4
+http://115.190.105.236:35455/mgtv/923287339.m3u8
+
