@@ -1,4 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 
-#EXTINF:-1 tvg-name="漠河电视台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/漠河电视台.png" group-title="地方频道",漠河电视台
-http://39.134.65.106/PLTV/88888888/224/3221226109/1.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+
+#EXTINF:-1 tvg-name="Nature," tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京卫视.png" group-title="卫视频道",Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
