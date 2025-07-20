@@ -60,6 +60,13 @@ CGTN-英语,webview://https://yangshipin.cn/tv/home?pid=600014550
 黑龙江卫视,webview://https://yangshipin.cn/tv/home?pid=600002498
 内蒙古卫视,webview://https://yangshipin.cn/tv/home?pid=600190401
 
+数字,#genre#
+岱岳tv,video://https://iapp.daiyuerongmei.cn/share/dHZsLTI5My0x.html#webview://https://iapp.daiyuerongmei.cn/share/dHZsLTI5My0x.html
+WFTV-1,video://https://iapp.wfcmw.cn//share//dHZsLTYzNS0x.html#webview://https://iapp.wfcmw.cn//share//dHZsLTYzNS0x.html
+WFTV-2,video://https://iapp.wfcmw.cn//share//dHZsLTYzNS01.html#webview://https://iapp.wfcmw.cn//share//dHZsLTYzNS01.html
+WFTV-3,video://https://iapp.wfcmw.cn//share//dHZsLTYzNS03.html#webview://https://iapp.wfcmw.cn//share//dHZsLTYzNS03.html
+WFTV-4,video://https:\/\/iapp.wfcmw.cn\/share\/dHZsLTYzNS05.html#webview://https:\/\/iapp.wfcmw.cn\/share\/dHZsLTYzNS05.html
+
 电影,#genre#
 成龙,webview://https://lemonlive.deno.dev/huya/play/11342386
 王晶,webview://https://lemonlive.deno.dev/huya/play/11602058
