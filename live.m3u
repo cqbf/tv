@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.kakaxi-1.ink/epg.xml"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV1-white.png" group-title="央视频道",CCTV-1
 http://39.135.133.167:80/TVOD/88888888/224/3221225816/main.m3u8
