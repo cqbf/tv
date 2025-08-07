@@ -344,13 +344,6 @@ http://111.63.117.13:6060/030000001000/G_CCTV-15/G_CCTV15.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV17-white.png" group-title="央视频道",CCTV-17
 http://111.63.117.13:6060/030000001000/G_CCTV-17/G_CCTV17.m3u8
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV1-white.png" group-title="央视频道",CCTV-1
-webview://https://yangshipin.cn/tv/home?pid=600001859
-webview://https://tv.cctv.com/live/cctv1/
-webview://https://big5.cctv.com/gate/big5/tv.cctv.com/live/cctv1/
-webview://https://app.cctv.com/special/m/livevod/index.html?vtype=1&channel=cctv1
-webview://https://m.miguvideo.com/m/liveDetail/608807420?channelId=10010001005
-
 
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京卫视.png" group-title="卫视频道",北京卫视
@@ -1597,3 +1590,4 @@ https://mursor.ottiptv.cc/bst/zgqxhd4mc@4000000.m3u8
 
 #EXTINF:-1 tvg-id="人在囧途" tvg-name="人在囧途" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="地方频道",人在囧途
 http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
+
