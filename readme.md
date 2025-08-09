@@ -15,10 +15,13 @@
 `9.`[`peterHchina`](https://github.com/peterHchina/iptv) `各路直播资源大集锦`  
 
 **直播源转换**  
-`1.`[`http://nn.7x9d.cn`](http://nn.7x9d.cn/)  
-`2.`[`https://izbds.com/tools`](https://izbds.com/tools/)  
-`3.`[`https://jy4k.netlify.app/online`](https://jy4k.netlify.app/online)  
-`4.`[`https://www.qiushui.vip/gj/zh.html`](https://www.qiushui.vip/gj/zh.html)  
+`1.`[`https://jy4k.netlify.app/online`](https://jy4k.netlify.app/online)  
+`2.`[`http://duboy.free.coms.su/diyp/l2list.php`](http://duboy.free.coms.su/diyp/l2list.php)  
+`3.`[`https://yang-1989.eu.org/Conversion.php`](https://yang-1989.eu.org/Conversion.php)  
+`4.`[`http://nn.7x9d.cn`](http://nn.7x9d.cn/)  
+`5.`[`https://izbds.com/tools`](https://izbds.com/tools/)  
+`6.`[`https://www.qiushui.vip/gj/zh.html`](https://www.qiushui.vip/gj/zh.html)  
+`7.`[`https://custom-m3u.vercel.app/`](https://custom-m3u.vercel.app/)  
 
 **节目单地址**  
 `1.`[`https://live.fanmingming.cn/e.xml`](https://live.fanmingming.cn/e.xml)  
@@ -27,11 +30,11 @@
 `4.`[`https://epg.112114.xyz`](https://epg.112114.xyz/)  
 
 **常用图标库**  
-`1.`[`fanmingming`](https://github.com/fanmingming/live/tree/main/tv) `代理地址 https://live.fanmingming.cn/tv/CCTV1.png`  
-`2.`[`livednow`](https://assets.livednow.com/guide.html) `卫视首选、求索首选、CETV；央视全透明、NewTV浅色、iHOT备用`  
+`1.`[`wanglindl`](https://github.com/wanglindl/TVlogo) `补充少儿频道、足球频道，睛彩频道备用`  
+`2.`[`fanmingming`](https://github.com/fanmingming/live/tree/main/tv) `代理地址 https://live.fanmingming.cn/tv/CCTV1.png`  
 `3.`[`drangjchen`](https://github.com/drangjchen/IPTV/tree/main/Logo) `NewTV浅色、iHOT首选、补充重庆卫视、五星体育；央卫、求索深浅备用`  
 `4.`[`echolin73`](https://github.com/echolin73/logo/tree/main/tvg-logo) `补充山西卫视、BesTV、红牛；央视深色备用`  
 `5.`[`kakaxi-1`](https://github.com/kakaxi-1/IPTV/tree/main/LOGO) `淘系列频道独家，睛彩频道首选，补充精彩影视`  
-`6.`[`wanglindl`](https://github.com/wanglindl/TVlogo) `补充少儿频道、足球频道，睛彩频道备用`  
-`7.`[`sparkssssssssss`](https://github.com/sparkssssssssss/epg/tree/main/logo) `图标多版本，超级大全，更新及时`  
-`8.`[`fenxp`](https://github.com/fenxp/iptvsss/tree/main/tv) `备用`
+`6.`[`sparkssssssssss`](https://github.com/sparkssssssssss/epg/tree/main/logo) `图标多版本，超级大全，更新及时`  
+`7.`[`livednow`](https://assets.livednow.com/guide.html) `卫视首选、求索首选、CETV；央视全透明、NewTV浅色、iHOT备用`  
+`8.`[`fenxp`](https://github.com/fenxp/iptvsss/tree/main/tv) `备用` 
