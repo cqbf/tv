@@ -384,9 +384,9 @@ webview://https://live.jstv.com/?channelld=543
 video://https://www.nbs.cn/live/?id=109152
 #EXTINF:-1 group-title="江苏" tvg-name="南京新闻综合" tvg-logo="https://epg.112114.xyz/logo/南京新闻综合.png",南京新闻综合
 webview://https://www.nbs.cn/live/?id=109152
-#EXTINF:-1 group-title="江苏" tvg-name="南京十八生活频道" tvg-logo="https://epg.112114.xyz/logo/南京十八生活频道.png",南京十八生活频道
+#EXTINF:-1 group-title="江苏" tvg-name="南京十八生活频道" tvg-logo="https://epg.112114.xyz/logo/南京十八生活频道.png",南京十八生活
 video://https://www.nbs.cn/live/?id=110094
-#EXTINF:-1 group-title="江苏" tvg-name="南京十八生活频道" tvg-logo="https://epg.112114.xyz/logo/南京十八生活频道.png",南京十八生活频道
+#EXTINF:-1 group-title="江苏" tvg-name="南京十八生活频道" tvg-logo="https://epg.112114.xyz/logo/南京十八生活频道.png",南京十八生活
 webview://https://www.nbs.cn/live/?id=110094
 #EXTINF:-1 group-title="江苏" tvg-name="南京科教" tvg-logo="https://epg.112114.xyz/logo/南京科教.png",南京科教
 video://https://www.nbs.cn/live/?id=109153
@@ -4408,393 +4408,120 @@ video://https://www.nujiang.cn/html/video/tv/
 #EXTINF:-1 group-title="内蒙" tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png",内蒙古卫视
 webview://https://www.nmtv.cn/liveTv
 
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="成龙" group-title="电影",成龙
-webview://https://lemonlive.deno.dev/huya/play/11342386
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="王晶" group-title="电影",王晶
-webview://https://lemonlive.deno.dev/huya/play/11602058
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="沈腾" group-title="电影",沈腾
-webview://https://lemonlive.deno.dev/huya/play/11601968
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="黄渤" group-title="电影",黄渤
-webview://https://lemonlive.deno.dev/huya/play/11352876
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="徐克" group-title="电影",徐克
-webview://https://lemonlive.deno.dev/huya/play/11352909
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="强森" group-title="电影",强森
-webview://https://lemonlive.deno.dev/huya/play/21059581
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="贺岁" group-title="电影",贺岁
-webview://https://lemonlive.deno.dev/huya/play/11601971
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="喜剧" group-title="电影",喜剧
-webview://https://lemonlive.deno.dev/huya/play/11352877
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="港片" group-title="电影",港片
-webview://https://lemonlive.deno.dev/huya/play/11602043
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="成龙" group-title="电影",成龙
-video://https://yy.com/34460526
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="叶问" group-title="电影",叶问
-video://https://yy.com/1382828771
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="功夫片" group-title="电影",功夫片
-webview://https://lemonlive.deno.dev/huya/play/11352941
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="古惑仔" group-title="电影",古惑仔
-webview://https://lemonlive.deno.dev/huya/play/11336719
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="周星驰" group-title="电影",周星驰
-webview://https://lemonlive.deno.dev/huya/play/11342412
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="周润发" group-title="电影",周润发
-webview://https://lemonlive.deno.dev/huya/play/11342387
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="林正英" group-title="电影",林正英
-webview://https://lemonlive.deno.dev/huya/play/11342421
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="李连杰" group-title="电影",李连杰
-webview://https://lemonlive.deno.dev/huya/play/11342390
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="古天乐" group-title="电影",古天乐
-webview://https://lemonlive.deno.dev/huya/play/29982675
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="洪金宝" group-title="电影",洪金宝
-webview://https://lemonlive.deno.dev/huya/play/11279251
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="梁家辉" group-title="电影",梁家辉
-webview://https://lemonlive.deno.dev/huya/play/11342429
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="刘德华" group-title="电影",刘德华
-webview://https://lemonlive.deno.dev/huya/play/11342424
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="斯坦森" group-title="电影",斯坦森
-webview://https://lemonlive.deno.dev/huya/play/21059588
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="甄子丹" group-title="电影",甄子丹
-webview://https://lemonlive.deno.dev/huya/play/11352935
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="周星驰" group-title="电影",周星驰
-video://https://yy.com/38670875
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="李连杰" group-title="电影",李连杰
-video://https://yy.com/74613175
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="林正英" group-title="电影",林正英
-video://https://yy.com/34229877
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="刘德华" group-title="电影",刘德华
-video://https://yy.com/1354888726
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="周润发" group-title="电影",周润发
-video://https://yy.com/1354888733
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="洪金宝" group-title="电影",洪金宝
-video://https://yy.com/1354888743
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="X战警" group-title="电影",X战警
-video://https://yy.com/1382735585
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="阿凡达" group-title="电影",阿凡达
-video://https://yy.com/1382735577
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="终结者" group-title="电影",终结者
-video://https://yy.com/1354930887
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="古惑仔" group-title="电影",古惑仔
-video://https://yy.com/1458015189
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="科幻片" group-title="电影",科幻片
-video://https://yy.com/1354930897
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="动作片" group-title="电影",动作片
-video://https://yy.com/1382736801
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="警匪片" group-title="电影",警匪片
-video://https://yy.com/1382735576
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="鹿鼎记" group-title="电影",鹿鼎记
-video://https://yy.com/1354658049
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="珍珠港" group-title="电影",珍珠港
-video://https://yy.com/1354936234
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="唐探系列" group-title="电影",唐探系列
-webview://https://lemonlive.deno.dev/huya/play/20969137
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="国内喜剧" group-title="电影",国内喜剧
-video://https://yy.com/1382736856
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="国内功夫" group-title="电影",国内功夫
-video://https://yy.com/1382736902
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="国内喜剧" group-title="电影",国内喜剧
-video://https://yy.com/1382736862
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="国内动作" group-title="电影",国内动作
-video://https://yy.com/1382851522
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="国外科幻" group-title="电影",国外科幻
-video://https://yy.com/1382736800
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="国外动作" group-title="电影",国外动作
-video://https://yy.com/1382735540
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="热血动作" group-title="电影",热血动作
-video://https://yy.com/1382736804
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="热门喜剧" group-title="电影",热门喜剧
-video://https://yy.com/1354931495
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="喜剧动作" group-title="电影",喜剧动作
-video://https://yy.com/1355480591
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="港片喜剧" group-title="电影",港片喜剧
-video://https://yy.com/1355112116
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="港片动作" group-title="电影",港片动作
-video://https://yy.com/1459869766
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="港片枪战" group-title="电影",港片枪战
-video://https://yy.com/1355076627
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="港片鬼片" group-title="电影",港片鬼片
-video://https://yy.com/1455891197
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="港片僵尸" group-title="电影",港片僵尸
-video://https://yy.com/1382780025
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="恐怖电影" group-title="电影",恐怖电影
-video://https://yy.com/24066336
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="港台影院" group-title="电影",港台影院
-video://https://yy.com/1354889234
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="烧脑悬疑" group-title="电影",烧脑悬疑
-video://https://yy.com/1382735571
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="美国队长" group-title="电影",美国队长
-video://https://yy.com/1382736813
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="飓风营救" group-title="电影",飓风营救
-video://https://yy.com/1382735547
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="憨豆先生" group-title="电影",憨豆先生
-video://https://yy.com/1354936239
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="小鬼当家" group-title="电影",小鬼当家
-video://https://yy.com/1382745104
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="举起手来" group-title="电影",举起手来
-video://https://yy.com/1382736877
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="大话西游" group-title="电影",大话西游
-video://https://yy.com/1382851590
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="澳门风云" group-title="电影",澳门风云
-video://https://yy.com/1459243913
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="哈利波特" group-title="电影",哈利波特
-video://https://yy.com/1382745105
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="明日边缘" group-title="电影",明日边缘
-video://https://yy.com/1382736835
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="变形金刚" group-title="电影",变形金刚
-video://https://yy.com/1382736803
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="速度与激情" group-title="电影",速度与激情
-video://https://yy.com/1382736911
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="加勒比海盗" group-title="电影",加勒比海盗
-video://https://yy.com/1382749914
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="复仇者联盟" group-title="电影",复仇者联盟
-video://https://yy.com/1354936167
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="夏洛特烦恼" group-title="电影",夏洛特烦恼
-video://https://yy.com/1354936201
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/movie_logo2.png" tvg-name="唐伯虎点秋香" group-title="电影",唐伯虎点秋香
-video://https://yy.com/1382736808
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="亮剑" group-title="剧集",亮剑
-webview://https://lemonlive.deno.dev/huya/play/30080238
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="繁花" group-title="剧集",繁花
-webview://https://lemonlive.deno.dev/huya/play/21059580
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="征服" group-title="剧集",征服
-webview://https://lemonlive.deno.dev/huya/play/11601970
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="渗透" group-title="剧集",渗透
-webview://https://lemonlive.deno.dev/huya/play/30080244
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="风筝" group-title="剧集",风筝
-webview://https://lemonlive.deno.dev/huya/play/30080225
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="济公" group-title="剧集",济公
-video://https://yy.com/1355265814
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="亮剑" group-title="剧集",亮剑
-video://https://yy.com/1356043643
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="亮剑" group-title="剧集",亮剑
-video://https://yy.com/1451866697
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="狂飙" group-title="剧集",狂飙
-video://https://yy.com/1354936131
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="狂飙" group-title="剧集",狂飙
-video://https://yy.com/1354790484
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="风筝" group-title="剧集",风筝
-video://https://yy.com/1382828770
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="天道" group-title="剧集",天道
-video://https://yy.com/1382735574
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="渴望" group-title="剧集",渴望
-video://https://yy.com/1354930963
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="金婚" group-title="剧集",金婚
-video://https://yy.com/1382736832
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="福贵" group-title="剧集",福贵
-video://https://yy.com/1354926537
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="白鹿原" group-title="剧集",白鹿原
-video://https://yy.com/1354931488
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="大时代" group-title="剧集",大时代
-video://https://yy.com/1354930891
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="上海滩" group-title="剧集",上海滩
-video://https://yy.com/1382745184
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="宫心计" group-title="剧集",宫心计
-video://https://yy.com/1354932429
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="红楼梦" group-title="剧集",红楼梦
-video://https://yy.com/1382745084
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="陈情令" group-title="剧集",陈情令
-video://https://yy.com/1382745121
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="叛逆者" group-title="剧集",叛逆者
-video://https://yy.com/1382736868
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="都挺好" group-title="剧集",都挺好
-video://https://yy.com/1382736892
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="伪装者" group-title="剧集",伪装者
-video://https://yy.com/1354936244
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="老农民" group-title="剧集",老农民
-webview://https://lemonlive.deno.dev/huya/play/29580971
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="白鹿原" group-title="剧集",白鹿原
-webview://https://lemonlive.deno.dev/huya/play/30311504
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="水浒传" group-title="剧集",水浒传
-webview://https://lemonlive.deno.dev/huya/play/26355860
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="花千骨" group-title="剧集",花千骨
-webview://https://lemonlive.deno.dev/huya/play/26355839
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="庆余年" group-title="剧集",庆余年
-webview://https://lemonlive.deno.dev/huya/play/11352960
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="如懿传" group-title="剧集",如懿传
-webview://https://lemonlive.deno.dev/huya/play/29465868
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="芈月传" group-title="剧集",芈月传
-webview://https://lemonlive.deno.dev/huya/play/11352975
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="芈月传" group-title="剧集",芈月传
-webview://https://lemonlive.deno.dev/huya/play/30311525
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="甄嬛传" group-title="剧集",甄嬛传
-webview://https://lemonlive.deno.dev/huya/play/26355840
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="都挺好" group-title="剧集",都挺好
-webview://https://lemonlive.deno.dev/huya/play/21059594
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="大秦赋" group-title="剧集",大秦赋
-webview://https://lemonlive.deno.dev/huya/play/23903130
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="西游记" group-title="剧集",西游记
-webview://https://lemonlive.deno.dev/huya/play/26355861
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="好先生" group-title="剧集",好先生
-webview://https://lemonlive.deno.dev/huya/play/11602088
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="洗冤录" group-title="剧集",洗冤录
-webview://https://lemonlive.deno.dev/huya/play/29465851
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="寻秦记" group-title="剧集",寻秦记
-video://https://yy.com/1382749900
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="鹿鼎记" group-title="剧集",鹿鼎记
-video://https://yy.com/28265277
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="鹿鼎记" group-title="剧集",鹿鼎记
-video://https://yy.com/1382704650
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="天龙八部" group-title="剧集",天龙八部
-video://https://yy.com/68260522
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="天龙八部" group-title="剧集",天龙八部
-video://https://yy.com/1351814644
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="神雕侠侣" group-title="剧集",神雕侠侣
-video://https://yy.com/1351762426
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="神雕侠侣" group-title="剧集",神雕侠侣
-video://https://yy.com/1354926637
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="笑傲江湖" group-title="剧集",笑傲江湖
-video://https://yy.com/1354930909
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="笑傲江湖" group-title="剧集",笑傲江湖
-video://https://yy.com/1382851576
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="插翅难逃" group-title="剧集",插翅难逃
-video://https://yy.com/23402146
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="士兵突击" group-title="剧集",士兵突击
-video://https://yy.com/1382851600
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="血色浪漫" group-title="剧集",血色浪漫
-video://https://yy.com/1354926676
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="火蓝刀锋" group-title="剧集",火蓝刀锋
-video://https://yy.com/1382737892
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="火蓝刀锋" group-title="剧集",火蓝刀锋
-video://https://yy.com/1458239444
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="勇敢的心" group-title="剧集",勇敢的心
-video://https://yy.com/1354744544
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="我爱我家" group-title="剧集",我爱我家
-video://https://yy.com/1382851580
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="魔幻手机" group-title="剧集",魔幻手机
-video://https://yy.com/1382851541
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="金玉满堂" group-title="剧集",金玉满堂
-video://https://yy.com/1382736881
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="宫锁珠帘" group-title="剧集",宫锁珠帘
-video://https://yy.com/1354926666
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="正阳门下" group-title="剧集",正阳门下
-video://https://yy.com/1354931580
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="小兵张嘎" group-title="剧集",小兵张嘎
-video://https://yy.com/1354930225
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="武林外传" group-title="剧集",武林外传
-video://https://yy.com/1355652820
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="溏心风暴" group-title="剧集",溏心风暴
-video://https://yy.com/1382736916
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="法外风云" group-title="剧集",法外风云
-video://https://yy.com/1382736805
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="鉴证实录" group-title="剧集",鉴证实录
-video://https://yy.com/1356341389
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="破案港剧" group-title="剧集",破案港剧
-video://https://yy.com/1350670730
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="读心神探" group-title="剧集",读心神探
-video://https://yy.com/1382736875
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="法证先锋" group-title="剧集",法证先锋
-video://https://yy.com/1354930939
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="缺宅男女" group-title="剧集",缺宅男女
-video://https://yy.com/1382745088
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="公主嫁到" group-title="剧集",公主嫁到
-video://https://yy.com/1382736915
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="无敌县令" group-title="剧集",无敌县令
-video://https://yy.com/1354932390
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="大江大河" group-title="剧集",大江大河
-video://https://yy.com/1382736806
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="谈判专家" group-title="剧集",谈判专家
-video://https://yy.com/1382735560
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="一笑倾城" group-title="剧集",一笑倾城
-video://https://yy.com/1382735553
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="小李飞刀" group-title="剧集",小李飞刀
-webview://https://lemonlive.deno.dev/huya/play/11342417
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="龙门镖局" group-title="剧集",龙门镖局
-webview://https://lemonlive.deno.dev/huya/play/11352874
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="延禧攻略" group-title="剧集",延禧攻略
-webview://https://lemonlive.deno.dev/huya/play/26355864
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="康熙王朝" group-title="剧集",康熙王朝
-webview://https://lemonlive.deno.dev/huya/play/11352940
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="士兵突击" group-title="剧集",士兵突击
-webview://https://lemonlive.deno.dev/huya/play/11342430
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="扫黑风暴" group-title="剧集",扫黑风暴
-webview://https://lemonlive.deno.dev/huya/play/11342404
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="三国演义" group-title="剧集",三国演义
-webview://https://lemonlive.deno.dev/huya/play/11602081
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="雪山飞狐" group-title="剧集",雪山飞狐
-webview://https://lemonlive.deno.dev/huya/play/23734176
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="隋唐演义" group-title="剧集",隋唐演义
-webview://https://lemonlive.deno.dev/huya/play/30080219
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="太极宗师" group-title="剧集",太极宗师
-webview://https://lemonlive.deno.dev/huya/play/11342438
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="外科风云" group-title="剧集",外科风云
-webview://https://lemonlive.deno.dev/huya/play/29982672
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="重案六组" group-title="剧集",重案六组
-webview://https://lemonlive.deno.dev/huya/play/23482266
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="乡村爱情" group-title="剧集",乡村爱情
-webview://https://lemonlive.deno.dev/huya/play/30080255
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="大秦帝国" group-title="剧集",大秦帝国
-webview://https://lemonlive.deno.dev/huya/play/11602077
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="李卫当官" group-title="剧集",李卫当官
-webview://https://lemonlive.deno.dev/huya/play/26355788
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="勇敢的心" group-title="剧集",勇敢的心
-webview://https://lemonlive.deno.dev/huya/play/11602037
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="特战荣耀" group-title="剧集",特战荣耀
-webview://https://lemonlive.deno.dev/huya/play/30080252
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="陈翔六点半" group-title="剧集",陈翔六点半
-webview://https://lemonlive.deno.dev/huya/play/11274154
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="乌龙闯情关" group-title="剧集",乌龙闯情关
-webview://https://lemonlive.deno.dev/huya/play/26355767
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="倚天屠龙记" group-title="剧集",倚天屠龙记
-webview://https://lemonlive.deno.dev/huya/play/11342403
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="神医喜来乐" group-title="剧集",神医喜来乐
-webview://https://lemonlive.deno.dev/huya/play/11601978
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="三少爷的剑" group-title="剧集",三少爷的剑
-webview://https://lemonlive.deno.dev/huya/play/30080175
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="我爱男保姆" group-title="剧集",我爱男保姆
-webview://https://lemonlive.deno.dev/huya/play/29581262
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="民兵葛二蛋" group-title="剧集",民兵葛二蛋
-webview://https://lemonlive.deno.dev/huya/play/11602072
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="射雕英雄传" group-title="剧集",射雕英雄传
-video://https://yy.com/1354210357
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="隋唐英雄传" group-title="剧集",隋唐英雄传
-video://https://yy.com/1352475619
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="倚天屠龙记" group-title="剧集",倚天屠龙记
-video://https://yy.com/1354755003
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="倚天屠龙记" group-title="剧集",倚天屠龙记
-video://https://yy.com/1507704566
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="宰相刘罗锅" group-title="剧集",宰相刘罗锅
-video://https://yy.com/1353892468
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="少年包青天" group-title="剧集",少年包青天
-video://https://yy.com/1356043677
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="我的前半生" group-title="剧集",我的前半生
-video://https://yy.com/1382735564
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="情满四合院" group-title="剧集",情满四合院
-video://https://yy.com/1382735541
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="神医喜来乐" group-title="剧集",神医喜来乐
-video://https://yy.com/1382714119
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="来自星星的你" group-title="剧集",来自星星的你
-video://https://yy.com/1354930976
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="我的体育老师" group-title="剧集",我的体育老师
-video://https://yy.com/1382745169
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="小生物的故事" group-title="剧集",小生物的故事
-video://https://yy.com/1382736834
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="地球上的地狱" group-title="剧集",地球上的地狱
-video://https://yy.com/1382736918
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="大汉贤后卫子夫" group-title="剧集",大汉贤后卫子夫
-video://https://yy.com/1382735569
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="康熙微服私访记" group-title="剧集",康熙微服私访记
-video://https://yy.com/1352811698
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="铁齿铜牙纪晓岚" group-title="剧集",铁齿铜牙纪晓岚
-video://https://yy.com/1354143978
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="小鱼儿与花无缺" group-title="剧集",小鱼儿与花无缺
-webview://https://lemonlive.deno.dev/huya/play/29465867
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="铁齿铜牙纪晓岚" group-title="剧集",铁齿铜牙纪晓岚
-webview://https://lemonlive.deno.dev/huya/play/11342396
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="康熙微服私访记" group-title="剧集",康熙微服私访记
-webview://https://lemonlive.deno.dev/huya/play/11342418
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="我的团长我的团" group-title="剧集",我的团长我的团
-webview://https://lemonlive.deno.dev/huya/play/11352910
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="阳光的快乐生活" group-title="剧集",阳光的快乐生活
-webview://https://lemonlive.deno.dev/huya/play/11602085
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="特种兵之火凤凰" group-title="剧集",特种兵之火凤凰
-webview://https://lemonlive.deno.dev/huya/play/29982636
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="特种兵之火凤凰" group-title="剧集",特种兵之火凤凰
-video://https://yy.com/1463088777
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="飞虎之雷霆极战" group-title="剧集",飞虎之雷霆极战
-video://https://yy.com/1382736869
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="飞虎之潜行极战" group-title="剧集",飞虎之潜行极战
-video://https://yy.com/1354932420
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="穿越时空的爱恋" group-title="剧集",穿越时空的爱恋
-video://https://yy.com/1382735567
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="我和僵尸有个约会" group-title="剧集",我和僵尸有个约会
-video://https://yy.com/1354143966
-#EXTINF:-1 tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/tv-gh.png" tvg-name="知否知否应是绿肥红瘦" group-title="剧集",知否知否应是绿肥红瘦
-video://https://yy.com/1354936134
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://live.fanmingming.com/tv/北京文艺.png" group-title="北京",北京文艺
+http://p.ytelc.com/169l/bj/btv.php?id=btv2
+#EXTINF:-1 tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="北京",北京影视
+http://p.ytelc.com/169l/bj/btv.php?id=btv4
+#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://live.fanmingming.com/tv/北京财经.png" group-title="北京",北京财经
+http://p.ytelc.com/169l/bj/btv.php?id=btv5
+#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://live.fanmingming.com/tv/北京生活.png" group-title="北京",北京生活
+http://p.ytelc.com/169l/bj/btv.php?id=btv7
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="北京",北京新闻
+http://p.ytelc.com/169l/bj/btv.php?id=btv9
+#EXTINF:-1 tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实.png" group-title="北京",北京纪实
+http://p.ytelc.com/169l/bj/btv.php?id=btv11
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://live.fanmingming.com/tv/嘉佳卡通.png" group-title="广东",嘉佳卡通
+https://m.miguvideo.com/m/liveDetail/614952364?channelId=10010001005
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="上海",第一财经
+https://m.kankanews.com/huikan/5
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="上海",第一财经
+https://live.kankanews.com/huikan?id=5
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.com/tv/第一财经.png" group-title="上海",第一财经
+https://m.miguvideo.com/m/liveDetail/608780988?channelId=10010001005
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海",纪实人文
+https://m.kankanews.com/huikan/6
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="上海",纪实人文
+https://live.kankanews.com/huikan?id=6
+#EXTINF:-1 tvg-name="新纪实" tvg-logo="https://live.fanmingming.com/tv/新纪实.png" group-title="上海",新纪实
+https://m.kankanews.com/huikan/12
+#EXTINF:-1 tvg-name="新纪实" tvg-logo="https://live.fanmingming.com/tv/新纪实.png" group-title="上海",新纪实
+https://live.kankanews.com/huikan/12
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海",上海都市
+https://m.kankanews.com/huikan/4
+#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="上海",上海都市
+https://live.kankanews.com/huikan?id=4
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="上海",哈哈炫动
+https://m.kankanews.com/huikan/9
+#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://live.fanmingming.com/tv/哈哈炫动.png" group-title="上海",哈哈炫动
+https://live.kankanews.com/huikan?id=9
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海",五星体育
+https://m.kankanews.com/huikan/10
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="上海",五星体育
+https://live.kankanews.com/huikan?id=10
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="上海",劲爆体育
+https://m.miguvideo.com/m/liveDetail/796071336?channelId=10010001005
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="上海",魅力足球
+https://m.miguvideo.com/m/liveDetail/796070308?channelId=10010001005
+#EXTINF:-1 tvg-name="青岛蓝睛" tvg-logo="https://live.fanmingming.com/tv/青岛蓝睛.png" group-title="青岛",青岛蓝睛
+https://lanjingshare.qtvnews.com/share-html/lanjing/share/tv.html?programId=14
+#EXTINF:-1 tvg-name="青岛1" tvg-logo="https://live.fanmingming.com/tv/青岛1.png" group-title="青岛",青岛1
+http://www.qtv.com.cn/live/tv/index.shtml
+#EXTINF:-1 tvg-name="青岛2" tvg-logo="https://live.fanmingming.com/tv/青岛2.png" group-title="青岛",青岛2
+http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
+#EXTINF:-1 tvg-name="青岛3" tvg-logo="https://live.fanmingming.com/tv/青岛3.png" group-title="青岛",青岛3
+http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
+#EXTINF:-1 tvg-name="青岛4" tvg-logo="https://live.fanmingming.com/tv/青岛4.png" group-title="青岛",青岛4
+http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
+#EXTINF:-1 tvg-name="青岛5" tvg-logo="https://live.fanmingming.com/tv/青岛5.png" group-title="青岛",青岛5
+http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
+#EXTINF:-1 tvg-name="青岛6" tvg-logo="https://live.fanmingming.com/tv/青岛6.png" group-title="青岛",青岛6
+http://www.qtv.com.cn/live/tv/tv_qtv6.shtml
+#EXTINF:-1 tvg-name="潍坊新闻综合" tvg-logo="https://live.fanmingming.com/tv/潍坊新闻综合.png" group-title="潍坊",潍坊新闻综合
+https://iapp.wfcmw.cn/share/dHZsLTYzNS0x.html
+#EXTINF:-1 tvg-name="潍坊新闻综合" tvg-logo="https://live.fanmingming.com/tv/潍坊新闻综合.png" group-title="潍坊",潍坊新闻综合
+http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
+#EXTINF:-1 tvg-name="潍坊经济生活" tvg-logo="https://live.fanmingming.com/tv/潍坊经济生活.png" group-title="潍坊",潍坊经济生活
+https://iapp.wfcmw.cn/share/dHZsLTYzNS01.html
+#EXTINF:-1 tvg-name="潍坊经济生活" tvg-logo="https://live.fanmingming.com/tv/潍坊经济生活.png" group-title="潍坊",潍坊经济生活
+http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
+#EXTINF:-1 tvg-name="潍坊影视综艺" tvg-logo="https://live.fanmingming.com/tv/潍坊影视综艺.png" group-title="潍坊",潍坊影视综艺
+https://iapp.wfcmw.cn/share/dHZsLTYzNS03.html
+#EXTINF:-1 tvg-name="潍坊影视综艺" tvg-logo="https://live.fanmingming.com/tv/潍坊影视综艺.png" group-title="潍坊",潍坊影视综艺
+http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
+#EXTINF:-1 tvg-name="潍坊科教文旅" tvg-logo="https://live.fanmingming.com/tv/潍坊科教文旅.png" group-title="潍坊",潍坊科教文旅
+https://iapp.wfcmw.cn/share/dHZsLTYzNS05.html
+#EXTINF:-1 tvg-name="潍坊科教文旅" tvg-logo="https://live.fanmingming.com/tv/潍坊科教文旅.png" group-title="潍坊",潍坊科教文旅
+http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="河北",河北卫视
+https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png" group-title="河北",河北卫视
+https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10524916.shtml?share=true
+#EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://live.fanmingming.com/tv/河北经济生活.png" group-title="河北",河北经济生活
+https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
+#EXTINF:-1 tvg-name="河北经济生活" tvg-logo="https://live.fanmingming.com/tv/河北经济生活.png" group-title="河北",河北经济生活
+https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516507.shtml?share=true
+#EXTINF:-1 tvg-name="河北农民" tvg-logo="https://live.fanmingming.com/tv/河北农民.png" group-title="河北",河北农民
+https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
+#EXTINF:-1 tvg-name="河北农民" tvg-logo="https://live.fanmingming.com/tv/河北农民.png" group-title="河北",河北农民
+https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516508.shtml?share=true
+#EXTINF:-1 tvg-name="河北都市" tvg-logo="https://live.fanmingming.com/tv/河北都市.png" group-title="河北",河北都市
+https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=3
+#EXTINF:-1 tvg-name="河北都市" tvg-logo="https://live.fanmingming.com/tv/河北都市.png" group-title="河北",河北都市
+https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516509.shtml?share=true
+#EXTINF:-1 tvg-name="河北影视剧" tvg-logo="https://live.fanmingming.com/tv/河北影视剧.png" group-title="河北",河北影视剧
+https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=4
+#EXTINF:-1 tvg-name="河北影视剧" tvg-logo="https://live.fanmingming.com/tv/河北影视剧.png" group-title="河北",河北影视剧
+https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516510.shtml?share=true
+#EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教.png" group-title="河北",河北少儿科教
+https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=5
+#EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教.png" group-title="河北",河北少儿科教
+https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516511.shtml?share=true
+#EXTINF:-1 tvg-name="河北文旅公共" tvg-logo="https://live.fanmingming.com/tv/河北文旅公共.png" group-title="河北",河北文旅公共
+https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=6
+#EXTINF:-1 tvg-name="河北文旅公共" tvg-logo="https://live.fanmingming.com/tv/河北文旅公共.png" group-title="河北",河北文旅公共
+https://web.cmc.hebtv.com/cms/rmt0336_html/19/19js/st/xdszb/10516512.shtml?share=true
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://live.fanmingming.com/tv/陕西体育休闲.png" group-title="体育",陕西体育休闲
+http://gxlive.snrtv.com/sx7-SD.m3u8
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="https://live.fanmingming.com/tv/陕西体育休闲.png" group-title="体育",陕西体育休闲
+http://live.snrtv.com/7
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://live.fanmingming.com/tv/江苏体育休闲.png" group-title="体育",江苏体育休闲
+https://live.jstv.com/?channelId=537
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://live.fanmingming.com/tv/江苏体育休闲.png" group-title="体育",江苏体育休闲
+https://m.miguvideo.com/m/liveDetail/626064707?channelId=10010001005
+
+
+
+
+
+
