@@ -61,26 +61,6 @@ http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV17-white.png" group-title="央视",CCTV-17 农业农村
 http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225765/.m3u8
 http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视",CCTV-4K
-webview://https://yangshipin.cn/tv/home?pid=600002264
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CGTN.png" group-title="央视",CGTN
-#http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-https://mursor.ottiptv.cc/migu/609017205.m3u8?migutoken=110276cfc31935e5190717f4cb6ed3aa5ef33228f8e7392a18e4b47b661ccee3d0ebbee986e414c65e9b9f06e4e54aae38ce8be57f4b7726b8ddade1a2dc8e648acb9f0b7b84908c5710a40c53
-https://mursor.ottiptv.cc/mcp/cgtn.m3u8
-https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-https://0472.org/hls/cgtn.m3u8
-http://111.43.126.240:9003/hls/33/index.m3u8
-webview://https://www.cgtn.com/tv
-webview://https://www.yangshipin.cn/tv/home?pid=600014550
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CGTN纪录.png" group-title="央视",CGTN-纪录
-http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
-https://mursor.ottiptv.cc/migu/609006487.m3u8?migutoken=b1dc141918c2a5bf0169ed854e3d314c9fed88542dd702c1ee0bf9dd761ebe53c76455a19d2dcd46c9b05154b810fdbe6e3f1d853ff78f24ebeaf625610e803bb183f1ccf14a3e5d69653aa657
-https://mursor.ottiptv.cc/mcp/cgtndoc.m3u8
-https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-https://0472.org/hls/cgtnd.m3u8
-http://111.43.126.240:9003/hls/32/index.m3u8
-webview://https://www.cgtn.com/channel/documentary
-webview://https://www.yangshipin.cn/tv/home?pid=600084781
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV1.png" group-title="央视",CCTV-1 综合
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -149,6 +129,8 @@ https://mursor.ottiptv.cc/migu/608807423.m3u8?migutoken=fe39dbc56e6fbfbdeb9039bf
 https://mursor.ottiptv.cc/migu/624878440.m3u8?migutoken=0356a1ff0c3f495b2e71105006f3fdb0bcf2b52a562aae221e6bd338708ff816638ea1a73803477f2966672b6a5b046131d01110468cd5b7b76c5b91b5617b6a535cf8d835920171c441995f18
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV15.png" group-title="央视",CCTV-15 音乐
 https://mursor.ottiptv.cc/migu/673168223.m3u8?migutoken=35d71b0a267ff17ea0d5b976e59744fe80035ae654e9e0b2d1d7e7cf44731cc3da70fac533282c2268419f7a54560cffb4853c321373f79efe0a4995bd0045a70401671160d09eacc8007e4a97
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+https://mursor.ottiptv.cc/mst/cctv16.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
 https://mursor.ottiptv.cc/migu/673168256.m3u8?migutoken=b0812e136caf6815e3bcd489c48c9faa674010b6b0e0fb4b6b82781e65e45ac90862a1a0e0c5fbe325e7a75767c69f493ac364506adef806eb9727bc7c844f67d101c044903dbc76c51b79154e
 
@@ -363,6 +345,33 @@ webview://https://yangshipin.cn/tv/home?pid=600098637
 webview://https://tv.cctv.com/live/cctv17/
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
 webview://https://yangshipin.cn/tv/home?pid=600001810
+
+
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视",CCTV-4K
+webview://https://yangshipin.cn/tv/home?pid=600002264
+https://mursor.ottiptv.cc/mxw/cctv4k.m3u8
+#EXTINF:-1,tvg-id="cctv8k" tvg-name="cctv8k" tvg-logo="https://11.112114.xyz/logo/cctv8k.png" group-title="央视",CCTV-8K
+https://mursor.ottiptv.cc/mcp/cctv8k.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CGTN.png" group-title="央视",CGTN
+#http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
+https://mursor.ottiptv.cc/migu/609017205.m3u8?migutoken=110276cfc31935e5190717f4cb6ed3aa5ef33228f8e7392a18e4b47b661ccee3d0ebbee986e414c65e9b9f06e4e54aae38ce8be57f4b7726b8ddade1a2dc8e648acb9f0b7b84908c5710a40c53
+https://mursor.ottiptv.cc/mcp/cgtn.m3u8
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+https://0472.org/hls/cgtn.m3u8
+http://111.43.126.240:9003/hls/33/index.m3u8
+webview://https://www.cgtn.com/tv
+webview://https://www.yangshipin.cn/tv/home?pid=600014550
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CGTN纪录.png" group-title="央视",CGTN-纪录
+http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
+https://mursor.ottiptv.cc/migu/609006487.m3u8?migutoken=b1dc141918c2a5bf0169ed854e3d314c9fed88542dd702c1ee0bf9dd761ebe53c76455a19d2dcd46c9b05154b810fdbe6e3f1d853ff78f24ebeaf625610e803bb183f1ccf14a3e5d69653aa657
+https://mursor.ottiptv.cc/mcp/cgtndoc.m3u8
+https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+https://0472.org/hls/cgtnd.m3u8
+http://111.43.126.240:9003/hls/32/index.m3u8
+webview://https://www.cgtn.com/channel/documentary
+webview://https://www.yangshipin.cn/tv/home?pid=600084781
+
+
 
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226450/.m3u8
@@ -1383,6 +1392,7 @@ https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
 #EXTINF:-1 tvg-id="人在囧途" tvg-name="人在囧途" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="数字",人在囧途
 http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
+
 
 
 
