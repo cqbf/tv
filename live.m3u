@@ -1173,6 +1173,7 @@ http://111.63.117.13:6060/030000001000/G_JINYING/G_JINYING.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/优漫卡通2.png" group-title="少儿",优漫卡通
 https://mursor.ottiptv.cc/migu/626064703.m3u8?migutoken=e277d0e2127a9b33fd73e3b572aaf5e9e15bf837f534b390b3ccc82e99583eed45215e61bf49b8654aed23bf0db6eec2e613e8a7c522e89dfa978f5f678d632af5e8f0d9d1571d1900e256ddc8
 https://migu.188766.xyz/?migutoken=bee1a8a6feb96502105885d05a54fed6&id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&type=yy
+http://106.52.196.79:80/TV/mui.php?id=ymkt
 http://8.138.7.223/tv/migu3.php?id=ymkt
 http://221.224.197.251:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.43.126.240:9003/hls/74/index.m3u8
@@ -1317,7 +1318,7 @@ http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-cctv
 #http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/魅力足球.png" group-title="体育",魅力足球
 http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&Ace
-
+http://106.52.196.79:80/TV/mui.php?id=mlzq
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京体育.png" group-title="体育",北京体育
 http://123.120.10.218:4022/rtp/239.3.1.243:8000
 https://migu.188766.xyz/?migutoken=4b45db37f197126363ce069115ce2c81&id=%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2&type=yy
@@ -1335,9 +1336,11 @@ webview://https://live.kankanews.com/huikan?id=10$webview
 webview://https://m.kankanews.com/huikan/10$webview
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/劲爆体育.png" group-title="体育",劲爆体育
 http://111.8.242.104:4085/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+http://106.52.196.79:80/TV/mui.php?id=jbty
 #EXTINF:-1 tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" tvg-logo="https://live.kakaxi-1.ink/LOGO/江苏体育休闲.png" group-title="体育",江苏体育
 https://mursor.ottiptv.cc/migu/626064707.m3u8?migutoken=cc8bf9d9425a0bedf8a1092178bebe208de291d0e19c4c8123c62d687b233404a9e3be1fb57409871a7812ac71283d51f4e7d3f7b27d1c16ae2497f800399c5dddce8b79b3e616c88eff15f843
 https://migu.188766.xyz/?migutoken=4add0eb213f89e3bdf0115a08ae6d3e0&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
+http://106.52.196.79:80/TV/mui.php?id=jstyxx
 http://8.138.7.223/tv/migu3.php?id=jstyxx
 webview://https://live.jstv.com/?channelId=665$webview
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东体育.png" group-title="体育",山东体育
@@ -1389,6 +1392,13 @@ https://migu.188766.xyz/?migutoken=3611b42455e98a7b706f2bacc5f61ec6&id=%E8%B5%9B
 #EXTINF:-1 tvg-name="体坛名栏汇" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/咪咕体育.png" group-title="体育",体坛名栏汇
 https://mursor.ottiptv.cc/migu/629943305.m3u8?migutoken=3e5af5343dcca6d4dd850f0e76d189ab82f96bc2f2d02b710b60ac1d55c856dca12d18243ad6e90b41f0100762a34147fb947e60cd02345d0e55e0505e15ed645b1a41f464faca67cf492ce2b2
 https://migu.188766.xyz/?migutoken=4f1b65a6c58c3f25958c5f062db95c61&id=%E4%BD%93%E5%9D%9B%E5%90%8D%E6%A0%8F%E6%B1%87&type=yy
+
+#EXTINF:-1 tvg-name="咪咕24小时体育台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/咪咕体育.png" group-title="体育",咪咕24小时
+http://106.52.196.79:80/TV/mui.php?id=mg24hty
+#EXTINF:-1 tvg-name="赛事最经典" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/咪咕体育.png" group-title="体育",赛事最经典
+http://106.52.196.79:80/TV/mui.php?id=sszjd
+#EXTINF:-1 tvg-name="体坛名栏汇" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/咪咕体育.png" group-title="体育",体坛名栏汇
+http://106.52.196.79:80/TV/mui.php?id=ttmlh
 
 #EXTINF:-1 tvg-name="咪咕24小时体育台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/咪咕体育.png" group-title="体育",咪咕24小时
 http://8.138.7.223/tv/migu3.php?id=mg24hty
@@ -1752,8 +1762,10 @@ https://mursor.ottiptv.cc/migu/625133682.m3u8?migutoken=1dd3f9226ebd206fb1ea1ab0
 #EXTINF:-1 tvg-id="新片放映" tvg-name="新片放映" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/movie2.png" group-title="数字", 新片放映
 https://mursor.ottiptv.cc/migu/619495952.m3u8?migutoken=d592f861ecd2d28385471c5498354d7bebb9d4d6d036f71b84a518f4a5d0f6389decb7d52a7bcf3bbf2535b5961fd0747cc55f27b7e591271b0be347905d45851aaf6a894b309057671a8b19b4
 https://migu.188766.xyz/?migutoken=d7bb3d88558d002f27978656e3feabb5&id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&type=yy
+http://106.52.196.79:80/TV/mui.php?id=xpfyt
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/重温经典.png" group-title="数字",重温经典
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
 #EXTINF:-1 tvg-id="人在囧途" tvg-name="人在囧途" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/温馨提示.png" group-title="数字",人在囧途
 http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
+
