@@ -487,37 +487,21 @@ webview://https://m.miguvideo.com/m/liveDetail/796071336?channelId=10010001005
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.cn/tv/魅力足球.png" group-title="上海",魅力足球
 webview://https://m.miguvideo.com/m/liveDetail/796070308?channelId=10010001005
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://live.fanmingming.cn/tv/江苏城市.png" group-title="江苏",江苏城市
-webview://https://live.jstv.com/?channelId=535
-#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://live.fanmingming.cn/tv/江苏城市.png" group-title="江苏",江苏城市
-webview://https://live.jstv.com/?channelld=535
+webview://https://live.jstv.com/?channelld=669
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.cn/tv/江苏综艺.png" group-title="江苏",江苏综艺
-webview://https://live.jstv.com/?channelId=556
-#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.cn/tv/江苏综艺.png" group-title="江苏",江苏综艺
-webview://https://live.jstv.com/?channelld=556
+webview://https://live.jstv.com/?channelld=663
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://live.fanmingming.cn/tv/江苏影视.png" group-title="江苏",江苏影视
-webview://https://live.jstv.com/?channelId=542
-#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://live.fanmingming.cn/tv/江苏影视.png" group-title="江苏",江苏影视
-webview://https://live.jstv.com/?channelld=542
+webview://https://live.jstv.com/?channelId=664
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.cn/tv/江苏新闻.png" group-title="江苏",江苏新闻
-webview://https://live.jstv.com/?channelId=536
-#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.cn/tv/江苏新闻.png" group-title="江苏",江苏新闻
-webview://https://live.jstv.com/?channelld=536
+webview://https://live.jstv.com/?channelld=668
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://live.fanmingming.cn/tv/江苏教育.png" group-title="江苏",江苏教育
-webview://https://live.jstv.com/?channelId=545
-#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://live.fanmingming.cn/tv/江苏教育.png" group-title="江苏",江苏教育
-webview://https://live.jstv.com/?channelld=545
+webview://https://live.jstv.com/?channelId=666
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://live.fanmingming.cn/tv/江苏体育.png" group-title="江苏",江苏体育
-webview://https://live.jstv.com/?channelId=537
-#EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://live.fanmingming.cn/tv/江苏体育.png" group-title="江苏",江苏体育
-webview://https://live.jstv.com/?channelld=537
+webview://https://live.jstv.com/?channelld=665
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://live.fanmingming.cn/tv/江苏国际.png" group-title="江苏",江苏国际
-webview://https://live.jstv.com/?channelId=544
-#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://live.fanmingming.cn/tv/江苏国际.png" group-title="江苏",江苏国际
-webview://https://live.jstv.com/?channelld=544
+webview://https://live.jstv.com/?channelId=671
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="江苏",优漫卡通
-webview://https://live.jstv.com/?channelId=543
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="江苏",优漫卡通
-webview://https://live.jstv.com/?channelld=543
+webview://https://live.jstv.com/?channelld=667
 #EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://live.fanmingming.cn/tv/南京新闻综合.png" group-title="江苏",南京新闻综合
 webview://https://www.nbs.cn/live/?id=109152
 #EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://live.fanmingming.cn/tv/南京十八生活.png" group-title="江苏",南京十八生活
