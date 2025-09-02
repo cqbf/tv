@@ -826,13 +826,15 @@ webview://https://www.gdtv.cn/tvChannelDetail/66
 webview://https://live.kankanews.com/huikan?id=9
 #EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/浙江少儿.png" group-title="少儿",浙江少儿
 webview://https://www.cztv.com/liveTV/108
-#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/黑龙江少儿.png" group-title="少儿" http-user-agent="okhttp",黑龙江少儿
+#EXTINF:-1 tvg-id="黑龙江少儿" tvg-name="黑龙江少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/黑龙江少儿.png" group-title="少儿",黑龙江少儿
 webview://https://www.hljtv.com/live/folder422/
-#EXTINF:-1 tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/内蒙古少儿.png" group-title="少儿" http-user-agent="okhttp",内蒙古少儿
+#EXTVLCOPT:http-user-agent=com.android.chrome/131.0.6778.200 (Linux;Android 15) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/内蒙古少儿.png" group-title="少儿",内蒙古少儿
 webview://http://52zb.work/nmg.php?id=nmse
 #EXTINF:-1 tvg-name="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/河北少儿.png" group-title="少儿",河北少儿科教
 webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=5
-#EXTINF:-1 tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东少儿-white.png" group-title="少儿" http-user-agent="okhttp",山东少儿
+#EXTVLCOPT:http-user-agent=com.android.chrome/131.0.6778.200 (Linux;Android 15) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东少儿-white.png" group-title="少儿",山东少儿
 webview://https://v.iqilu.com/live/sepd/
 
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东教育卫视.png" group-title="少儿",山东教育
@@ -918,7 +920,8 @@ http://106.52.196.79:80/TV/mui.php?id=jstyxx
 http://8.138.7.223/tv/migu3.php?id=jstyxx
 https://migu.188766.xyz/?migutoken=4add0eb213f89e3bdf0115a08ae6d3e0&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 webview://https://live.jstv.com/?channelId=665
-#EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东体育.png" group-title="体育" http-user-agent="okhttp",山东体育休闲
+#EXTVLCOPT:http-user-agent=com.android.chrome/131.0.6778.200 (Linux;Android 15) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东体育.png" group-title="体育",山东体育休闲
 webview://https://v.iqilu.com/live/typd/
 #EXTINF:-1 tvg-id="陕西体育休闲" tvg-name="陕西体育休闲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/陕西体育休闲.png" group-title="体育",陕西体育休闲
 https://mursor.ottiptv.cc/migu/956909356.m3u8?migutoken=874a87800bc73966a73fa2accf3d8cd825b0197140b2ada5739752607274ab3545e032044cf5d95e39069dd159d8cd799fd6c682fa6961828225c0b8cc24b59c1eb3090645247c302e7eedfee1
@@ -926,7 +929,8 @@ webview://http://live.snrtv.com/7
 webview://http://www.sxtvs.com/sxtvs_tyxxpd/index.html
 #EXTINF:-1 tvg-name="黑龙江文体" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/黑龙江文体.png" group-title="体育",黑龙江文体
 http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/广东体育.png" group-title="体育" http-user-agent="okhttp",广东体育
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/广东体育.png" group-title="体育",广东体育
 webview://https://www.gdtv.cn/tvChannelDetail/47
 #EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/广州南国都市.png" group-title="体育",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
@@ -1119,7 +1123,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225670/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225671/1.m3u8
 #EXTINF:-1,tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/BesTV.png" group-title="体育",百视通9
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226102/1.m3u8
-#EXTINF:-1,tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/BesTV.png" group-title="体育",百视通20
+#EXTINF:-1,tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/BesTV.png" group-title="体育",百视通10
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8
 
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京卫视4K.png" group-title="北京",北京卫视4K
@@ -1158,224 +1162,45 @@ javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/ma
 webview://http://p.ytelc.com/169l/bj/btv.php?id=btv7
 
 
-
-#EXTINF:-1 tvg-id="河北卫视4K" tvg-name="河北卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/河北卫视.png" group-title="河北" http-user-agent="okhttp",河北卫视4K
+#EXTINF:-1 tvg-id="河北卫视4K" tvg-name="河北卫视4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/河北卫视.png" group-title="河北",河北卫视4K
 https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 tvg-name="河北三农" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/河北三农.png" group-title="河北" http-user-agent="okhttp",河北三农
+#EXTINF:-1 tvg-name="河北三农" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/河北三农.png" group-title="河北",河北三农
 http://1.94.31.214/php/hebei.php?id=nmpd
 webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
-#EXTINF:-1 tvg-name="河北经济" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/河北经济.png" group-title="河北" http-user-agent="okhttp",河北经济生活
+#EXTINF:-1 tvg-name="河北经济" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/河北经济.png" group-title="河北",河北经济生活
 http://1.94.31.214/php/hebei.php?id=jjsh
 webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
-#EXTINF:-1 tvg-name="河北都市" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/河北都市.png" group-title="河北" http-user-agent="okhttp",河北都市
+#EXTINF:-1 tvg-name="河北都市" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/河北都市.png" group-title="河北",河北都市
 http://1.94.31.214/php/hebei.php?id=hbds
 webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=3
-#EXTINF:-1 tvg-name="河北影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/河北影视.png" group-title="河北" http-user-agent="okhttp",河北影视剧
+#EXTINF:-1 tvg-name="河北影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/河北影视.png" group-title="河北",河北影视剧
 http://1.94.31.214/php/hebei.php?id=hbys
 webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=4
-#EXTINF:-1 tvg-name="河北公共" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/河北公共.png" group-title="河北" http-user-agent="okhttp",河北文旅公共
+#EXTINF:-1 tvg-name="河北公共" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/河北公共.png" group-title="河北",河北文旅公共
 http://1.94.31.214/php/hebei.php?id=hbgg
 webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=6
-#EXTINF:-1 tvg-name="石家庄新闻综合" tvg-logo="https://live.fanmingming.cn/tv/石家庄新闻综合.png" group-title="河北" http-user-agent="okhttp",石家庄新闻综合
-webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=4
-#EXTINF:-1 tvg-name="石家庄城市服务" tvg-logo="https://live.fanmingming.cn/tv/石家庄城市服务.png" group-title="河北" http-user-agent="okhttp",石家庄城市服务
-webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=5
-#EXTINF:-1 tvg-name="石家庄文化娱乐" tvg-logo="https://live.fanmingming.cn/tv/石家庄文化娱乐.png" group-title="河北" http-user-agent="okhttp",石家庄文化娱乐
-webview://http://plusshare.sjzntv.cn/?_hgOutLink=live/livedetail&channel_id=6
-#EXTINF:-1 tvg-name="张家口新闻综合" tvg-logo="https://live.fanmingming.cn/tv/张家口新闻综合.png" group-title="河北" http-user-agent="okhttp",张家口新闻综合
-webview://https://www.zjkgdcs.com/Live/index?liveid=1
-#EXTINF:-1 tvg-name="张家口公共" tvg-logo="https://live.fanmingming.cn/tv/张家口公共.png" group-title="河北" http-user-agent="okhttp",张家口公共
-webview://https://www.zjkgdcs.com/Live/index?liveid=7
-#EXTINF:-1 tvg-name="沧州综合" tvg-logo="https://live.fanmingming.cn/tv/沧州综合.png" group-title="河北" http-user-agent="okhttp",沧州综合
-webview://https://www.czgd.tv/Article/des?infoid=32768&modelid=3
-#EXTINF:-1 tvg-name="沧州公共" tvg-logo="https://live.fanmingming.cn/tv/沧州公共.png" group-title="河北" http-user-agent="okhttp",沧州公共
-webview://https://www.czgd.tv/Article/des?infoid=32769&modelid=3
-#EXTINF:-1 tvg-name="沧州影视娱乐" tvg-logo="https://live.fanmingming.cn/tv/沧州影视娱乐.png" group-title="河北" http-user-agent="okhttp",沧州影视娱乐
-webview://https://www.czgd.tv/Article/des?infoid=32770&modelid=3
-#EXTINF:-1 tvg-name="衡水综合" tvg-logo="https://live.fanmingming.cn/tv/衡水综合.png" group-title="河北" http-user-agent="okhttp",衡水综合
-webview://http://app.hsrtv.cn/web/teletv/tv_content_1.html
-#EXTINF:-1 tvg-name="衡水公共" tvg-logo="https://live.fanmingming.cn/tv/衡水公共.png" group-title="河北" http-user-agent="okhttp",衡水公共
-webview://http://app.hsrtv.cn/web/teletv/tv_content_4.html
-#EXTINF:-1 tvg-name="邢台城市生活" tvg-logo="https://live.fanmingming.cn/tv/邢台城市生活.png" group-title="河北" http-user-agent="okhttp",邢台城市生活
-webview://https://www.xttv.com.cn/index/channel/index/id/64.html
 
-
-
-#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东齐鲁.png" group-title="山东" http-user-agent="okhttp",山东齐鲁
+#EXTVLCOPT:http-user-agent=com.android.chrome/131.0.6778.200 (Linux;Android 15) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东齐鲁.png" group-title="山东",山东齐鲁
+webview://https://v.iqilu.com/live/sdtv/
+#EXTVLCOPT:http-user-agent=com.android.chrome/131.0.6778.200 (Linux;Android 15) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东齐鲁.png" group-title="山东",山东齐鲁
 webview://https://v.iqilu.com/live/qlpd/
-#EXTINF:-1 tvg-name="山东公共" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东新闻.png" group-title="山东" http-user-agent="okhttp",山东新闻
+#EXTVLCOPT:http-user-agent=com.android.chrome/131.0.6778.200 (Linux;Android 15) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-name="山东公共" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东新闻.png" group-title="山东",山东新闻
 webview://https://v.iqilu.com/live/ggpd/
-#EXTINF:-1 tvg-name="山东影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东文旅.png" group-title="山东" http-user-agent="okhttp",山东文旅
+#EXTVLCOPT:http-user-agent=com.android.chrome/131.0.6778.200 (Linux;Android 15) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-name="山东影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东文旅.png" group-title="山东",山东文旅
 webview://https://v.iqilu.com/live/yspd/
-#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东综艺.png" group-title="山东" http-user-agent="okhttp",山东综艺
+#EXTVLCOPT:http-user-agent=com.android.chrome/131.0.6778.200 (Linux;Android 15) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东综艺.png" group-title="山东",山东综艺
 webview://https://v.iqilu.com/live/zypd/
-#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东生活.png" group-title="山东" http-user-agent="okhttp",山东生活
+#EXTVLCOPT:http-user-agent=com.android.chrome/131.0.6778.200 (Linux;Android 15) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东生活.png" group-title="山东",山东生活
 webview://https://v.iqilu.com/live/shpd/
-#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东农科.png" group-title="山东" http-user-agent="okhttp",山东农科
+#EXTVLCOPT:http-user-agent=com.android.chrome/131.0.6778.200 (Linux;Android 15) AndroidXMedia3/1.6.1
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东农科.png" group-title="山东",山东农科
 webview://https://v.iqilu.com/live/nkpd/
-#EXTINF:-1 tvg-name="QTV-1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/QTV-1.png" group-title="山东" http-user-agent="okhttp",青岛新闻综合
-webview://http://www.qtv.com.cn/live/tv/index.shtml
-#EXTINF:-1 tvg-name="QTV-2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/QTV-2.png" group-title="山东" http-user-agent="okhttp",青岛经济生活
-webview://http://www.qtv.com.cn/live/tv/tv_qtv2.shtml
-#EXTINF:-1 tvg-name="QTV-3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/QTV-3.png" group-title="山东" http-user-agent="okhttp",青岛影视
-webview://http://www.qtv.com.cn/live/tv/tv_qtv3.shtml
-#EXTINF:-1 tvg-name="QTV-4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/QTV-4.png" group-title="山东" http-user-agent="okhttp",青岛文化娱乐
-webview://http://www.qtv.com.cn/live/tv/tv_qtv4.shtml
-#EXTINF:-1 tvg-name="QTV-5" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/QTV-5.png" group-title="山东" http-user-agent="okhttp",青岛教育
-webview://http://www.qtv.com.cn/live/tv/tv_qtv5.shtml
-
-#EXTINF:-1 tvg-name="QTV-1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/QTV-1.png" group-title="山东" http-user-agent="okhttp",青岛五四广场
-webview://https://www.qtv.com.cn/live/system/2017/04/28/014282221.shtml
-#EXTINF:-1 tvg-name="QTV-1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/QTV-1.png" group-title="山东" http-user-agent="okhttp",青岛奥帆基地
-webview://https://www.qtv.com.cn/live/system/2017/04/28/014282223.shtml
-#EXTINF:-1 tvg-name="QTV-1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/QTV-1.png" group-title="山东" http-user-agent="okhttp",青岛太平角海岬
-webview://https://www.qtv.com.cn/live/system/2021/10/28/015799150.shtml
-
-#EXTINF:-1 tvg-name="潍坊新闻综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/潍坊新闻综合.png" group-title="山东" http-user-agent="okhttp",潍坊新闻综合
-webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=1
-webview://https://iapp.wfcmw.cn//share//dHZsLTYzNS0x.html
-#EXTINF:-1 tvg-name="潍坊经济生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/潍坊经济生活.png" group-title="山东" http-user-agent="okhttp",潍坊经济生活
-webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=2
-webview://https://iapp.wfcmw.cn//share//dHZsLTYzNS01.html
-#EXTINF:-1 tvg-name="潍坊影视综艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/潍坊影视综艺.png" group-title="山东" http-user-agent="okhttp",潍坊影视综艺
-webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=3
-webview://https://iapp.wfcmw.cn//share//dHZsLTYzNS03.html
-#EXTINF:-1 tvg-name="潍坊科教文旅" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/潍坊科教文旅.png" group-title="山东" http-user-agent="okhttp",潍坊科教文旅
-webview://http://www.wfcmw.cn/wfrtv_pdLive.html?tv=4
-webview://https://iapp.wfcmw.cn//share//dHZsLTYzNS05.html
-#EXTINF:-1 tvg-name="临沂综合" tvg-logo="https://live.fanmingming.cn/tv/临沂综合.png" group-title="山东" http-user-agent="okhttp",临沂综合
-webview://https://www.ilinyi.net/cms/tv/1020403
-#EXTINF:-1 tvg-name="临沂经济" tvg-logo="https://live.fanmingming.cn/tv/临沂经济.png" group-title="山东" http-user-agent="okhttp",临沂经济
-webview://https://www.ilinyi.net/cms/tv/36417907
-#EXTINF:-1 tvg-name="临沂公共" tvg-logo="https://live.fanmingming.cn/tv/临沂公共.png" group-title="山东" http-user-agent="okhttp",临沂公共
-webview://https://www.ilinyi.net/cms/tv/1020769
-#EXTINF:-1 tvg-name="济宁1" tvg-logo="https://live.fanmingming.cn/tv/济宁1.png" group-title="山东" http-user-agent="okhttp",济宁1
-webview://https://www.jnnews.tv/app/tv/76
-#EXTINF:-1 tvg-name="济宁2" tvg-logo="https://live.fanmingming.cn/tv/济宁2.png" group-title="山东" http-user-agent="okhttp",济宁2
-webview://https://www.jnnews.tv/app/tv/152
-#EXTINF:-1 tvg-name="济宁3" tvg-logo="https://live.fanmingming.cn/tv/济宁3.png" group-title="山东" http-user-agent="okhttp",济宁3
-webview://https://www.jnnews.tv/app/tv/74
-#EXTINF:-1 tvg-name="东营新闻综合" tvg-logo="https://live.fanmingming.cn/tv/东营新闻综合.png" group-title="山东" http-user-agent="okhttp",东营新闻综合
-webview://https://www.hhek.cn/folder4/folder3228/
-#EXTINF:-1 tvg-name="东营电视台" tvg-logo="https://live.fanmingming.cn/tv/东营电视台.png" group-title="山东" http-user-agent="okhttp",东营电视台
-webview://https://www.dongyingnews.cn/v/tv/?id=0
-#EXTINF:-1 tvg-name="东营公共" tvg-logo="https://live.fanmingming.cn/tv/东营公共.png" group-title="山东" http-user-agent="okhttp",东营公共
-webview://https://www.hhek.cn/folder4/folder38/
-#EXTINF:-1 tvg-name="东营公共" tvg-logo="https://live.fanmingming.cn/tv/东营公共.png" group-title="山东" http-user-agent="okhttp",东营公共
-webview://https://www.dongyingnews.cn/v/tv/?id=1
-#EXTINF:-1 tvg-name="东营科教" tvg-logo="https://live.fanmingming.cn/tv/东营科教.png" group-title="山东" http-user-agent="okhttp",东营科教
-webview://https://www.hhek.cn/folder4/folder39/
-#EXTINF:-1 tvg-name="东营科教" tvg-logo="https://live.fanmingming.cn/tv/东营科教.png" group-title="山东" http-user-agent="okhttp",东营科教
-webview://https://www.dongyingnews.cn/v/tv/?id=2
-#EXTINF:-1 tvg-name="威海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/威海新闻综合.png" group-title="山东" http-user-agent="okhttp",威海新闻综合
-webview://http://lv.weihai.tv/live_13705e35636b2136b590e5a015bb801c.html
-#EXTINF:-1 tvg-name="威海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/威海新闻综合.png" group-title="山东" http-user-agent="okhttp",威海新闻综合
-webview://https://iapp.weihai.tv/share/dHZsLTE1Ny0x.html
-#EXTINF:-1 tvg-name="威海都市生活" tvg-logo="https://live.fanmingming.cn/tv/威海都市生活.png" group-title="山东" http-user-agent="okhttp",威海都市生活
-webview://http://lv.weihai.tv/live_8bfc704cbba598e76540f5d4f61a0e03.html
-#EXTINF:-1 tvg-name="威海都市生活" tvg-logo="https://live.fanmingming.cn/tv/威海都市生活.png" group-title="山东" http-user-agent="okhttp",威海都市生活
-webview://https://iapp.weihai.tv/share/dHZsLTE1Ny0z.html
-#EXTINF:-1 tvg-name="威海海洋" tvg-logo="https://live.fanmingming.cn/tv/威海海洋.png" group-title="山东" http-user-agent="okhttp",威海海洋
-webview://http://lv.weihai.tv/live_6dffaf124b89957024f9f31de302d183.html
-#EXTINF:-1 tvg-name="威海海洋" tvg-logo="https://live.fanmingming.cn/tv/威海海洋.png" group-title="山东" http-user-agent="okhttp",威海海洋
-webview://https://iapp.weihai.tv/share/dHZsLTE1Ny0xMg.html
-#EXTINF:-1 tvg-name="聊城新闻" tvg-logo="https://live.fanmingming.cn/tv/聊城新闻.png" group-title="山东" http-user-agent="okhttp",聊城新闻
-webview://http://www.lcxw.cn/kands/
-#EXTINF:-1 tvg-name="泰安1" tvg-logo="https://live.fanmingming.cn/tv/泰安1.png" group-title="山东" http-user-agent="okhttp",泰安1
-webview://http://www.taianxinwen.com/tatv/contents/113/1.html
-#EXTINF:-1 tvg-name="泰安2" tvg-logo="https://live.fanmingming.cn/tv/泰安2.png" group-title="山东" http-user-agent="okhttp",泰安2
-webview://http://live.1545ts.net/zhibotatv2.html
-#EXTINF:-1 tvg-name="济铁频道" tvg-logo="https://live.fanmingming.cn/tv/济铁频道.png" group-title="山东" http-user-agent="okhttp",济铁频道
-webview://https://jnjapp.jntlj.com/share/dHZsLTMwMy0x.html
-
-
-
-#EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.cn/tv/江苏综艺.png" group-title="江苏" http-user-agent="okhttp",江苏综艺
-webview://https://live.jstv.com/?channelld=663
-#EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://live.fanmingming.cn/tv/江苏影视.png" group-title="江苏" http-user-agent="okhttp",江苏影视
-webview://https://live.jstv.com/?channelId=664
-#EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://live.fanmingming.cn/tv/江苏体育.png" group-title="江苏" http-user-agent="okhttp",江苏体育
-webview://https://live.jstv.com/?channelld=665
-#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://live.fanmingming.cn/tv/江苏教育.png" group-title="江苏" http-user-agent="okhttp",江苏教育
-webview://https://live.jstv.com/?channelId=666
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.cn/tv/优漫卡通.png" group-title="江苏" http-user-agent="okhttp",优漫卡通
-webview://https://live.jstv.com/?channelld=667
-#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.cn/tv/江苏新闻.png" group-title="江苏" http-user-agent="okhttp",江苏新闻
-webview://https://live.jstv.com/?channelld=668
-#EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://live.fanmingming.cn/tv/江苏城市.png" group-title="江苏" http-user-agent="okhttp",江苏城市
-webview://https://live.jstv.com/?channelld=669
-#EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://live.fanmingming.cn/tv/江苏国际.png" group-title="江苏" http-user-agent="okhttp",江苏国际
-webview://https://live.jstv.com/?channelId=671
-#EXTINF:-1 tvg-name="南京新闻综合" tvg-logo="https://live.fanmingming.cn/tv/南京新闻综合.png" group-title="江苏" http-user-agent="okhttp",南京新闻综合
-webview://https://www.nbs.cn/live/?id=109152
-#EXTINF:-1 tvg-name="南京十八生活" tvg-logo="https://live.fanmingming.cn/tv/南京十八生活.png" group-title="江苏" http-user-agent="okhttp",南京十八生活
-webview://https://www.nbs.cn/live/?id=110094
-#EXTINF:-1 tvg-name="南京科教" tvg-logo="https://live.fanmingming.cn/tv/南京科教.png" group-title="江苏" http-user-agent="okhttp",南京科教
-webview://https://www.nbs.cn/live/?id=109153
-#EXTINF:-1 tvg-name="南京文旅纪录" tvg-logo="https://live.fanmingming.cn/tv/南京文旅纪录.png" group-title="江苏" http-user-agent="okhttp",南京文旅纪录
-webview://https://www.nbs.cn/live/?id=110093
-#EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://live.fanmingming.cn/tv/南京少儿.png" group-title="江苏" http-user-agent="okhttp",南京少儿
-webview://https://www.nbs.cn/live/?id=110095
-#EXTINF:-1 tvg-name="苏州新闻综合" tvg-logo="https://live.fanmingming.cn/tv/苏州新闻综合.png" group-title="江苏" http-user-agent="okhttp",苏州新闻综合
-webview://http://tv.zimtv.cn/tv/js-721.html?ch=js
-#EXTINF:-1 tvg-name="苏州新闻综合" tvg-logo="https://live.fanmingming.cn/tv/苏州新闻综合.png" group-title="江苏" http-user-agent="okhttp",苏州新闻综合
-webview://https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-#EXTINF:-1 tvg-name="苏州社会经济" tvg-logo="https://live.fanmingming.cn/tv/苏州社会经济.png" group-title="江苏" http-user-agent="okhttp",苏州社会经济
-webview://http://tv.zimtv.cn/tv/js-722.html?ch=js
-#EXTINF:-1 tvg-name="苏州社会经济" tvg-logo="https://live.fanmingming.cn/tv/苏州社会经济.png" group-title="江苏" http-user-agent="okhttp",苏州社会经济
-webview://https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-#EXTINF:-1 tvg-name="苏州文化生活" tvg-logo="https://live.fanmingming.cn/tv/苏州文化生活.png" group-title="江苏" http-user-agent="okhttp",苏州文化生活
-webview://http://tv.zimtv.cn/tv/js-723.html?ch=js
-#EXTINF:-1 tvg-name="苏州电影娱乐" tvg-logo="https://live.fanmingming.cn/tv/苏州电影娱乐.png" group-title="江苏" http-user-agent="okhttp",苏州电影娱乐
-webview://http://tv.zimtv.cn/tv/js-724.html?ch=js
-#EXTINF:-1 tvg-name="苏州电影娱乐" tvg-logo="https://live.fanmingming.cn/tv/苏州电影娱乐.png" group-title="江苏" http-user-agent="okhttp",苏州电影娱乐
-webview://https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
-#EXTINF:-1 tvg-name="苏州生活资讯" tvg-logo="https://live.fanmingming.cn/tv/苏州生活资讯.png" group-title="江苏" http-user-agent="okhttp",苏州生活资讯
-webview://http://tv.zimtv.cn/tv/js-725.html?ch=js
-#EXTINF:-1 tvg-name="苏州生活资讯" tvg-logo="https://live.fanmingming.cn/tv/苏州生活资讯.png" group-title="江苏" http-user-agent="okhttp",苏州生活资讯
-webview://https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-#EXTINF:-1 tvg-name="苏州SBS影像长廊" tvg-logo="https://live.fanmingming.cn/tv/苏州SBS影像长廊.png" group-title="江苏" http-user-agent="okhttp",苏州SBS影像长廊
-webview://https://h5.kan0512.com/ksz/app/content/channel/4k
-#EXTINF:-1 tvg-name="无锡新闻综合" tvg-logo="https://live.fanmingming.cn/tv/无锡新闻综合.png" group-title="江苏" http-user-agent="okhttp",无锡新闻综合
-http://stream.thmz.com/wxtv1/playlist.m3u8
-#EXTINF:-1 tvg-name="无锡娱乐" tvg-logo="https://live.fanmingming.cn/tv/无锡娱乐.png" group-title="江苏" http-user-agent="okhttp",无锡娱乐
-http://stream.thmz.com/wxtv2/playlist.m3u8
-#EXTINF:-1 tvg-name="无锡都市资讯" tvg-logo="https://live.fanmingming.cn/tv/无锡都市资讯.png" group-title="江苏" http-user-agent="okhttp",无锡都市资讯
-http://stream.thmz.com/wxtv3/playlist.m3u8
-#EXTINF:-1 tvg-name="无锡生活" tvg-logo="https://live.fanmingming.cn/tv/无锡生活.png" group-title="江苏" http-user-agent="okhttp",无锡生活
-http://stream.thmz.com/wxtv4/playlist.m3u8
-#EXTINF:-1 tvg-name="无锡经济" tvg-logo="https://live.fanmingming.cn/tv/无锡经济.png" group-title="江苏" http-user-agent="okhttp",无锡经济
-http://stream.thmz.com/wxtv5/playlist.m3u8
-#EXTINF:-1 tvg-name="镇江新闻综合" tvg-logo="https://live.fanmingming.cn/tv/镇江新闻综合.png" group-title="江苏" http-user-agent="okhttp",镇江新闻综合
-http://tv.q1.cm/stream/b71cb8847f56152f3d58e9b91368d1e647088849e09ac441e4ceebab99c75847.m3u8
-#EXTINF:-1 tvg-name="镇江新闻综合" tvg-logo="https://live.fanmingming.cn/tv/镇江新闻综合.png" group-title="江苏" http-user-agent="okhttp",镇江新闻综合
-http://tv.hackrss.net/stream/b71cb8847f56152f3d58e9b91368d1e647088849e09ac441e4ceebab99c75847.m3u8
-#EXTINF:-1 tvg-name="泰州-1" tvg-logo="https://live.fanmingming.cn/tv/泰州-1.png" group-title="江苏" http-user-agent="okhttp",泰州-1
-http://stream1.mytaizhou.net/xwzhnew/playlist.m3u8
-#EXTINF:-1 tvg-name="泰州-2" tvg-logo="https://live.fanmingming.cn/tv/泰州-2.png" group-title="江苏" http-user-agent="okhttp",泰州-2
-http://stream1.mytaizhou.net/jjshnew/playlist.m3u8
-#EXTINF:-1 tvg-name="泰州-3" tvg-logo="https://live.fanmingming.cn/tv/泰州-3.png" group-title="江苏" http-user-agent="okhttp",泰州-3
-http://stream1.mytaizhou.net/ysylnew/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="上海" http-user-agent="okhttp",东方卫视
-webview://https://live.kankanews.com/huikan?id=1
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://live.fanmingming.cn/tv/上海新闻综合.png" group-title="上海" http-user-agent="okhttp",上海新闻综合
-webview://https://live.kankanews.com/huikan?id=2
-#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="上海" http-user-agent="okhttp",上海都市
-webview://https://live.kankanews.com/huikan?id=4
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://live.fanmingming.cn/tv/第一财经.png" group-title="上海" http-user-agent="okhttp",第一财经
-webview://https://live.kankanews.com/huikan?id=5
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://live.fanmingming.cn/tv/纪实人文.png" group-title="上海" http-user-agent="okhttp",纪实人文
-webview://https://live.kankanews.com/huikan?id=6
-#EXTINF:-1 tvg-name="魔都眼" tvg-logo="https://live.fanmingming.cn/tv/魔都眼.png" group-title="上海" http-user-agent="okhttp",魔都眼
-webview://https://live.kankanews.com/huikan?id=11
-#EXTINF:-1 tvg-name="新纪实" tvg-logo="https://live.fanmingming.cn/tv/新纪实.png" group-title="上海" http-user-agent="okhttp",新纪实
-webview://https://live.kankanews.com/huikan?id=12
-#EXTINF:-1 tvg-name="上海教育电视台" tvg-logo="https://live.fanmingming.cn/tv/上海教育电视台.png" group-title="上海" http-user-agent="okhttp",上海教育电视台
-webview://https://tvi.ct.ws/shanghaijiaoyu.html
-
 
 
 #EXTINF:-1 tvg-name="黑龙江农业科教" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业科教
@@ -1501,6 +1326,7 @@ https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
 #EXTINF:-1 tvg-id="人在囧途" tvg-name="人在囧途" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/温馨提示.png" group-title="数字",人在囧途
 http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
+
 
 
 
