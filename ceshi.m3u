@@ -525,3 +525,25 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/1.m3u8
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视测试",CCTV-16 UD
 http://[2409:8087:1e01:20::3]/000000000000/5000000008000023254/1.m3u8?$13M3840x2160·3.10-29.40-44
 
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV1-white.png" group-title="央视1" http-user-agent="okHttp/Mod-1.2.0.1",CCTV-1 综合
+https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=106324b7bddde5d8f239c47df286bfea78dc4414a28be116a9b6f8b16a7e1be989080ca6df45e2c3c7cbb8a73308c31710e9aa616a2f668c4f347d1673aa8e09eea0b54bbd518b8b98b66cbc63
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV2-white.png" group-title="央视1" http-user-agent="okHttp/Mod-1.2.0.1",CCTV-2 经济
+https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=e3525a6ec367c860843eab442744ad4bf5a788e4332090eff633c641a43ddd1e05990c13b3aa34c0b9fed0f41e181a5854200ca948b5bdf4b2a991c2c53f9c853483a6c270d72c48e0b66e9806
+
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0.1
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV1-white.png" group-title="央视1",CCTV-1综合
+https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=106324b7bddde5d8f239c47df286bfea78dc4414a28be116a9b6f8b16a7e1be989080ca6df45e2c3c7cbb8a73308c31710e9aa616a2f668c4f347d1673aa8e09eea0b54bbd518b8b98b66cbc63
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0.1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV2-white.png" group-title="央视1",CCTV-2经济
+https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=e3525a6ec367c860843eab442744ad4bf5a788e4332090eff633c641a43ddd1e05990c13b3aa34c0b9fed0f41e181a5854200ca948b5bdf4b2a991c2c53f9c853483a6c270d72c48e0b66e9806
+
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="央视1", CCTV1综合
+https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=156ed4b84eaf5b856ac23171cae821e0977a30fa33445c4c2f49ced92a641afd7b1412afa30df78817e85f6e404482c382168e986b2619c490dac6c799967f9036824e361995351949e59cea10
+#EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/945/202205311432_1653977575541_H169_1080.jpg" group-title="央视1", CCTV2财经
+https://mursor.ottiptv.cc/migu/631780532.m3u8?migutoken=8fa585db3c67670cbc4a67d072f0f6439761c39f0c5554692d39ea85b2c1a731c19508e33bb9fcf1c1d24540a3506c392c373e77a74d22693490887d6d1c9da4628ef57fe663b88407f3b7bb3a
+
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/广东体育.png" group-title="体育" http-user-agent="com.android.chrome/131.0.6778.200 (Linux;Android 15) AndroidXMedia3/1.6.1",广东体育
+webview://https://www.gdtv.cn/tvChannelDetail/47
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/广东体育.png" group-title="体育" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1 Edg/133.0.0.0",广东体育
+webview://https://www.gdtv.cn/tvChannelDetail/47
