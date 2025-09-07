@@ -2,47 +2,6 @@
 #EXTINF:-1 tvg-name="更新时间" tvg-id="更新时间" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东体育.png" group-title="更新时间", 2025-09-05
 https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4
 
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/陕西卫视.png" group-title="卫视",陕西卫视
-http://[2409:8087:1a15:10d1::30]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226457/.m3u8
-http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226457/.m3u8
-http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226457/.m3u8
-http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226457/.m3u8
-http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226457/.m3u8
-http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226457/.m3u8
-http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226457/.m3u8
-http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226457/.m3u8
-http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226457/.m3u8
-http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226457/.m3u8
-http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
-
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CETV1.png" group-title="少儿",中国教育1台
-http://[2409:8087:1a15:10d1::30]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CETV4.png" group-title="少儿",中国教育4台
-http://[2409:8087:1a15:10d1::30]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-http://[2409:8087:1a15:10d1::40]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-
-
-
-
-
 
 
 #60.191.56.186网段，略有卡顿，不作主力
@@ -546,9 +505,6 @@ http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225773/1.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226008/1.m3u8
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/乐游.png" group-title="上海",乐游
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226157/1.m3u8
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226115/1.m3u8
 
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/BesTV.png" group-title="体育",百视通1
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225663/1.m3u8
@@ -586,3 +542,4 @@ http://8.138.7.223/tv/migu666.php?name=赛事最经典
 http://106.52.196.79:80/TV/mui.php?id=ttmlh
 http://8.138.7.223/tv/migu3.php?id=ttmlh
 http://8.138.7.223/tv/migu666.php?name=体坛名栏汇
+
