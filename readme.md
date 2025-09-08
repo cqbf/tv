@@ -6,7 +6,7 @@
 **直播源地址**  
 `1.`[`peterHchina`](https://github.com/peterHchina/iptv) `各路直播资源大集锦`  
 `2.`[`wwb521`](https://github.com/wwb521/live/blob/main/tv.m3u) `提供IPTV直播源，还提供Json支持TVBox`  
-`3.`[`kakaxi-1`](https://github.com/kakaxi-1/IPTV)  `来自`[`live.kakaxi-1.ink`](https://live.kakaxi-1.ink) `关注txt`  
+`3.`[`kakaxi-1`](https://github.com/kakaxi-1/IPTV)  `关注txt`  
 `4.`[`vbskycn`](https://github.com/vbskycn/iptv/tree/master/tv)  `来自`[`zbds.top`](https://zbds.top) `txt频道数量多于m3u`  
 `5.`[`kilvn`](https://github.com/kilvn/iptv/blob/master/iptv.m3u) `来自`[`live.kilvn.com`](https://live.kilvn.com/)`大容量源，地方`  
 `6.`[`kimwang1978`](https://github.com/kimwang1978/collect-tv-txt/blob/main/live.m3u)  `来自`[`iptv365.org`](https://iptv365.org/)`大容量源`  
@@ -15,12 +15,8 @@
 `9.`[`suxuang`](https://github.com/suxuang/myIPTV) `移动专享`  
 `10.`[`zhanghuan12345`](https://gitee.com/zhanghuan12345/my-live) `gitee`  
 
-`11.`[`https://yang-1989.eu.org`](https://yang-1989.eu.org)  `YanG-1989`  
-`订阅git版`[`https://bit.ly/IPTV-Gather`](https://bit.ly/IPTV-Gather)  
-`订阅vps版`[`https://tv.iill.top/m3u/Gather`](https://tv.iill.top/m3u/Gather)  
-`电视直播`[`https://tv-1.iill.top/m3u/Gather`](https://tv-1.iill.top/m3u/Gather)  
-`网络直播`[`https://tv-1.iill.top/m3u/Live`](https://tv-1.iill.top/m3u/Live)  
-`体育直播`[`https://tv-1.iill.top/m3u/Sport`](https://tv-1.iill.top/m3u/Sport)  
+`11.`[`https://yang-1989.eu.org`](https://yang-1989.eu.org)  `YanG-1989`[`https://bit.ly/IPTV-Gather`](https://bit.ly/IPTV-Gather)  
+
 
 
 **直播源转换**  
@@ -33,10 +29,9 @@
 `7.`[`https://custom-m3u.vercel.app/`](https://custom-m3u.vercel.app/)  
 
 **节目单地址**  
-`1.`[`https://live.fanmingming.cn/e.xml`](https://live.fanmingming.cn/e.xml)  
-`2.`[`https://live.kakaxi-1.ink/epg.xml`](https://live.kakaxi-1.ink/epg.xml)  
-`3.`[`http://epg.51zmt.top:8000/e.xml`](http://epg.51zmt.top:8000/e.xml)  
-`4.`[`https://epg.112114.xyz`](https://epg.112114.xyz/)  
+`1.`[`http://epg.51zmt.top:8000/e.xml`](http://epg.51zmt.top:8000/e.xml)  
+`2.`[`https://live.fanmingming.cn/e.xml`](https://live.fanmingming.cn/e.xml)  
+`3.`[`https://epg.112114.xyz`](https://epg.112114.xyz/)  
 
 **常用图标库**  
 `1.`[`wanglindl`](https://github.com/wanglindl/TVlogo) `补充少儿频道、足球频道，睛彩频道备用`  
@@ -47,5 +42,6 @@
 `6.`[`sparkssssssssss`](https://github.com/sparkssssssssss/epg/tree/main/logo) `图标多版本，超级大全，更新及时`  
 `7.`[`livednow`](https://assets.livednow.com/guide.html) `卫视首选、求索首选、CETV；央视全透明、NewTV浅色、iHOT备用`  
 `8.`[`fenxp`](https://github.com/fenxp/iptvsss/tree/main/tv) `备用` 
+
 
 
