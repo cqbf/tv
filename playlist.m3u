@@ -816,13 +816,13 @@ webview://https://live.kankanews.com/huikan?id=10
 webview://https://m.kankanews.com/huikan/10
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/劲爆体育.png" group-title="体育",劲爆体育
 http://111.8.242.104:4085/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" tvg-logo="https://live.kakaxi-1.ink/LOGO/江苏体育休闲.png" group-title="体育" http-user-agent="okHttp/Mod-1.2.0.1",江苏体育
-https://mgtv.ottiptv.cc/migu/626064707.m3u8?migutoken=bc8b30056a771dbe457523398d228405a5e8d9208c1c7ae793323ad4c57c0c3ea947a85519d7287f91d76aa6d8ada70f90bb82554686fa5ba583c5ca1f2e040ab6dad77b70939e096076b1dc31
+#EXTINF:-1 tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="体育" http-user-agent="okHttp/Mod-1.2.0.1",江苏体育
+https://mgtv.ottiptv.cc/migu/626064707.m3u8?migutoken=ad05eee7c3e31cfb344e18ae4fc6a8689753dfed106168148e4dcf17a1bcb0e4a17ce094ea45bfdf38c73967bd395f0d946ee6f9de4ef361e71dacce69030e440d5e292d1f64915ebb5334ff9c&tm=1757353151&sign=650e39a43d12c07703f460a60d41200c
 webview://https://live.jstv.com/?channelId=665
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东体育.png" group-title="体育" http-user-agent="com.android.chrome/131.0.6778.200 (Linux;Android 15) AndroidXMedia3/1.6.1",山东体育
 webview://https://v.iqilu.com/live/typd/
 #EXTINF:-1 tvg-id="陕西体育休闲" tvg-name="陕西体育休闲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/陕西体育休闲.png" group-title="体育" http-user-agent="okHttp/Mod-1.2.0.1",陕西体育
-https://mgtv.ottiptv.cc/migu/956909356.m3u8?migutoken=bf75c0277b603ea42e5e7c49bb0985e4d3ebd9762d35f373cee28505ee3734a9c41cdf5168ab0ff3e7127d1745739fd431e857d17a39d7bed66a16d4f04dd096c182507c4c9d563a263bd96f55
+https://mgtv.ottiptv.cc/migu/956909356.m3u8?migutoken=f98a0bff53eae2df1eef66aba99bb354195ee5f7f48eb7483e1d7da6dedc710b5b05ef7f0e4f7a09d75d72ceba91125634ebeff0180fe2eafbfc42ca771a233f99beb02c6da94688729f3f7ca6&tm=1757353151&sign=65c306b218201acd560dd28a74462553
 webview://http://live.snrtv.com/7
 webview://http://www.sxtvs.com/sxtvs_tyxxpd/index.html
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/广东体育.png" group-title="体育" http-user-agent="com.android.chrome/131.0.6778.200 (Linux;Android 15) AndroidXMedia3/1.6.1",广东体育
@@ -1150,3 +1150,4 @@ http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 
 #EXTINF:-1 tvg-id="人在囧途" tvg-name="人在囧途" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/温馨提示.png" group-title="数字",人在囧途
 http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
+
