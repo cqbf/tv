@@ -314,6 +314,11 @@ http://[2409:8087:1a15:10d1::37]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226313/.m3u8
 http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/海南卫视.png" group-title="卫视",海南卫视
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226154/1.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/广西卫视.png" group-title="卫视",广西卫视
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226130/1.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226084/1.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/云南卫视.png" group-title="卫视",云南卫视
 http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
@@ -394,11 +399,6 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225745/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225731/1.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/深圳卫视.png" group-title="卫视",深圳卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225728/1.m3u8
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/海南卫视.png" group-title="卫视",海南卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226154/1.m3u8
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/广西卫视.png" group-title="卫视",广西卫视
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226130/1.m3u8
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226084/1.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/云南卫视.png" group-title="卫视",云南卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226151/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226109/1.m3u8
@@ -703,6 +703,7 @@ http://115.190.105.236/bjtime.php?id=bjkk
 http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225654/.m3u8
 http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226019/1.m3u8
+http://60.29.124.66:6080/hls/58/index.m3u8
 http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/金鹰卡通.png" group-title="少儿",金鹰卡通
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226094/1.m3u8
@@ -710,8 +711,6 @@ http://111.63.117.13:6060/030000001000/G_JINYING/G_JINYING.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/优漫卡通2.png" group-title="少儿" http-user-agent="okHttp/Mod-1.2.0.1",优漫卡通
 https://mgtv.ottiptv.cc/migu/626064703.m3u8?migutoken=67269ef95fa5a31d8c78561ec8b9f0b41f9d44b0e1a88cb5a1c38d4b1b54b22935a032ca986d024f3b10f570eec6e66f1c7d7f6434e960f29c82a51571184229cbc193b9ee9c5de840a5e08e30
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/优漫卡通2.png" group-title="少儿",优漫卡通
-http://106.52.196.79:80/TV/mui.php?id=ymkt
-http://8.138.7.223/tv/migu3.php?id=ymkt
 http://111.63.117.13:6060/030000001000/G_YOUMAN/G_YOUMAN.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/嘉佳卡通.png" group-title="少儿" http-user-agent="okHttp/Mod-1.2.0.1",嘉佳卡通
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226021/1.m3u8
@@ -721,6 +720,7 @@ http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225657/.
 http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226161/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226175/1.m3u8
+http://60.29.124.66:6080/hls/62/index.m3u8
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/动漫秀场.png" group-title="少儿",动漫秀场
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225764/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226138/1.m3u8
@@ -756,7 +756,6 @@ webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=5
 webview://https://v.iqilu.com/live/sepd/
 
 #EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东教育卫视.png" group-title="少儿",山东教育
-http://8.138.7.223/tv/sdjy.m3u8
 https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 http://livewai.sdetv.com.cn/live/da4ebbb91ee8468db5a9d230a535391f_transios/playlist.m3u8
 http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
@@ -808,8 +807,6 @@ http://[2409:8087:1e01:20::3]/000000000000/5000000008000023254/1.m3u8?$13M3840x2
 #http://111.61.236.247:9081/hls/58/index.m3u8
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京体育.png" group-title="体育",北京体育
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/bjtime.js?id=bjty
-https://migu.188766.xyz/?migutoken=59639f71fc6627fab50a937fc25414d7&id=%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2&type=yy
-https://migu.188766.xyz/?migutoken=daf33a98bb78778f31ff47ef75619f7b&id=%E5%8C%97%E4%BA%AC%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2&type=yy
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/五星体育-white.png" group-title="体育",五星体育
 http://8.138.7.223/tv/shtv.php?id=wxty
 https://gdcucc.v1.mk/gdcucc/wxty.m3u8
@@ -820,16 +817,12 @@ webview://https://m.kankanews.com/huikan/10
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/劲爆体育.png" group-title="体育",劲爆体育
 http://111.8.242.104:4085/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" tvg-logo="https://live.kakaxi-1.ink/LOGO/江苏体育休闲.png" group-title="体育" http-user-agent="okHttp/Mod-1.2.0.1",江苏体育
-https://mgtv.ottiptv.cc/migu/626064707.m3u8?migutoken=491df84ae32591fdbff81eeba2e5d5fc191e549bbde430fc5b3186341ac5c6c9d1153fd1aef8356778fd0da30488fb77a53cc2cc4778867f6c889eca85d9873d7cefa07485be0c5d016ab731bf
-#EXTINF:-1 tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" tvg-logo="https://live.kakaxi-1.ink/LOGO/江苏体育休闲.png" group-title="体育",江苏体育
-http://106.52.196.79:80/TV/mui.php?id=jstyxx
-http://8.138.7.223/tv/migu3.php?id=jstyxx
-https://migu.188766.xyz/?migutoken=f8e54ca954b74268bab35773229be217&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
+https://mgtv.ottiptv.cc/migu/626064707.m3u8?migutoken=bc8b30056a771dbe457523398d228405a5e8d9208c1c7ae793323ad4c57c0c3ea947a85519d7287f91d76aa6d8ada70f90bb82554686fa5ba583c5ca1f2e040ab6dad77b70939e096076b1dc31
 webview://https://live.jstv.com/?channelId=665
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东体育.png" group-title="体育" http-user-agent="com.android.chrome/131.0.6778.200 (Linux;Android 15) AndroidXMedia3/1.6.1",山东体育
 webview://https://v.iqilu.com/live/typd/
 #EXTINF:-1 tvg-id="陕西体育休闲" tvg-name="陕西体育休闲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/陕西体育休闲.png" group-title="体育" http-user-agent="okHttp/Mod-1.2.0.1",陕西体育
-https://mgtv.ottiptv.cc/migu/956909356.m3u8?migutoken=537f41b132752ddecf45c6961f259728d075da371d21ce377b97c0dd87c77f01af39317b659e123c4ec137e20015acfabca007171dd79dd783c71207f78bb4f93b09ebe63db4a8a71c59a92674
+https://mgtv.ottiptv.cc/migu/956909356.m3u8?migutoken=bf75c0277b603ea42e5e7c49bb0985e4d3ebd9762d35f373cee28505ee3734a9c41cdf5168ab0ff3e7127d1745739fd431e857d17a39d7bed66a16d4f04dd096c182507c4c9d563a263bd96f55
 webview://http://live.snrtv.com/7
 webview://http://www.sxtvs.com/sxtvs_tyxxpd/index.html
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/广东体育.png" group-title="体育" http-user-agent="com.android.chrome/131.0.6778.200 (Linux;Android 15) AndroidXMedia3/1.6.1",广东体育
@@ -1040,9 +1033,6 @@ webview://https://live.kankanews.com/huikan?id=1
 #EXTINF:-1 tvg-id="新闻综合" tvg-name="新闻综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/新闻综合.png" group-title="上海",新闻综合
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/1.m3u8
 webview://https://live.kankanews.com/huikan?id=2
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/上海都市.png" group-title="上海",上海都市
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225749/1.m3u8
-webview://https://live.kankanews.com/huikan?id=4
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/第一财经.png" group-title="上海",第一财经
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225737/1.m3u8
 webview://https://live.kankanews.com/huikan?id=5
@@ -1057,6 +1047,9 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225762/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/1.m3u8
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/欢笑剧场.png" group-title="上海",欢笑剧场
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/1.m3u8
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/上海都市.png" group-title="上海",上海都市
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225749/1.m3u8
+webview://https://live.kankanews.com/huikan?id=4
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/生活时尚.png" group-title="上海",生活时尚
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225768/1.m3u8
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/金色学堂.png" group-title="上海",金色学堂
@@ -1064,13 +1057,13 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225748/1.m3u8
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/游戏风云.png" group-title="上海",游戏风云
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226117/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226140/1.m3u8
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/乐游.png" group-title="上海",乐游
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226157/1.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226115/1.m3u8
 #EXTINF:-1 tvg-id="魔都眼" tvg-name="魔都眼" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/魔都眼.png" group-title="上海",魔都眼
 webview://https://live.kankanews.com/huikan?id=11
 #EXTINF:-1 tvg-id="新纪实" tvg-name="新纪实" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/新纪实.png" group-title="上海",新纪实
 webview://https://live.kankanews.com/huikan?id=12
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/乐游.png" group-title="上海",乐游
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226157/1.m3u8
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226115/1.m3u8
 
 
 
@@ -1157,4 +1150,3 @@ http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 
 #EXTINF:-1 tvg-id="人在囧途" tvg-name="人在囧途" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/温馨提示.png" group-title="数字",人在囧途
 http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8
-
