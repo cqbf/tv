@@ -1,7 +1,4 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 tvg-name="更新时间" tvg-id="更新时间" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东体育.png" group-title="更新时间", 2025-09-05
-https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4
-
 
 #111.43.126.240网段，略有卡顿，不作主力
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV2-white.png" group-title="央视",CCTV-2 经济
@@ -323,31 +320,3 @@ http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225773/1.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226008/1.m3u8
-
-
-
-
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/嘉佳卡通.png" group-title="测试",嘉佳卡通
-webview://https://www.gdtv.cn/tvChannelDetail/66
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/广东体育.png" group-title="测试",广东体育
-webview://https://www.gdtv.cn/tvChannelDetail/47
-
-#EXTINF:-1 tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东少儿-white.png" group-title="测试",山东少儿
-webview://https://v.iqilu.com/live/sepd/
-#EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东体育.png" group-title="测试",山东体育
-webview://https://v.iqilu.com/live/typd/
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东卫视.png" group-title="测试",山东卫视
-webview://https://v.iqilu.com/live/sdtv/
-#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东齐鲁.png" group-title="测试",山东齐鲁
-webview://https://v.iqilu.com/live/qlpd/
-#EXTINF:-1 tvg-name="山东公共" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东新闻.png" group-title="测试",山东新闻
-webview://https://v.iqilu.com/live/ggpd/
-#EXTINF:-1 tvg-name="山东影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东文旅.png" group-title="测试",山东文旅
-webview://https://v.iqilu.com/live/yspd/
-#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东综艺.png" group-title="测试",山东综艺
-webview://https://v.iqilu.com/live/zypd/
-#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东生活.png" group-title="测试",山东生活
-webview://https://v.iqilu.com/live/shpd/
-#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东农科.png" group-title="测试",山东农科
-webview://https://v.iqilu.com/live/nkpd/
-
