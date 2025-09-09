@@ -344,3 +344,35 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225671/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226102/1.m3u8
 #EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/BesTV.png" group-title="体育",百视通10
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8
+
+
+
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CGTN.png" group-title="测试" http-user-agent="okHttp/Mod-1.3.0.0",CGTN
+https://mgtv.ottiptv.cc/migu/609017205.m3u8?migutoken=a7f97775c702e1c0879c3c25f8850e9bf269b76168155d92115164b7735cedf5de40223517026dd174df1e4cc81e88025576a26e9531dfdbe51c4e18d79d3c893280c771900e44ca142a05422a
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CGTN纪录.png" group-title="测试" http-user-agent="okHttp/Mod-1.3.0.0",CGTN-纪录
+https://mgtv.ottiptv.cc/migu/609006487.m3u8?migutoken=662c8923df37a9e6a17e6999a98c2397963f055bfaef21c59e161c3265e3bdc795142aa27a43dc0700def86e6c4b78ee31821bd4d583d08e8baca81ac0cacdde184b57d63146a4b24e65c51748
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/优漫卡通2.png" group-title="测试" http-user-agent="okHttp/Mod-1.3.0.0",优漫卡通
+https://mgtv.ottiptv.cc/migu/626064703.m3u8?migutoken=67269ef95fa5a31d8c78561ec8b9f0b41f9d44b0e1a88cb5a1c38d4b1b54b22935a032ca986d024f3b10f570eec6e66f1c7d7f6434e960f29c82a51571184229cbc193b9ee9c5de840a5e08e30
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/嘉佳卡通.png" group-title="测试" http-user-agent="okHttp/Mod-1.3.0.0",嘉佳卡通
+https://mgtv.ottiptv.cc/migu/614952364.m3u8?migutoken=c6178497dd420501ce402b91a0450f41b326308de0d476afa0ce102a870bf132f5e0b93620f4bee5830fce745cebf3d291fa05cbbea3fdbdb49652897d8b136b76537b7aad7bd3ae8cb320f258
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CETV1.png" group-title="测试" http-user-agent="okHttp/Mod-1.3.0.0",中国教育1台
+https://mgtv.ottiptv.cc/migu/923287154.m3u8?migutoken=0b2bc0d17196ba00ba665afb990709120db0efc0f71a6cfe4311606f9e7306b390563266bff53f787eb4d769d0673a1a631b569494571f267bf26c6e0c528ad1e31274c7d3012a26f672cfe534
+#EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CETV2.png" group-title="测试" http-user-agent="okHttp/Mod-1.3.0.0",中国教育2台
+https://mgtv.ottiptv.cc/migu/923287211.m3u8?migutoken=0b404a5a511c0773131c057f614189007a386ab73cb0268ea86e7344f1ac29b600657e69950d86e67e4a71c2646a8c056713285a9d02b72f16adb10a5fa3163cc355b4e789d8c6611713b2f400
+#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CETV4.png" group-title="测试" http-user-agent="okHttp/Mod-1.3.0.0",中国教育4台
+https://mgtv.ottiptv.cc/migu/923287339.m3u8?migutoken=e0e1aa7cfc9885085dd017f24c6810da2deff46ab4a1798fc84915e7a1b73c12ee3778b7f77762bda1f086e373c2e322134f782e7c89008ac746158276c5aa186b6b750a19121ea075af58f588
+#EXTINF:-1 tvg-id="江苏体育休闲" tvg-name="江苏体育休闲" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="测试" http-user-agent="okHttp/Mod-1.3.0.0",江苏体育
+https://mgtv.ottiptv.cc/migu/626064707.m3u8?migutoken=ad05eee7c3e31cfb344e18ae4fc6a8689753dfed106168148e4dcf17a1bcb0e4a17ce094ea45bfdf38c73967bd395f0d946ee6f9de4ef361e71dacce69030e440d5e292d1f64915ebb5334ff9c&tm=1757353151&sign=650e39a43d12c07703f460a60d41200c
+#EXTINF:-1 tvg-id="陕西体育休闲" tvg-name="陕西体育休闲" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/陕西体育休闲.png" group-title="测试" http-user-agent="okHttp/Mod-1.3.0.0",陕西体育
+https://mgtv.ottiptv.cc/migu/956909356.m3u8?migutoken=f98a0bff53eae2df1eef66aba99bb354195ee5f7f48eb7483e1d7da6dedc710b5b05ef7f0e4f7a09d75d72ceba91125634ebeff0180fe2eafbfc42ca771a233f99beb02c6da94688729f3f7ca6&tm=1757353151&sign=65c306b218201acd560dd28a74462553
+#EXTINF:-1 tvg-id="抗战经典" tvg-name="抗战经典" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/movie2.png" group-title="测试" http-user-agent="okHttp/Mod-1.3.0.0", 抗战经典
+https://mgtv.ottiptv.cc/migu/617432318.m3u8?migutoken=5bc449a3ccdb2419558dec28e0f0cc3ba1236bf76ed5b515c500b207c7ddd33546d86e558a5a63a7a31445c8a7c3a4781d933d80e2e8400d45bc7ade158475db37e8cac03421ae05286fa52a8d
+#EXTINF:-1 tvg-id="新片放映" tvg-name="新片放映" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/movie2.png" group-title="测试" http-user-agent="okHttp/Mod-1.3.0.0", 新片放映
+https://mgtv.ottiptv.cc/migu/619495952.m3u8?migutoken=b61410ebe02de52d91741068f7adad060c54cbae6260c3ea00290560ce7303a378bb5a7a09d3091bafbeb3960a61e2fd6568791a4d03db9a958295931ba25b9e7e02c548de54ee8dbeb9e8076a
+
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CHC影迷电影.png" group-title="测试" http-user-agent="okHttp/Mod-1.3.0.0",CHC影迷电影
+https://mgtv.ottiptv.cc/migu/952383261.m3u8?migutoken=a34e4b2c0f26498be1adbd8345347dc23f0640a39cb845752ecb9a7ca2fa72d65c884b9cb8200a54e2d5f95d274b759c0c203d646231f964a63e290fadafd012c3bbf32109e4e17e95f6780547
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CHC动作电影.png" group-title="测试" http-user-agent="okHttp/Mod-1.3.0.0",CHC动作电影
+https://mgtv.ottiptv.cc/migu/644368714.m3u8?migutoken=4560e7c3057e88de7982b7db97b099ca8e845404f509eecfda842afeebb6e0f56b395a8276019f7ed722017147b1a70e9dc959dcfed100facacec159a601a865605665771c5c59de2823df6b56
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CHC家庭影院.png" group-title="测试" http-user-agent="okHttp/Mod-1.3.0.0",CHC家庭影院
+https://mgtv.ottiptv.cc/migu/644368373.m3u8?migutoken=96653ba44c4403b1bb7de587c539e6861b3a58726df4a0dc3857f7267f85950ff7afe8b2786fbd2ac2cf4dac4e7c05e77b8ed3986bc9c3ab9e62fed4ec527924cf1c81957481f68bdd780f9489
