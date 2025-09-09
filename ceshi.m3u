@@ -324,26 +324,8 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225773/1.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226008/1.m3u8
 
-#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/BesTV.png" group-title="体育",百视通1
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225663/1.m3u8
-#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/BesTV.png" group-title="体育",百视通2
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225664/1.m3u8
-#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/BesTV.png" group-title="体育",百视通3
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225665/1.m3u8
-#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/BesTV.png" group-title="体育",百视通4
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225666/1.m3u8
-#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/BesTV.png" group-title="体育",百视通5
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225667/1.m3u8
-#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/BesTV.png" group-title="体育",百视通6
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225669/1.m3u8
-#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/BesTV.png" group-title="体育",百视通7
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225670/1.m3u8
-#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/BesTV.png" group-title="体育",百视通8
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225671/1.m3u8
-#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/BesTV.png" group-title="体育",百视通9
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226102/1.m3u8
-#EXTINF:-1 tvg-id="BesTV" tvg-name="BesTV" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/BesTV.png" group-title="体育",百视通10
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8
+
+
 
 
 
@@ -376,3 +358,4 @@ https://mgtv.ottiptv.cc/mg/952383261.m3u8?token=fb19307c2f7c9e824061cfc7dc7ea4e3
 https://mgtv.ottiptv.cc/mg/644368714.m3u8?token=ed28c3e0fb0d180e7f82122e4340dd05d976fd2bb07716b1b0e0f08ce063766b5bdd88d6e97905d25bb4655537b52b93fc00fc9e72ab5de3470d2c56caa077ceaaf7b41c304b2543f3863c7cf3&tm=1757387428&sign=1142ec7e336c179cdd541363afa3a78b
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/554/911/202308221200_1692676825616_H169_1080.jpg" group-title="影视", CHC家庭影院
 https://mgtv.ottiptv.cc/mg/644368373.m3u8?token=b263c5d154508a1d5a5c41c3b8c5df1afbb832187befe527e8244af332655184ec0f6f788fc7bd252dbb7426aadb0a595de617079f3a22d82a273bb4c7be1f2c7fcda3566925858e6812d26778&tm=1757387428&sign=1e05f6607dc64105b2654b9944dd8b97
+
