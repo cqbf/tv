@@ -248,12 +248,39 @@ http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 
 
-#备用
+#2409:8087:1e01:20::3网段，部分弃用
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/康巴卫视.png" group-title="卫视",康巴卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225773/1.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226008/1.m3u8
 
+#EXTINF:-1 tvg-id="新闻综合" tvg-name="新闻综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/新闻综合.png" group-title="上海",新闻综合
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/1.m3u8
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/第一财经.png" group-title="上海",第一财经
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225737/1.m3u8
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/东方财经.png" group-title="上海",东方财经
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/1.m3u8
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/法治天地.png" group-title="上海",法治天地
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/1.m3u8
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/东方影视.png" group-title="上海",东方影视
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225744/1.m3u8
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/都市剧场.png" group-title="上海",都市剧场
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225762/1.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/1.m3u8
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/欢笑剧场.png" group-title="上海",欢笑剧场
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/1.m3u8
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/上海都市.png" group-title="上海",上海都市
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225749/1.m3u8
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/生活时尚.png" group-title="上海",生活时尚
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225768/1.m3u8
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/金色学堂.png" group-title="上海",金色学堂
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225748/1.m3u8
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/游戏风云.png" group-title="上海",游戏风云
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226117/1.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226140/1.m3u8
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/乐游.png" group-title="上海",乐游
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226157/1.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226115/1.m3u8
 
 
 #备用
@@ -356,3 +383,4 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 #http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225912/1.m3u8
 #EXTINF:-1 tvg-name="咪咕体育33" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/体育赛事.png" group-title="体育",咪咕体育33
 #http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
+
