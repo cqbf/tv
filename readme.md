@@ -1,8 +1,3 @@
-`本git不生产任何资源，是网络资源的搬运工，整理自用，请勿订阅。`  `感谢大佬们的付出，侵权必删！`  
-
-**直播源订阅**  
-`github加速代理` [`https://ghproxy.net/`](https://ghproxy.net/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u) 或 [`https://ghfast.top/`](https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u) 或 [`https://gh-proxy.com/`](https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u)  
-
 **直播源地址**  
 `1.`[`peterHchina`](https://github.com/peterHchina/iptv) `各路直播资源大集锦` `含YanG-1989`  
 `2.`[`CHINA-IPTV`](https://github.com/xisohi/CHINA-IPTV)  `来自xisohi/CHINA-IPTV，本地单播组播`  
@@ -23,10 +18,8 @@
 `5.`[`https://custom-m3u.vercel.app`](https://custom-m3u.vercel.app)  
 `6.`[`http://duboy.free.coms.su/diyp/l2list.php`](http://duboy.free.coms.su/diyp/l2list.php)  
 
-**节目单地址**  
-`1.`[`http://epg.51zmt.top:8000/e.xml`](http://epg.51zmt.top:8000/e.xml) `老张EPG提供今明两日节目`  
-`2.`[`https://live.fanmingming.cn/e.xml`](https://raw.githubusercontent.com/fanmingming/live/main/e.xml) `cn失效，使用git地址`  
-`3.`[`https://epg.112114.xyz`](https://epg.112114.xyz/pp.xml) `来自sparkssssssssss`  
+**直播源代理**  
+`github加速代理:` [`https://ghproxy.net/`](https://ghproxy.net/)  [`https://ghfast.top/`](https://ghfast.top/)  [`https://gh-proxy.com/`](https://gh-proxy.com/)  
 
 **常用图标库**  
 `1.`[`wanglindl`](https://github.com/wanglindl/TVlogo) `频道较全，整理清晰，已经停更`  
@@ -36,3 +29,4 @@
 `5.`[`echolin73`](https://github.com/echolin73/logo/tree/main/tvg-logo) `补充山西卫视、BesTV、红牛；央视深色备用`  
 `6.`[`sparkssssssssss`](https://github.com/sparkssssssssss/epg/tree/main/logo) `更新及时，图标多版本，超级大全`  
 `7.`[`fenxp`](https://github.com/fenxp/iptvsss/tree/main/tv) `备用图标地址` 
+
