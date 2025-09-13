@@ -253,7 +253,7 @@ webview://https://www.yangshipin.cn/tv/home?pid=600084781
 
 
 
-#卫视（2409:8087:1e01:20::3网段，甘肃、新疆缺失）
+#卫视（2409:8087:1e01:20::3网段）
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225724/1.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/天津卫视.png" group-title="卫视",天津卫视
@@ -314,7 +314,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226113/1.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226086/1.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/gansustv/1.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226090/1.m3u8
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226090/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226092/1.m3u8
@@ -324,7 +324,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226105/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226012/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225767/1.m3u8
 #EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/新疆卫视.png" group-title="卫视",新疆卫视
-http://111.43.126.240:9003/hls/64/index.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226088/1.m3u8
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226111/1.m3u8
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/康巴卫视.png" group-title="卫视",康巴卫视
@@ -332,7 +332,7 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225773/1.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226008/1.m3u8
 
-#卫视（hbgslbserv.taipan.jda.bcs.ottcn.com网段，补位甘肃，多频道缺失）
+#卫视（hbgslbserv.taipan.jda.bcs.ottcn.com网段，多频道缺失）
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京卫视.png" group-title="卫视",北京卫视
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/beijingstv/1.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/天津卫视.png" group-title="卫视",天津卫视
@@ -371,6 +371,8 @@ http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/guizhoustv/1.m3u8
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/sichuanstv/1.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/重庆卫视.png" group-title="卫视",重庆卫视
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/chongqingstv/1.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/gansustv/1.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/liaoningstv/1.m3u8
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/吉林卫视.png" group-title="卫视",吉林卫视
@@ -378,7 +380,7 @@ http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jilinstv/1.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-2500k-1080P-heilongjiangstv/1.m3u8
 
-#卫视（111.43.126.240网段，补位新疆，多频道缺失）
+#卫视（111.43.126.240网段，多频道缺失）
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京卫视.png" group-title="卫视",北京卫视
 http://111.43.126.240:9003/hls/41/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/天津卫视.png" group-title="卫视",天津卫视
@@ -437,6 +439,8 @@ http://111.43.126.240:9003/hls/67/index.m3u8
 http://111.43.126.240:9003/hls/59/index.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://111.43.126.240:9003/hls/58/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/新疆卫视.png" group-title="卫视",新疆卫视
+http://111.43.126.240:9003/hls/64/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://111.43.126.240:9003/hls/66/index.m3u8
 
@@ -910,4 +914,5 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226157/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226115/1.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/重温经典.png" group-title="上海",重温经典
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+
 
