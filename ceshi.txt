@@ -1,15 +1,21 @@
 2-40.1a-3a.1f-3f,#genre#
 CCTV1,http://[2409:8087:1a15:10d1::2]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV1,http://[2409:8087:1a15:10d1::4]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV1,http://[2409:8087:1a15:10d1::7]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV1,http://[2409:8087:1a15:10d1::9]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV1,http://[2409:8087:1a15:10d1::11]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV1,http://[2409:8087:1a15:10d1::15]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV1,http://[2409:8087:1a15:10d1::19]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV1,http://[2409:8087:1a15:10d1::23]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV1,http://[2409:8087:1a15:10d1::26]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV1,http://[2409:8087:1a15:10d1::28]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV1,http://[2409:8087:1a15:10d1::40]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV1,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV1,http://[2409:8087:1a15:10d1::40]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV1,http://[2409:8087:1a15:10d1::1a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV1,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV1,http://[2409:8087:1a15:10d1::2a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV1,http://[2409:8087:1a15:10d1::3a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV1,http://[2409:8087:1a15:10d1::1f]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV1,http://[2409:8087:1a15:10d1::2f]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV1,http://[2409:8087:1a15:10d1::3f]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 
 黑龙江移动,#genre#
