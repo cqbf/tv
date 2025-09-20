@@ -679,7 +679,7 @@ http://111.43.126.240:9003/hls/17/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV5+-white.png" group-title="体育",CCTV-5+ 体育赛事
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
 http://111.43.126.240:9003/hls/18/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/cctv16-white.png" group-title="央视",CCTV-16 奥林匹克
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/cctv16-white.png" group-title="体育",CCTV-16 奥林匹克
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226120/1.m3u8
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-cctv16/1.m3u8
 http://111.43.126.240:9003/hls/29/index.m3u8
@@ -875,7 +875,7 @@ http://58.58.111.222:808/hls/64/index.m3u8?key=txiptv
 webview://https://v.iqilu.com/live/nkpd/
 
 
-#上海
+#地方（上海）
 #EXTINF:-1 tvg-id="新闻综合" tvg-name="新闻综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/新闻综合.png" group-title="上海",新闻综合
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/1.m3u8
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/第一财经.png" group-title="上海",第一财经
@@ -902,6 +902,3 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226157/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226115/1.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/重温经典.png" group-title="上海",重温经典
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-
-
-
