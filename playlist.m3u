@@ -684,30 +684,23 @@ javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/ma
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225724/1.m3u8
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/bjtime.js?id=bjws
 webview://https://www.brtn.cn/btv/btvsy_index?channel=北京卫视
-webview://https://www.xuexi.cn/xxqg.html?id=b2e730bcb7e8468ea028135c602a561d
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京纪实科教.png" group-title="北京",北京纪实科教
 http://115.190.105.236/bjtime.php?id=bjjs
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/bjtime.js?id=bjjs
-webview://http://p.ytelc.com/169l/bj/btv.php?id=btv3
 #EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京新闻.png" group-title="北京",北京新闻
 http://115.190.105.236/bjtime.php?id=bjxw
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/bjtime.js?id=bjxw
-webview://http://p.ytelc.com/169l/bj/btv.php?id=btv9
 #EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京文艺.png" group-title="北京",北京文艺
 http://115.190.105.236/bjtime.php?id=bjwy
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/bjtime.js?id=bjwy
-webview://http://p.ytelc.com/169l/bj/btv.php?id=btv2
 #EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京影视.png" group-title="北京",北京影视
 http://115.190.105.236/bjtime.php?id=bjys
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/bjtime.js?id=bjys
-webview://http://p.ytelc.com/169l/bj/btv.php?id=btv4
 #EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京财经.png" group-title="北京",北京财经
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/bjtime.js?id=bjcj
-webview://http://p.ytelc.com/169l/bj/btv.php?id=btv5
 #EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京生活.png" group-title="北京",北京生活
 http://115.190.105.236/bjtime.php?id=bjsh
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/bjtime.js?id=bjsh
-webview://http://p.ytelc.com/169l/bj/btv.php?id=btv7
 
 
 #地方（河北）
@@ -758,6 +751,10 @@ webview://https://v.iqilu.com/live/nkpd/
 
 
 #地方（上海）
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/东方卫视.png" group-title="上海",东方卫视
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225725/1.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226106/1.m3u8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226050/1.m3u8
 #EXTINF:-1 tvg-id="新闻综合" tvg-name="新闻综合" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/新闻综合.png" group-title="上海",新闻综合
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/1.m3u8
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/第一财经.png" group-title="上海",第一财经
@@ -768,8 +765,6 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225994/1.m3u8
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/上海都市.png" group-title="上海",上海都市
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225749/1.m3u8
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/生活时尚.png" group-title="上海",生活时尚
-http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225768/1.m3u8
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/东方影视.png" group-title="上海",东方影视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225744/1.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/都市剧场.png" group-title="上海",都市剧场
@@ -777,11 +772,10 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225762/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/1.m3u8
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/欢笑剧场.png" group-title="上海",欢笑剧场
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225771/1.m3u8
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/生活时尚.png" group-title="上海",生活时尚
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225768/1.m3u8
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/金色学堂.png" group-title="上海",金色学堂
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225748/1.m3u8
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/乐游.png" group-title="上海",乐游
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226157/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226115/1.m3u8
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/重温经典.png" group-title="上海",重温经典
-https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-
