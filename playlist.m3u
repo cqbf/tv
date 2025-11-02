@@ -66,9 +66,6 @@ http://111.63.118.100:6060/030000001000/CCTV-16-HD/CCTV-16-HD.m3u8
 http://111.63.117.13:6060/030000001001/HD-4000k-1080P-cctv17/1.m3u8
 http://111.63.117.13:6060/030000001000/G_CCTV-17/G_CCTV17.m3u8
 
-
-
-
 #央视（webview tv.cctv.com 网段）
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV1-white-white.png" group-title="央视" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-1 综合
 webview://https://tv.cctv.com/live/cctv1/
@@ -142,8 +139,6 @@ webview://https://yangshipin.cn/tv/home?pid=600001815
 webview://https://yangshipin.cn/tv/home?pid=600098637
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV17-white-white.png" group-title="央视",CCTV-17 农业农村
 webview://https://yangshipin.cn/tv/home?pid=600001810
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV4K-white.png" group-title="央视",CCTV-4K 超高清
-webview://https://yangshipin.cn/tv/home?pid=600002264
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CGTN-white.png" group-title="央视",CGTN
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
@@ -237,15 +232,13 @@ http://111.63.117.13:6060/030000001000/G_JILIN/G_JILIN.m3u8
 http://111.63.117.13:6060/030000001001/HD-2500k-1080P-heilongjiangstv/1.m3u8
 http://111.63.117.13:6060/030000001000/G_HEILONGJIANG-CQ/G_HEILONGJIANG-CQ.m3u8
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-http://111.63.117.13:6060/030000001001/lneimenggustv/1.m3u8
+http://111.63.117.13:6060/030000001001/neimenggustv/1.m3u8
 http://111.63.117.13:6060/030000001000/G_NEIMENGGU/G_NEIMENGGU.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山西卫视.png" group-title="卫视",山西卫视
 http://111.63.117.13:6060/030000001001/shanxistv/1.m3u8
 http://111.63.117.13:6060/030000001000/SXWS/SXWS.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/陕西卫视.png" group-title="卫视",陕西卫视
-http://111.63.117.13:6060/030000001001/Shaanxistv/1.m3u8
-http://111.63.117.13:6060/030000001000/G_SHAANXI/G_SHAANXI.m3u8
-http://111.63.117.13:6060/030000001000/SHAANXI/SHAANXI.m3u8
+http://111.63.117.13:6060/030000001001/shaanxistv/1.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://111.63.117.13:6060/030000001001/gansustv/1.m3u8
 http://111.63.117.13:6060/030000001000/G_GANSU/G_GANSU.m3u8
@@ -263,7 +256,6 @@ http://php.jdshipin.com:8880/xztv.php?id=ws
 http://111.63.117.13:6060/030000001001/xinjiangstv/1.m3u8
 http://111.63.117.13:6060/030000001000/G_XINJIANG/G_XINJIANG.m3u8
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/兵团卫视.png" group-title="卫视",兵团卫视
-http://111.63.117.13:6060/030000001001/bingtuanstv/1.m3u8
 http://111.63.117.13:6060/030000001000/G_BINGTUAN/G_BINGTUAN.m3u8
 
 #卫视（webview yangshipin 网段）
@@ -471,3 +463,4 @@ webview://https://v.iqilu.com/live/zypd/
 webview://https://v.iqilu.com/live/shpd/
 #EXTINF:-1 tvg-name="山东农科" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东农科.png" group-title="山东",山东农科
 webview://https://v.iqilu.com/live/nkpd/
+
