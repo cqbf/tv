@@ -7,7 +7,7 @@ http://111.63.117.13:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8
 http://111.63.118.98:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8
 http://111.63.118.99:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8
 http://111.63.118.100:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV2-white.png" group-title="央视",CCTV-2 经济
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV2-white.png" group-title="央视",CCTV-2 财经
 http://111.63.117.13:6060/030000001001/cctv-2/1.m3u8
 http://111.63.117.13:6060/030000001000/G_CCTV-2/G_CCTV-2.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV3-white.png" group-title="央视",CCTV-3 综艺
@@ -55,7 +55,7 @@ http://111.63.117.13:6060/030000001001/cctv-15/1.m3u8
 http://111.63.117.13:6060/030000001000/G_CCTV-15/G_CCTV-15.m3u8
 http://111.63.117.13:6060/030000001000/G_CCTV-15/G_CCTV15.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV16-white.png" group-title="央视",CCTV-16 奥林匹克
-http://111.63.117.13:6060/030000001001/HD-4000k-1080P-CCTV16/1.m3u8
+http://111.63.117.13:6060/030000001001/HD-4000k-1080P-cctv16/1.m3u8
 http://111.63.117.13:6060/030000001000/G_CCTV-16/G_CCTV-16.m3u8
 http://111.63.117.13:6060/030000001000/G_CCTV-16/G_CCTV16.m3u8
 http://111.63.117.13:6060/030000001000/CCTV-16-HD/CCTV-16-HD.m3u8
@@ -63,7 +63,7 @@ http://111.63.118.98:6060/030000001000/CCTV-16-HD/CCTV-16-HD.m3u8
 http://111.63.118.99:6060/030000001000/CCTV-16-HD/CCTV-16-HD.m3u8
 http://111.63.118.100:6060/030000001000/CCTV-16-HD/CCTV-16-HD.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV17-white.png" group-title="央视",CCTV-17 农业农村
-http://111.63.117.13:6060/030000001001/HD-4000k-1080P-CCTV17/1.m3u8
+http://111.63.117.13:6060/030000001001/HD-4000k-1080P-cctv17/1.m3u8
 http://111.63.117.13:6060/030000001000/G_CCTV-17/G_CCTV17.m3u8
 
 #央视（javascript 网段）
@@ -105,7 +105,7 @@ javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/ma
 #央视（webview tv.CCTV.com 网段）
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV1-white.png" group-title="央视" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-1 综合
 webview://https://tv.CCTV.com/live/CCTV1/
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV2-white.png" group-title="央视" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-2 经济
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV2-white.png" group-title="央视" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-2 财经
 webview://https://tv.CCTV.com/live/CCTV2/
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV3-white.png" group-title="央视" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks",CCTV-3 综艺
 webview://https://tv.CCTV.com/live/CCTV3/
@@ -143,7 +143,7 @@ webview://https://tv.CCTV.com/live/CCTV17/
 #央视（webview yangshipin 网段）
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV1-white.png" group-title="央视",CCTV-1 综合
 webview://https://yangshipin.cn/tv/home?pid=600001859
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV2-white.png" group-title="央视",CCTV-2 经济
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV2-white.png" group-title="央视",CCTV-2 财经
 webview://https://yangshipin.cn/tv/home?pid=600001800
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV4-white.png" group-title="央视",CCTV-4 中文国际
 webview://https://yangshipin.cn/tv/home?pid=600001814
@@ -456,7 +456,7 @@ http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
 http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
 http://111.63.118.98:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV16-white.png" group-title="体育",CCTV-16 奥林匹克
-http://111.63.117.13:6060/030000001001/HD-4000k-1080P-CCTV16/1.m3u8
+http://111.63.117.13:6060/030000001001/HD-4000k-1080P-cctv16/1.m3u8
 http://111.63.117.13:6060/030000001000/G_CCTV-16/G_CCTV-16.m3u8
 http://111.63.117.13:6060/030000001000/G_CCTV-16/G_CCTV16.m3u8
 http://111.63.117.13:6060/030000001000/CCTV-16-HD/CCTV-16-HD.m3u8
@@ -522,7 +522,7 @@ webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=0
 #EXTINF:-1 tvg-id="河北三农" tvg-name="河北三农" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/河北三农.png" group-title="河北",河北三农
 http://1.94.31.214/php/hebei.php?id=nmpd
 webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=2
-#EXTINF:-1 tvg-id="河北经济" tvg-name="河北经济" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/河北经济.png" group-title="河北",河北经济生活
+#EXTINF:-1 tvg-id="河北财经" tvg-name="河北财经" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/河北财经.png" group-title="河北",河北财经生活
 http://1.94.31.214/php/hebei.php?id=jjsh
 webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=1
 #EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/河北都市.png" group-title="河北",河北都市
@@ -575,4 +575,5 @@ javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/ma
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CHC动作电影
 #EXTINF:-1 tvg-id="chc家庭影院" tvg-name="chc家庭影院" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/chc家庭影院.png" group-title="数字",CHC家庭影院
 javascript://https://raw.githubusercontent.com/mytv-android/mytvJS/refs/heads/main/js/mgd_github.js?channel=CHC家庭影院
+
 
