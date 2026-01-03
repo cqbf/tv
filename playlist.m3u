@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url=“https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #央视（111.63.117.13网段，16缺失自编测试，注意小写cctv不可以更改）
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV1-white.png" group-title="央视",CCTV-1 综合
@@ -675,3 +675,4 @@ webview://https://v.iqilu.com/live/shpd/
 http://144.255.31.207:6688/udp/239.21.1.183:5002
 http://144.255.32.94:8288/udp/239.21.1.183:5002
 webview://https://v.iqilu.com/live/nkpd/
+
