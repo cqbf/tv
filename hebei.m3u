@@ -127,3 +127,90 @@ http://111.63.117.13:6060/030000001000/G_KAKU/G_KAKU.m3u8
 http://111.63.117.13:6060/030000001000/G_JINYING/G_JINYING.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/优漫卡通2.png" group-title="少儿频道",优漫卡通
 http://111.63.117.13:6060/030000001000/G_YOUMAN/G_YOUMAN.m3u8
+
+
+#来自 https://ds65.tv1288.xyz
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="河北移动(内)",CCTV1
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-1/1.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="河北移动(内)",CCTV2
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-2/1.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="河北移动(内)",CCTV3
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-3/1.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="河北移动(内)",CCTV4
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-4/1.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="河北移动(内)",CCTV5
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-5/1.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="河北移动(内)",CCTV5+
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="河北移动(内)",CCTV6
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-6/1.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="河北移动(内)",CCTV7
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-7/1.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="河北移动(内)",CCTV8
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-8/1.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="河北移动(内)",CCTV9
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-news/1.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="河北移动(内)",CCTV10
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-10/1.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="河北移动(内)",CCTV11
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-11/1.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="河北移动(内)",CCTV12
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-12/1.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="河北移动(内)",CCTV13
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-13/1.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="河北移动(内)",CCTV14
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-14/1.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="河北移动(内)",CCTV15
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-15/1.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="河北移动(内)",CCTV16
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/-4000k-1080P-cctv16/1.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="河北移动(内)",CCTV17
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/-4000k-1080P-cctv17/1.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="河北移动(内)",河北卫视
+http://39.135.133.180/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="河北移动(内)",安徽卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/anhuistv/1.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="河北移动(内)",湖南卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/hunanstv/1.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="河北移动(内)",东方卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dongfangstv/1.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="河北移动(内)",北京卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/beijingstv/1.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="河北移动(内)",浙江卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/zhejiangstv/1.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="河北移动(内)",江苏卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jiangsustv/1.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="河北移动(内)",天津卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/tianjinstv/1.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.cn/tv/河南卫视.png" group-title="河北移动(内)",河南卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/henanstv/1.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="河北移动(内)",重庆卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/chongqingstv/1.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="河北移动(内)",东南卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/dongnanstv/1.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="河北移动(内)",四川卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/sichuanstv/1.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="河北移动(内)",山东卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shandongstv/1.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="河北移动(内)",辽宁卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/liaoningstv/1.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="河北移动(内)",深圳卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shenzhenstv/1.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="河北移动(内)",江西卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jiangxistv/1.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="河北移动(内)",贵州卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/guizhoustv/1.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="河北移动(内)",吉林卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jilinstv/1.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="河北移动(内)",广东卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/guangdongstv/1.m3u8
+#EXTINF:-1 tvg-name="龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/龙江卫视.png" group-title="河北移动(内)",龙江卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/-2500k-1080P-heilongjiangstv/1.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="河北移动(内)",广西卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/guangxistv/1.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="河北移动(内)",湖北卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/-2500k-1080P-hubeistv/1.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="河北移动(内)",甘肃卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/gansustv/1.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="河北移动(内)",海南卫视
+http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/hainanstv/1.m3u8
