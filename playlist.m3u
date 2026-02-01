@@ -546,7 +546,6 @@ webview://https://live.jstv.com/?channelId=665
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东体育.png" group-title="体育",山东体育
 webview://https://v.iqilu.com/live/typd/
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/广东体育.png" group-title="体育",广东体育
-http://k.061899.xyz/m.php?id=gdty
 webview://https://www.gdtv.cn/tvChannelDetail/47
 
 
@@ -620,3 +619,4 @@ webview://https://v.iqilu.com/live/zypd/
 webview://https://v.iqilu.com/live/shpd/
 #EXTINF:-1 tvg-id="山东农科" tvg-name="山东农科" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东农科.png" group-title="山东",山东农科
 webview://https://v.iqilu.com/live/nkpd/
+
