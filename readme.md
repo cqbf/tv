@@ -1,14 +1,14 @@
+**直播源代理**  
+`github加速代理:` [`https://ghproxy.net/`](https://ghproxy.net/)  [`https://ghfast.top/`](https://ghfast.top/)  [`https://gh-proxy.com/`](https://gh-proxy.com/)  
+
 **直播源地址**  
 `1.`[`peterHchina`](https://github.com/peterHchina/iptv) `各路直播资源大集锦` `含YanG-1989`  
 `2.`[`CHINA-IPTV`](https://github.com/xisohi/CHINA-IPTV)  `来自xisohi/CHINA-IPTV，本地单播组播`  
 `3.`[`suxuang`](https://github.com/suxuang/myIPTV) `移动专享,ipv6/v4`  
-`4.`[`kakaxi-1`](https://github.com/kakaxi-1/IPTV)  `整理比较勤快，可关注两个txt`  
-`5.`[`wwb521`](https://github.com/wwb521/live/blob/main/tv.m3u) `提供IPTV直播源，还提供Json支持TVBox`  
-`6.`[`kilvn`](https://github.com/kilvn/iptv/blob/master/iptv.m3u) `来自`[`live.kilvn.com`](https://live.kilvn.com/)`大容量源，地方`  
-`7.`[`kimwang1978`](https://github.com/kimwang1978/collect-txt/blob/main/bbxx_lite.m3u)  `来自`[`iptv365.org`](https://iptv365.org/)`大容量源`  
-`8.`[`lalifeier`](https://github.com/lalifeier/IPTV/blob/main/m3u/IPTV.m3u)  `大容量源，关注地方频道/体育频道`  
-`9.`[`vbskycn`](https://github.com/vbskycn/iptv/tree/master/tv)  `来自`[`zbds.top`](https://zbds.top) `txt频道数量多于m3u`  
-`10.`[`zhanghuan12345`](https://gitee.com/zhanghuan12345/my-live) `gitee，多地直播源`  
+`4.`[`vbskycn`](https://github.com/vbskycn/iptv/tree/master/tv)  `来自`[`zbds.top`](https://zbds.top) `txt频道数量多于m3u`  
+`5.`[`kimwang1978`](https://github.com/kimwang1978/collect-txt/blob/main/bbxx_lite.m3u)  `来自`[`iptv365.org`](https://iptv365.org/)`大容量源`  
+`6.`[`lalifeier`](https://github.com/lalifeier/IPTV/blob/main/m3u/IPTV.m3u)  `大容量源，关注地方频道/体育频道`  
+`7.`[`zhanghuan12345`](https://gitee.com/zhanghuan12345/my-live) `gitee，多地直播源`  
 
 **直播源转换**  
 `1.`[`https://xoxo.wang`](https://xoxo.wang)  
@@ -16,10 +16,6 @@
 `3.`[`https://yang-1989.eu.org/Conversion.php`](https://yang-1989.eu.org/Conversion.php)  
 `4.`[`https://www.judy.xx.kg/lives.php`](https://www.judy.xx.kg/lives.php)  
 `5.`[`https://custom-m3u.vercel.app`](https://custom-m3u.vercel.app)  
-`6.`[`http://duboy.free.coms.su/diyp/l2list.php`](http://duboy.free.coms.su/diyp/l2list.php)  
-
-**直播源代理**  
-`github加速代理:` [`https://ghproxy.net/`](https://ghproxy.net/)  [`https://ghfast.top/`](https://ghfast.top/)  [`https://gh-proxy.com/`](https://gh-proxy.com/)  
 
 **常用图标库**  
 `1.`[`wanglindl`](https://github.com/wanglindl/TVlogo) `频道较全，整理清晰，已经停更`  
@@ -29,4 +25,5 @@
 `5.`[`echolin73`](https://github.com/echolin73/logo/tree/main/tvg-logo) `补充山西卫视、BesTV、红牛；央视深色备用`  
 `6.`[`sparkssssssssss`](https://github.com/sparkssssssssss/epg/tree/main/logo) `更新及时，图标多版本，超级大全`  
 `7.`[`fenxp`](https://github.com/fenxp/iptvsss/tree/main/tv) `备用图标地址` 
+
 
