@@ -1233,6 +1233,30 @@ http://hls.netlive.ggff.net/hls/hljws.m3u8
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://hls.netlive.ggff.net/hls/nmgws.m3u8
 
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CGTN.png" group-title="央视",CGTN
+http://hls.netlive.ggff.net/hls/cgtn英语.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CGTN纪录.png" group-title="央视",CGTN 纪录
+http://hls.netlive.ggff.net/hls/cgtn纪录.m3u8
+
+教育
+http://hls.netlive.ggff.net/hls/cetv1.m3u8
+http://hls.netlive.ggff.net/hls/cetv2.m3u8
+http://hls.netlive.ggff.net/hls/cetv4.m3u8
+
+体育
+http://hls.netlive.ggff.net/hls/fyzq.m3u8
+http://hls.netlive.ggff.net/hls/wxty.m3u8
+http://hls.netlive.ggff.net/hls/jsty.m3u8
+http://hls.netlive.ggff.net/hls/gdty.m3u8
+
+#EXTINF:-1 tvg-name="chc动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CHC动作电影.png" group-title="数字",CHC动作电影
+http://hls.netlive.ggff.net/hls/dzdy.m3u8
+#EXTINF:-1 tvg-name="chc家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CHC家庭影院.png" group-title="数字",CHC家庭影院
+http://hls.netlive.ggff.net/hls/jtyy.m3u8
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CHC影迷电影.png" group-title="数字",CHC影迷电影
+http://hls.netlive.ggff.net/hls/ymdy.m3u8
+
+
 
 #央视（107.150.60.122网段，无法播放）
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV1.png" group-title="央视",CCTV-1 综合
@@ -1305,6 +1329,15 @@ http://107.150.60.122/live/szwshd.m3u8
 http://107.150.60.122/live/qhws.m3u8
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://107.150.60.122/live/xzws.m3u8
+
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV4K-white.png" group-title="央视",CCTV-4K 超高清
+http://107.150.60.122/live/cctv4k.m3u8
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV8K-white.png" group-title="央视",CCTV-8K 超高清
+http://107.150.60.122/live/cctv8k.m3u8
+
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/卡酷少儿.png" group-title="少儿",卡酷少儿
+http://107.150.60.122/live/btvkk.m3u8
+
 
 #央视（内蒙古呼和浩特移动，能播放，但是有的是延迟播放，暂时不再启用。）
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV1-white.png" group-title="央视",CCTV-1 综合
@@ -1647,3 +1680,162 @@ http://111.56.90.5/000000000000/7248678452522064966/1.m3u8
 http://111.56.90.5/000000000000/1000000005000266002/1.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://111.56.90.5/000000000000/1000000002000011619/1.m3u8
+
+
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/卡酷少儿.png" group-title="少儿",卡酷少儿
+http://111.56.90.5/000000000000/5000000011000265008/1.m3u8
+#EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/黑莓动画.png" group-title="少儿",黑莓动画
+http://111.56.90.5/000000000000/1000000004000021734/1.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/动漫秀场.png" group-title="少儿",动漫秀场
+http://111.56.90.5/000000000000/5000000011000031113/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱幼教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱幼教.png" group-title="少儿",iHOT爱幼教
+http://111.56.90.5/000000000000/6000000006000180630/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱玩具" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱玩具.png" group-title="少儿",iHOT爱玩具
+http://111.56.90.5/000000000000/6000000006000220630/1.m3u8
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CETV1.png" group-title="少儿",中国教育1
+http://111.56.90.5/000000000000/5000000002000002652/1.m3u8
+http://111.56.90.5/000000000000/6000000003000018981/1.m3u8
+http://111.56.90.5/000000000000/1000000002000027253/1.m3u8
+#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CETV2.png" group-title="少儿",中国教育2
+http://111.56.90.5/000000000000/1000000005000266004/1.m3u8
+http://111.56.90.5/000000000000/2000000003000000047/1.m3u8
+http://111.56.90.5/000000000000/5000000011000031201/1.m3u8
+#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CETV4.png" group-title="少儿",中国教育4
+http://111.56.90.5/000000000000/1000000005000025333/1.m3u8
+http://111.56.90.5/000000000000/5000000011000031126/1.m3u8
+http://111.56.90.5/000000000000/5000000006000012123/1.m3u8
+
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/魅力足球.png" group-title="体育",魅力足球
+http://111.56.90.5/000000000000/5000000011000031207/1.m3u8
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/劲爆体育.png" group-title="体育",劲爆体育
+http://111.56.90.5/000000000000/5000000002000029972/1.m3u8
+
+#EXTINF:-1 tvg-name="NEWTV超级体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV超级体育-HD.png" group-title="体育",NEWTV超级体育
+http://111.56.90.5/000000000000/1000000001000009601/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV武搏世界" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV武搏世界-HD.png" group-title="体育",NEWTV武搏世界
+http://111.56.90.5/000000000000/2000000003000000007/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱体育.png" group-title="体育",iHOT爱体育
+http://111.56.90.5/000000000000/6000000006000290630/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱赛车" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱赛车.png" group-title="体育",iHOT爱赛车
+http://111.56.90.5/000000000000/6000000006000240630/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱电竞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱电竞.png" group-title="体育",iHOT爱电竞
+http://111.56.90.5/000000000000/6000000006000230630/1.m3u8
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/游戏风云2.png" group-title="体育",游戏风云
+http://111.56.90.5/000000000000/5000000011000031114/1.m3u8
+
+#数字（求索）
+#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/求索生活-light.png" group-title="数字",求索生活
+http://111.56.90.5/000000000000/6000000002000003382/1.m3u8
+#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/求索科学-light.png" group-title="数字",求索科学
+http://111.56.90.5/000000000000/6000000002000032344/1.m3u8
+#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/求索纪录-light.png" group-title="数字",求索纪录
+http://111.56.90.5/000000000000/6000000002000032052/1.m3u8
+#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/求索动物-light.png" group-title="数字",求索动物
+http://111.56.90.5/000000000000/6000000002000010046/1.m3u8
+
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/黑莓电影.png" group-title="数字",黑莓电影
+http://111.56.90.5/000000000000/1000000004000019624/1.m3u8
+
+#数字（NEWTV 111.56.90.5）
+#EXTINF:-1 tvg-name="NEWTV超级电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV超级电影-HD.png" group-title="数字",NEWTV超级电影
+http://111.56.90.5/000000000000/1000000003000012426/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV中国功夫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV中国功夫-HD.png" group-title="数字",NEWTV中国功夫
+http://111.56.90.5/000000000000/2000000003000000009/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV动作电影-HD.png" group-title="数字",NEWTV动作电影
+http://111.56.90.5/000000000000/1000000004000018653/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV惊悚悬疑" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV惊悚悬疑-HD.png" group-title="数字",NEWTV惊悚悬疑
+http://111.56.90.5/000000000000/1000000004000024282/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV精品大剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV精品大剧-HD.png" group-title="数字",NEWTV精品大剧
+http://111.56.90.5/000000000000/1000000004000013968/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV超级电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV超级电视剧-HD.png" group-title="数字",NEWTV超级电视剧
+http://111.56.90.5/000000000000/1000000006000268003/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV家庭剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV家庭剧场-HD.png" group-title="数字",NEWTV家庭剧场
+http://111.56.90.5/000000000000/1000000004000008284/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV欢乐剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV欢乐剧场-HD.png" group-title="数字",NEWTV欢乐剧场
+http://111.56.90.5/000000000000/1000000005000266012/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV古装剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV古装剧场-HD.png" group-title="数字",NEWTV古装剧场
+http://111.56.90.5/000000000000/2000000003000000024/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV东北热剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV东北热剧-HD.png" group-title="数字",NEWTV东北热剧
+http://111.56.90.5/000000000000/1000000005000266013/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV爱情喜剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV爱情喜剧-HD.png" group-title="数字",NEWTV爱情喜剧
+http://111.56.90.5/000000000000/2000000003000000010/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV明星大片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV明星大片-HD.png" group-title="数字",NEWTV明星大片
+http://111.56.90.5/000000000000/2000000003000000016/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV年代大剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV1.png" group-title="数字",NEWTV年代大剧
+http://111.56.90.5/000000000000/1000000001000006197/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV军旅剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV军旅剧场-HD.png" group-title="数字",NEWTV军旅剧场
+http://111.56.90.5/000000000000/2000000003000000014/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV金牌综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV金牌综艺-HD.png" group-title="数字",NEWTV金牌综艺
+http://111.56.90.5/000000000000/1000000004000026167/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV超级综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV超级综艺-HD.png" group-title="数字",NEWTV超级综艺
+http://111.56.90.5/000000000000/1000000006000268002/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV精品纪录" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV精品纪录-HD.png" group-title="数字",NEWTV精品纪录
+http://111.56.90.5/000000000000/1000000004000013730/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV精品萌宠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV精品萌宠-HD.png" group-title="数字",NEWTV精品萌宠
+http://111.56.90.5/000000000000/1000000006000032328/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV精品综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV精品综合-HD.png" group-title="数字",NEWTV精品综合
+http://111.56.90.5/000000000000/1000000004000019008/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV军事评论" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV军事评论-HD.png" group-title="数字",NEWTV军事评论
+http://111.56.90.5/000000000000/2000000003000000022/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV潮妈辣婆" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV潮妈辣婆-HD.png" group-title="数字",NEWTV潮妈辣婆
+http://111.56.90.5/000000000000/2000000003000000018/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV农业致富" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV农业致富-HD.png" group-title="数字",NEWTV农业致富
+http://111.56.90.5/000000000000/2000000003000000003/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV怡伴健康" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV怡伴健康-HD.png" group-title="数字",NEWTV怡伴健康
+http://111.56.90.5/000000000000/1000000005000266011/1.m3u8
+#EXTINF:-1 tvg-name="NEWTV炫舞未来" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/NEWTV炫舞未来-HD.png" group-title="数字",NEWTV炫舞未来
+http://111.56.90.5/000000000000/1000000001000000515/1.m3u8
+
+#数字（iHOT 111.56.90.5）
+#EXTINF:-1 tvg-name="iHOT爱院线" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱院线.png" group-title="数字",iHOT爱院线
+http://111.56.90.5/000000000000/6000000006000030630/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱悬疑" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱悬疑.png" group-title="数字",iHOT爱悬疑
+http://111.56.90.5/000000000000/6000000006000050630/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱喜剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱喜剧.png" group-title="数字",iHOT爱喜剧
+http://111.56.90.5/000000000000/6000000006000010630/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱青春" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱青春.png" group-title="数字",iHOT爱青春
+http://111.56.90.5/000000000000/6000000006000100630/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱奇谈" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱奇谈.png" group-title="数字",iHOT爱奇谈
+http://111.56.90.5/000000000000/6000000006000270630/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱旅行" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱旅行.png" group-title="数字",iHOT爱旅行
+http://111.56.90.5/000000000000/6000000006000250630/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱历史" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱历史.png" group-title="数字",iHOT爱历史
+http://111.56.90.5/000000000000/6000000006000150630/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱浪漫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱浪漫.png" group-title="数字",iHOT爱浪漫
+http://111.56.90.5/000000000000/6000000006000040630/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱科学" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱科学.png" group-title="数字",iHOT爱科学
+http://111.56.90.5/000000000000/6000000006000160630/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱科幻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱科幻.png" group-title="数字",iHOT爱科幻
+http://111.56.90.5/000000000000/6000000006000020630/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱经典.png" group-title="数字",iHOT爱经典
+http://111.56.90.5/000000000000/6000000006000060630/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱怀旧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱怀旧.png" group-title="数字",iHOT爱怀旧
+http://111.56.90.5/000000000000/6000000006000260630/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱都市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱都市.png" group-title="数字",iHOT爱都市
+http://111.56.90.5/000000000000/6000000006000080630/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱动漫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱动漫.png" group-title="数字",iHOT爱动漫
+http://111.56.90.5/000000000000/6000000006000280630/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱谍战" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/iHOT爱谍战.png" group-title="数字",iHOT爱谍战
+http://111.56.90.5/000000000000/6000000006000070630/1.m3u8
+
+#数字（SiTV上海文广 111.56.90.5）
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/生活时尚.png" group-title="数字",生活时尚
+http://111.56.90.5/000000000000/5000000002000019634/1.m3u8
+#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/七彩戏剧-light.png" group-title="数字",七彩戏剧
+http://111.56.90.5/000000000000/5000000011000031116/1.m3u8
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/金色学堂.png" group-title="数字",金色学堂
+http://111.56.90.5/000000000000/5000000010000026105/1.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/欢笑剧场-light.png" group-title="数字",欢笑剧场
+http://111.56.90.5/000000000000/5000000007000010001/1.m3u8
+http://111.56.90.5/000000000000/5000000002000009455/1.m3u8
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/法治天地-light.png" group-title="数字",法治天地
+http://111.56.90.5/000000000000/9001547084732463424/1.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/都市剧场-light.png" group-title="数字",都市剧场
+http://111.56.90.5/000000000000/5000000011000031111/1.m3u8
+#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/乐游.png" group-title="数字",乐游频道
+http://111.56.90.5/000000000000/5000000011000031112/1.m3u8
+
+#EXTINF:-1 tvg-name="北京纪实" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京纪实科教.png" group-title="北京",北京纪实科教
+http://111.56.90.5/000000000000/1000000005000265020/1.m3u8
+http://111.56.90.5/000000000000/1000000001000001910/1.m3u8
+
