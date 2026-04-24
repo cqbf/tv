@@ -2,7 +2,6 @@
 
 #央视（111.63.117.13网段，16的字母线路失效，注意小写cctv不可以更改）
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV1-white.png" group-title="央视",CCTV-1 综合
-http://124.236.93.22:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.105.252.59/PLTV/4/224/3221228581/index.m3u8
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-1/1.m3u8
 http://111.63.117.13:6060/030000001001/cctv-1/1.m3u8
 http://111.63.117.13:6060/030000001000/CCTV-1-HD/CCTV-1-HD.m3u8
@@ -14,7 +13,6 @@ http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-2/1.m3u8
 http://111.63.117.13:6060/030000001001/cctv-2/1.m3u8
 http://111.63.117.13:6060/030000001000/G_CCTV-2/G_CCTV-2.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV3-white.png" group-title="央视",CCTV-3 综艺
-http://124.236.93.22:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.229/PLTV/4/224/3221228499/index.m3u8
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-3/1.m3u8
 http://111.63.117.13:6060/030000001001/cctv-3/1.m3u8
 http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
@@ -23,7 +21,6 @@ http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-4/1.m3u8
 http://111.63.117.13:6060/030000001001/cctv-4/1.m3u8
 http://111.63.117.13:6060/030000001000/CCTV-4/CCTV-4.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV5-white.png" group-title="央视",CCTV-5 体育
-http://124.236.93.22:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.202/PLTV/4/224/3221228502/index.m3u8
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-5/1.m3u8
 http://111.63.117.13:6060/030000001001/cctv-5/1.m3u8
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
@@ -232,44 +229,6 @@ http://60.10.139.113:8801/hls/97/index.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV17-white.png" group-title="央视",CCTV-17 农业
 http://60.10.139.113:8801/hls/98/index.m3u8
 
-#央视（107.150.60.122 网段）
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV1-white.png" group-title="央视",CCTV-1 综合
-http://107.150.60.122/live/cctv1hd.m3u8
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV2-white.png" group-title="央视",CCTV-2 财经
-http://107.150.60.122/live/cctv2hd.m3u8
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV3-white.png" group-title="央视",CCTV-3 综艺
-http://107.150.60.122/live/cctv3hd.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV4-white.png" group-title="央视",CCTV-4 国际
-http://107.150.60.122/live/cctv4hd.m3u8
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV5-white.png" group-title="央视",CCTV-5 体育
-http://107.150.60.122/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV6-white.png" group-title="央视",CCTV-6 电影
-http://107.150.60.122/live/cctv6hd.m3u8
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV7-white.png" group-title="央视",CCTV-7 军事
-http://107.150.60.122/live/cctv7hd.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV8-white.png" group-title="央视",CCTV-8 电视剧
-http://107.150.60.122/live/cctv8hd.m3u8
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV9-white.png" group-title="央视",CCTV-9 纪录
-http://107.150.60.122/live/cctv9hd.m3u8
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV10-white.png" group-title="央视",CCTV-10 科教
-http://107.150.60.122/live/cctv10hd.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV11-white.png" group-title="央视",CCTV-11 戏曲
-http://107.150.60.122/live/cctv11hd.m3u8
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV12-white.png" group-title="央视",CCTV-12 社会与法
-http://107.150.60.122/live/cctv12hd.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV13-white.png" group-title="央视",CCTV-13 新闻
-http://107.150.60.122/live/cctv13hd.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV14-white.png" group-title="央视",CCTV-14 少儿
-http://107.150.60.122/live/cctv14hd.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV15-white.png" group-title="央视",CCTV-15 音乐
-http://107.150.60.122/live/cctv15hd.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV16-white.png" group-title="央视",CCTV-16 奥林匹克
-http://107.150.60.122/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV17-white.png" group-title="央视",CCTV-17 农业农村
-http://107.150.60.122/live/cctv17hd.m3u8
-#EXTINF:-1 tvg-name="CCTV5P" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV5-white.png" group-title="央视",CCTV-5+ 体育赛事
-http://107.150.60.122/live/cctv5p.m3u8
-
 #央视（webview tv.CCTV.com 网段）
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV1-white.png" catchup="append" catchup-source="?stime=${(b)yyyyMMddHHmmss}&etime=${(e)yyyyMMddHHmmss}&type=lbacks" group-title="央视",CCTV-1 综合
 webview://https://tv.CCTV.com/live/cctv1/
@@ -345,9 +304,9 @@ webview://https://yangshipin.cn/tv/home?pid=600098637
 webview://https://yangshipin.cn/tv/home?pid=600001810
 
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV4K-white.png" group-title="央视",CCTV-4K 超高清
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001451/index.m3u8?streamid=69b8ad870d6e6b638349a2eb5d3c6e98&streamkey=0PV1gjFJAoweF3LBEa3Bs0tDJJ820W4wW1ZFaj9mvIJCTOb7YMJjyNipqSJ5XRwGMieXBE8k0nEcmgeD1GaGAG2QdDltcdT65Yz2RRyKTd82wMqT6&token=1775754026-64bf526cb923c04a-0-cf56d9188e3b064b963ed02898bf719d
 http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 http://107.150.60.122/live/cctv4k.m3u8
+
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV8K-white.png" group-title="央视",CCTV-8K 超高清
 http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
 http://107.150.60.122/live/cctv8k.m3u8
@@ -686,7 +645,7 @@ http://47.119.24.76:59093/849116810
 http://47.119.24.76:59093/947472502
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/海峡卫视.png" group-title="卫视",海峡卫视
 http://47.119.24.76:59093/849119120
-#EXTINF:-1 tvg-name="中国农林卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/中国农林卫视.png" group-title="卫视",中国农林卫视
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/中国农林卫视.png" group-title="卫视",农林卫视
 http://47.119.24.76:59093/956904896
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://47.119.24.76:59093/956923145
@@ -700,42 +659,6 @@ http://47.119.24.76:59093/961023778
 #卫视（其他补充）
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/浙江卫视.png" group-title="卫视",浙江卫视
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-
-#央视（107.150.60.122 网段）
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://107.150.60.122/live/hnwshd.m3u8
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/东方卫视.png" group-title="卫视",东方卫视
-http://107.150.60.122/live/dfwshd.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/浙江卫视.png" group-title="卫视",浙江卫视
-http://107.150.60.122/live/zjwshd.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/江苏卫视.png" group-title="卫视",江苏卫视
-http://107.150.60.122/live/jswshd.m3u8
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/重庆卫视.png" group-title="卫视",重庆卫视
-http://107.150.60.122/live/cqwshd.m3u8
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/东南卫视.png" group-title="卫视",东南卫视
-http://107.150.60.122/live/dnwshd.m3u8
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/广西卫视.png" group-title="卫视",广西卫视
-http://107.150.60.122/live/gxwshd.m3u8
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/湖北卫视.png" group-title="卫视",湖北卫视
-http://107.150.60.122/live/hbwshd.m3u8
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-http://107.150.60.122/live/lnwshd.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东卫视.png" group-title="卫视",山东卫视
-http://107.150.60.122/live/sdwshd.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/天津卫视.png" group-title="卫视",天津卫视
-http://107.150.60.122/live/tjwshd.m3u8
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/陕西卫视.png" group-title="卫视",陕西卫视
-http://107.150.60.122/live/snwshd.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/广东卫视.png" group-title="卫视",广东卫视
-http://107.150.60.122/live/gdwshd.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/深圳卫视.png" group-title="卫视",深圳卫视
-http://107.150.60.122/live/szwshd.m3u8
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/青海卫视.png" group-title="卫视",青海卫视
-http://107.150.60.122/live/qhws.m3u8
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/西藏卫视.png" group-title="卫视",西藏卫视
-http://107.150.60.122/live/xzws.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
-http://107.150.60.122/live/nfws.m3u8
 
 #卫视（webview yangshipin 网段）
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京卫视.png" group-title="卫视",北京卫视
@@ -804,28 +727,6 @@ webview://https://yangshipin.cn/tv/home?pid=600190403
 webview://https://yangshipin.cn/tv/home?pid=600152138
 
 
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京卫视4K.png" group-title="卫视",北京卫视4K
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001500/index.m3u8?streamid=20915ffd9b2848bf3604dfea93e5f344&streamkey=0bKBhLQXZpbdLg0IeEcP2ZWPg1LTpAxB7Ns2hHCcgm7Hn9QOXx5mdzLkAhJKIoLyZdrKRK0b96Ukb7NWPMk8v25CQ52qBH9Bj4wiDnbyCgkgvAET5TyGUz5ZsSJWA&token=1775753726-024ff669b48c4157-0-8e77105f63898493d3c467122bd6c61b
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/河北卫视4K.png" group-title="卫视",河北卫视4K
-https://event.pull.hebtv.com:443/live/live101.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东卫视4K.png" group-title="卫视",山东卫视4K
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001582/index.m3u8?streamid=94f01afe37551c1ea2aa8e32b1d80c9e&streamkey=02U7MIyTadx5OTcKlSyxdK4qTKlpSvCTUPE2zgcJdEsqHA2O3f13CoJjAfzz3d14J4OypqShJU0kfbYNPAHbBZAS2bXNyeerV9kJJI3MN0k50CjE6gCJwN1kvRxvyYQ&token=1775753750-acc2de38014efdf9-0-dd10031ed1bb5507520703b21b0a8ea1
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/江苏卫视4K.png" group-title="卫视",江苏卫视4K
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001700/index.m3u8?streamid=375dbc290331f86f70689c85cd16e1eb&streamkey=0bKBhLQXZpbdLfLhoAXuztnCDfMXdd4n07vg4pph65xvYWlCuc14sVFHPUrksCLNrcfjZ3zgavKeagiTWWC0n98ZVoRZHOQvtrgf2tICTK21H0fIUPAz8AGrGs3od&token=1775753773-d448db8069e56147-0-aefb335c34f6760dc7eee7e141148fe9
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/东方卫视4K.png" group-title="卫视",东方卫视4K
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001641/index.m3u8?streamid=b8c707e2ca95b85511f6c50c9638128b&streamkey=02U7MIyTadx5OTXNJEjFJmQmUn4bp0PhoxMJfhTAID0gbSqfQlA0VQEvrm6xQHFNpKIMax9c7MaZy1Lt63okLjZgsFpFdGAsmvKF3lkRczJ0ixR1wD7yZQ7H2ACWtAy&token=1775753702-3bcbeaa16096b227-0-eb74a70d3a58823742daf5dc5540bf53
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/湖南卫视4K.png" group-title="卫视",湖南卫视4K
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001710/index.m3u8?streamid=1d2cff60e497ead8198445a199d19583&streamkey=02BjlnRKVk4w1OvRhs9gjYN8D7sy318Y48hqzq9Dk6yaqnigFWeJpjR6zUrHGZh3m4FBMHRSBFfR1q7iX54dkvL5GLj3orlv5RnPKfGfcJZlpHhbv0636oNhmE2&token=1775753606-591a13b36d4b0115-0-df68fe8117601a06ca674b46729f8b88
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/浙江卫视4K.png" group-title="卫视",浙江卫视4K
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001720/index.m3u8?streamid=a5b6e60170ee8c69290def1c2fe00cc8&streamkey=02U7MIyTadx5OTjF56kHdKY3UZqMWfthT5Igq2hTphpRVq8kfjvVI9IxgmuhZreNNzSzXOlbyULSgLF9C1ViY6cXKhd47RRAcii4FKVhtdUbTRCeWx1jpzHYogA3FIr&token=1775753674-abd8233bbfe45ffb-0-648e070f12df7f9a0a0bb8578257c4f9
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/广东卫视4K.png" group-title="卫视",广东卫视4K
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001540/index.m3u8?streamid=33aeafbb59f2bcb1877c3a8229c0135b&streamkey=0AGMO6LiBIxyH4UUBGZSecN0VLptakvTRcCBdKPsgZ5LvjIJtZ6lVmakn2xtYKNlvaZmadVnIW0Ur7nROOy5lbmQHqDT5XsDIAlz3aket1LK13kwaGDOHJf9U7zQSS6b&token=1775753804-a378e51446e90f3d-0-831fa09b2b3eafcffbd9550a9e04cf4d
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/深圳卫视4K.png" group-title="卫视",深圳卫视4K
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001521/index.m3u8?streamid=2af9bbae55f64f373a94440b8bb0a0bd&streamkey=02U7MIyTadx5OTup7GZ3iSHAopd9liOmB72zroTGRG1Jp8vSozGwEQmJuI7IuQmHiIeLm8w2myHRsiOBiLaXV3LghOO5w2e0q0kHQpwDw3H4zpbcWSkedAr4dCeJHEJ&token=1775753828-0fcf36ad56880609-0-56827b1584e31c551b4ec6d3710aa355
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/四川卫视4K.png" group-title="卫视",四川卫视4K
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001690/index.m3u8?streamid=401bf692a1a8b91298f26077d53316d6&streamkey=0bKBhLQXZpbdLfnJtHeIv3eieuGyrEEeNqyvzRCSRSCqs193VuUbmVUE5aodop0npzGwC8hbmN0F0NY5vcmjAg84IHS5WVRV6qWOjmQZVbbjTbV3HqPCDaExG27zC&token=1775753857-d81f3851a1720bc1-0-e40ae8788e6f2d25c955a6a331b76a83
-
-
 
 #少儿
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV14-white.png" group-title="少儿",CCTV-14 少儿
@@ -841,7 +742,6 @@ http://4px369674fn3.vicp.fun:7088/udp/225.1.8.35:8000
 http://r.xace.fun:4999/udp/239.3.1.189:8000
 http://107.150.60.122/live/btvkk.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/金鹰卡通.png" group-title="少儿",金鹰卡通
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001460/index.m3u8?streamid=6bd8e7571b60048f177f05de68f25f68&streamkey=02BjlnRKVk4w1OwEaUgY1t1O1O3FdNUDM3yhYoLzsACpEOVr9Rv92DXqLBL42I1rS8bIvOD9avXfCke1PfxzYP8xx1jd1GtZGHup4cbzrRcTJ27obK6MLcfIB93&token=1775755500-2aca31c8a840e6ea-0-d9e4fe66a9315160f546859e8fc292a4
 http://111.63.117.13:6060/030000001000/G_JINYING/G_JINYING.m3u8
 http://39.165.39.49:85/tsfile/live/1156_1.m3u8?key=txiptv&playlive=0&authid=0
 webview://https://live.mgtv.com/?channelId=287
@@ -857,11 +757,10 @@ http://39.165.39.49:85/tsfile/live/1158_1.m3u8?key=txiptv&playlive=0&authid=0
 http://38.75.136.137:98/gslb/dsdqpub/gdjjkt.m3u8?auth=testpub
 webview://https://www.gdtv.cn/tvChannelDetail/66
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/哈哈炫动2.png" group-title="少儿",哈哈炫动
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001232/index.m3u8?streamid=a6d62b84ef0ba02ea4216286b3e49b2c&streamkey=0WsC3jqv5pZMcU2eOdmsWnqMCnogzG60IFU9LCD7xs3h7IGwij9FXgqnzWmfOdWp2h8d8FZSjaEu0JNvkRN35NGihB4dgmzLS5GdlKxFQPQ2Vi25vLC7XM9Oo&token=1775755430-6384bf6e65c6ef01-0-c1e366fb056c465e16d81c48a83d5b6d
 http://38.75.136.137:98/gslb/dsdqpub/xdkthd.m3u8?auth=testpub
 webview://https://live.kankanews.com/huikan?id=9
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/动漫秀场.png" group-title="少儿",动漫秀场
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001196/index.m3u8?streamid=a928725eedc3bcd4c7b321edbf6bdac7&streamkey=0bKBhLQXZpbdLmOvWgXvyiJ8MAQs6MMOYBJQXZX4ZTOiX6CuYWbDroLoIm5F81quokzMxvZa4CKsEJnmjm1Sri5iUB8VwgCviXjvTXv8JlLsVADE8pNMphk0QkVPu&token=1775754706-28866faee0dcb200-0-fd1f2aa09b3733aff5b77da5ad0f5115
+
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/浙江少儿.png" group-title="少儿",浙江少儿
 https://zwebl02.cztv.com/live/channel081080Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-668e5a5a00e74f14f426cc55210a4ff9
 https://zwebl02.cztv.com/live/channel08720Pnew.m3u8?auth_key=2524708799-ca798ce95dda85537a46f2eb5be537be-0-636f6d76a410a8bad3e323dc1770cfca
@@ -882,7 +781,6 @@ http://47.119.24.76:59093/609154353
 webview://https://www.sdetv.com.cn/edu/pc/live/index.html
 webview://https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CETV1.png" group-title="少儿",中国教育1
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001020/index.m3u8?streamid=f4b36de9e0ed50412e1fe3fbed4262a8&streamkey=06Au6xOXDlDEab661Jj4JZtB5rtbWJNHTgnSAVTvFlBNzzUBYjIEDgT9mS4Z4uWlLecUluW7TiiSPKV9p8qg7uORC8NHkZGp2wYI0D2H51xbeR6S&token=1776221422-a453c0c847327165-0-68e4509e1d03b7b6d7c3b8c927e72a7a
 http://111.63.117.13:6060/030000001000/G_CETV-1/G_CETV-1.m3u8
 http://39.165.39.49:85/tsfile/live/1090_1.m3u8?key=txiptv&playlive=0&authid=0
 http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
@@ -898,7 +796,6 @@ webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff
 http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
 http://107.150.60.122/live/cetv3.m3u8
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CETV4.png" group-title="少儿",中国教育4
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001348/index.m3u8?streamid=37d60172a2bbb0d41f072d29213e6264&streamkey=06Au6xOXDlDEaapIVa7cpJhfzHs3AaqeIMjrUSQi1ZhQNbtlQYu45U2p26oN78H5M54F7fWWjiWa5JbgizqfzftqDt06P5Nj3CWuFMU3yFOgiX5n&token=1776221467-8fa99b3b879bacd8-0-b09602326b577119089417591328a91d
 http://111.63.117.13:6060/030000001000/G_CETV-4/G_CETV-4.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub
 http://47.119.24.76:59093/923287339
@@ -908,21 +805,17 @@ webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/重温经典.png" group-title="少儿",重温经典
 http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CHC动作电影.png" group-title="少儿",CHC动作电影
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001580/index.m3u8?streamid=87c13b6e841ed5039d4c2ce8f266f9ef&streamkey=0gNYRWDeQgJcsRRVxgX7CXzeeNfbK5b6jgfx2dUMMXpSOjJ6HaVTnXNZIvUs7ZjMVIipZGwSqsLBoB1csVGKjUersUPcVyHJvvzH9lv6u5pQ0BcM1SFtompQvPNMFD09b&token=1775754577-a16c17c5548559fa-0-23e1bb39b278d07d81f7441cf04c41ce
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 http://47.119.24.76:59093/644368714
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CHC影迷电影.png" group-title="少儿",CHC影迷电影
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001581/index.m3u8?streamid=af62547c4c8be0ef4a658f4b4853388f&streamkey=0AGMO6LiBIxyH55HrvMarEqxYYHHBsBI1AS8pWYcug6hIz6JcOuFRUYGPeeB6DUdYBhCZW4VbAvlr77F1jurxYfAy8mix71ZcG7gxzAeeVpjSNe4Slu1Xui5R21MiDUL&token=1775754555-63098edc022aecb0-0-61ebd04bf297352038785125878e0b8f
 http://38.75.136.137:98/gslb/dsdqpub/chchd.m3u8?auth=testpub
 http://47.119.24.76:59093/952383261
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CHC家庭影院.png" group-title="少儿",CHC家庭影院
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001570/index.m3u8?streamid=136f530a61d26dc0f670f39f05291586&streamkey=0gNYRWDeQgJcsQzJtwy5YfNuNXxp8JTqLQoubxJdaerqPImB5Zqld0YLrCikCEEBNzsaCMzgiZxPacL6jVLMJd0KpMDkxYV4BhGlwYU0ju7r1WxWgQER2jIf9CgZaG3mq&token=1775754529-ed2502f4a1a9b5b0-0-ab6ce23e1854b42f8e2b31cb58021423
 http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 http://47.119.24.76:59093/644368373
 
 #体育
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV5-white.png" group-title="体育",CCTV-5 体育
-http://124.236.93.22:2380/tptvho.mobaibox.com/hwcdnbacksourceflag_223.110.243.202/PLTV/4/224/3221228502/index.m3u8
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-5/1.m3u8
 http://111.63.117.13:6060/030000001001/cctv-5/1.m3u8
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
@@ -941,19 +834,15 @@ http://111.63.118.98:6060/030000001000/CCTV-16-HD/CCTV-16-HD.m3u8
 http://111.63.118.99:6060/030000001000/CCTV-16-HD/CCTV-16-HD.m3u8
 http://111.63.118.100:6060/030000001000/CCTV-16-HD/CCTV-16-HD.m3u8
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/cctv-16/1.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV16-white.png" group-title="央视",CCTV-16 4K 奥林匹克
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8?streamid=a78e16d1a56172e5525dedde279787a3&streamkey=070kmnWlSO6tVxvh6JyoORGIRdEtU2N6uMhBr52XFXMlpDP5cJR3WbAE4XDUyMtM85fygRhPAwq9wyn0AD7vg5QKiMGxk82vdtaBG0RYT7p2mBDXWyty&token=1775753992-d3736074ec706d13-0-d4be0b2d62639f66eea98eb8ecb876a6
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/CCTV-风云足球-white.png" group-title="体育",风云足球
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001590/index.m3u8?streamid=927ac8a2bbea16a44fbdc8cd59deabc8&streamkey=0WsC3jqv5pZMcVlxFBNnufmiOCXFZigfn61ogjSwht3bqXevILtdE9S00t1S31TUcNtpNMycyrjLcmhMwenwuh8FAxcPIPYTEQUX1MDXgmTdP03V9WzCfa1iP&token=1775754113-ea7ee6d53b99caad-0-c93511c176fc0c319dc73b7c39050be7
 http://154.17.19.44:7088/udp/239.11.0.59:1025
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 http://111.61.236.247:9081/hls/58/index.m3u8
 #EXTINF:-1 tvg-name="北京体育休闲" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京体育休闲.png" group-title="体育",北京体育休闲
+http://114.242.62.109:888/hls/22/index.m3u8
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.23:8002
 http://r.xace.fun:4999/udp/239.3.1.243:8000
-http://114.242.62.109:888/hls/22/index.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/五星体育.png" group-title="体育",五星体育
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001018/index.m3u8?streamid=5d17da390f8e4805aae4a71868d4ef6c&streamkey=01vY5fRxC8VyKg0PICr0SVkCGXpCWCmlVyXqG8bUF7IEud8pEwewFuJf6bh0h8a6SGm05RZ7OONZ3PbgJIxHCHprQKAhhj01bBukHFRvFGMefpNSbyD2pFn&token=1775755189-d5b13aa9f290011f-0-5ad7b909aad65e335d8f5ca0ef8fad49
 https://bp-livewxtytx.bestv.cn/live/wxty.ts
 http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 https://cdn15.163189.xyz/163189/9c893bb003e1c7de?$1920x1080
@@ -1155,7 +1044,7 @@ http://anfeind1.kmdns.net:19999/migunohosts.php?Contentid=3000000020000011522
 
 #地方（北京）
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京卫视4K.png" group-title="北京",北京卫视4K
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001500/index.m3u8?streamid=20915ffd9b2848bf3604dfea93e5f344&streamkey=0bKBhLQXZpbdLg0IeEcP2ZWPg1LTpAxB7Ns2hHCcgm7Hn9QOXx5mdzLkAhJKIoLyZdrKRK0b96Ukb7NWPMk8v25CQ52qBH9Bj4wiDnbyCgkgvAET5TyGUz5ZsSJWA&token=1775753726-024ff669b48c4157-0-8e77105f63898493d3c467122bd6c61b
+
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京卫视.png" group-title="北京",北京卫视
 http://39.165.39.49:85/tsfile/live/1130_1.m3u8?key=txiptv&playlive=0&authid=0
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/beijingstv/1.m3u8
@@ -1166,33 +1055,33 @@ http://111.63.118.100:6060/030000001001/beijingstv/1.m3u8
 http://111.63.117.13:6060/030000001000/G_BEIJING/G_BEIJING.m3u8
 webview://https://www.brtn.cn/btv/btvsy_index?channel=北京卫视
 #EXTINF:-1 tvg-name="北京纪实" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京纪实科教.png" group-title="北京",北京纪实科教
+http://114.242.62.109:888/hls/19/index.m3u8
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.105:8002
 http://r.xace.fun:4999/udp/239.3.1.115:8000
-http://114.242.62.109:888/hls/19/index.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京新闻.png" group-title="北京",北京新闻
+http://114.242.62.109:888/hls/25/index.m3u8
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.83:8000
 http://r.xace.fun:4999/udp/239.3.1.159:8000
-http://114.242.62.109:888/hls/25/index.m3u8
 #EXTINF:-1 tvg-name="北京文艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京文艺.png" group-title="北京",北京文艺
+http://114.242.62.109:888/hls/18/index.m3u8
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.22:8002
 http://r.xace.fun:4999/udp/239.3.1.242:8000
-http://114.242.62.109:888/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="北京影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京影视.png" group-title="北京",北京影视
+http://114.242.62.109:888/hls/20/index.m3u8
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.82:8000
 http://r.xace.fun:4999/udp/239.3.1.158:8000
-http://114.242.62.109:888/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京财经.png" group-title="北京",北京财经
+http://114.242.62.109:888/hls/21/index.m3u8
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.106:8002
 http://r.xace.fun:4999/udp/239.3.1.116:8000
-http://114.242.62.109:888/hls/21/index.m3u8
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京生活.png" group-title="北京",北京生活
+http://114.242.62.109:888/hls/23/index.m3u8
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.108:8002
 http://r.xace.fun:4999/udp/239.3.1.117:8000
-http://114.242.62.109:888/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="北京国际" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京国际.png" group-title="北京",北京国际
+http://114.242.62.109:888/hls/27/index.m3u8
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.131:8002
 http://r.xace.fun:4999/udp/239.3.1.235:8000
-http://114.242.62.109:888/hls/27/index.m3u8
 
 #EXTINF:-1 tvg-name="北京IPTV4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/北京4K超清.png" group-title="北京",北京4K超清
 http://4px369674fn3.vicp.fun:7088/udp/225.1.8.211:8002
@@ -1249,7 +1138,7 @@ webview://https://www.hebtv.com/19/19js/st/xdszb/index.shtml?index=6
 
 #地方（山东）
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东卫视4K.png" group-title="山东",山东卫视4K
-https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001582/index.m3u8?streamid=94f01afe37551c1ea2aa8e32b1d80c9e&streamkey=02U7MIyTadx5OTcKlSyxdK4qTKlpSvCTUPE2zgcJdEsqHA2O3f13CoJjAfzz3d14J4OypqShJU0kfbYNPAHbBZAS2bXNyeerV9kJJI3MN0k50CjE6gCJwN1kvRxvyYQ&token=1775753750-acc2de38014efdf9-0-dd10031ed1bb5507520703b21b0a8ea1
+
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/cqbf/tv/main/logo/山东卫视2.png" group-title="山东",山东卫视
 http://39.165.39.49:85/tsfile/live/1133_1.m3u8?key=txiptv&playlive=0&authid=0
 http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/shandongstv/1.m3u8
