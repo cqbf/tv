@@ -2,13 +2,15 @@
  [`https://gh-proxy.com/`](https://gh-proxy.com/)  [`https://ghproxy.net/`](https://ghproxy.net/)  [`https://ghfast.top/`](https://ghfast.top/) 
 
 **直播源转换**  
-`1.`[`https://xoxo.wang`](https://xoxo.wang)  
-`2.`[`https://custom-m3u.vercel.app/txt2m3u.html`](https://custom-m3u.vercel.app/txt2m3u.html)  
-`3.`[`https://www.judy.xx.kg/lives.php`](https://www.judy.xx.kg/lives.php)  
+0️⃣ http://ip.0839bbs.cn//plugin.php?id=freeaddon_zhibo:freeaddon_zhibo  好用  
+1️⃣ https://custom-m3u.vercel.app/txt2m3u.html  txt转m3u  
+2️⃣ https://convert.iptv365.org  m3u转txt  
+3️⃣ https://xoxo.wang  带tvg-id，但卫视分组有问题  
+4️⃣ https://www.judy.xx.kg/lives.php  去重 有遗漏  
 
 **常用图标库**  
-`1.`[`wanglindl`](https://github.com/wanglindl/TVlogo) `频道较全，整理清晰，已经停更`  
-`2.`[`fanmingming`](https://github.com/fanmingming/live/tree/main/tv) `代理地址:` `https://live.fanmingming.cn/tv/CCTV1.png`  
+`1.`[`wanglindl`](https://github.com/wanglindl/TVlogo)  [`taksssss 接力`](https://github.com/taksssss/TVlogo) `频道较全，整理清晰，都已经停更`  
+`2.`[`fanmingming`](https://github.com/fanmingming/live/tree/main/tv) `代理地址:` [`https://live.fanmingming.cn/tv/CCTV1.png`](https://live.fanmingming.cn/tv/CCTV1.png)   
 `3.`[`kakaxi-1`](https://github.com/kakaxi-1/IPTV/tree/main/LOGO) `更新及时，淘系列，睛彩频道，补充精彩影视`  
 `4.`[`drangjchen`](https://github.com/drangjchen/IPTV/tree/main/Logo) `NewTV浅色、iHOT首选；央卫、求索深浅`  
 `5.`[`echolin73`](https://github.com/echolin73/logo/tree/main/tvg-logo) `补充山西卫视、BesTV、红牛；央视深色备用`  
@@ -29,6 +31,6 @@
 `4.`https://develop202.github.io/migu_video/interface.txt `咪咕系列较多`  
 `5.`https://github.com/Supprise0901/TVBox_live/blob/main/live.txt `个别台可用`  
 `6.`https://github.com/xcpab/tvlive/blob/main/webview.txt `较全的webview`  
-
+`7.`https://github.com/jia070310/4K-IPTV-M3U `各地txt/m3u`
 
 
